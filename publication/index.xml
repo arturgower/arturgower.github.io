@@ -11,6 +11,24 @@
     <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Learning about random media from near-surface backscattering: using machine learning to measure particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
+      <link>https://arturgower.github.io/publication/multi-species/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/multi-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Initial stress symmetry and its applications in elasticity</title>
       <link>https://arturgower.github.io/publication/stress-symmetry-2015/</link>
       <pubDate>Fri, 07 Apr 2017 21:04:51 +0100</pubDate>

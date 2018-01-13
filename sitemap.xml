@@ -5,6 +5,51 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/post/wing_faults/</loc>
+      <lastmod>2018-01-13T20:57:07+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/post/train/</loc>
+      <lastmod>2018-01-13T20:40:02+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/post/optimal-cables/</loc>
+      <lastmod>2018-01-13T20:25:45+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/publication/learning_backscattering/</loc>
+      <lastmod>2018-01-13T20:08:40+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/publication/multi-species/</loc>
+      <lastmod>2018-01-13T19:53:40+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/publication/stress-symmetry-2015/</loc>
       <lastmod>2017-04-07T21:04:51+01:00</lastmod>
     </url>
@@ -69,7 +114,7 @@
     <url>
     
       <loc>https://arturgower.github.io/publication_types/2/</loc>
-      <lastmod>2017-04-07T21:04:51+01:00</lastmod>
+      <lastmod>2018-01-13T20:08:40+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -106,14 +151,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/project/wing-fault/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/elasticity/</loc>
       <priority>0</priority>
     </url>
@@ -131,7 +168,16 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/project/industry/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/tags/industry/</loc>
+      <lastmod>2018-01-13T20:57:07+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -176,6 +222,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/optimisation/</loc>
+      <lastmod>2018-01-13T20:57:07+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -195,7 +242,7 @@
     <url>
     
       <loc>https://arturgower.github.io/publication_types/</loc>
-      <lastmod>2017-04-07T21:04:51+01:00</lastmod>
+      <lastmod>2018-01-13T20:08:40+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -226,22 +273,6 @@
       <loc>https://arturgower.github.io/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/project/umbilical/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/project/train/</loc>
     </url>
     
   
