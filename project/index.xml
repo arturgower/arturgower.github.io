@@ -8,7 +8,9 @@
     <language>en-gb</language>
     <copyright>&amp;copy; 2017 Artur L Gower</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://arturgower.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Multiple Scattering</title>
@@ -16,27 +18,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
-      <description>&lt;!-- [header] --&gt;
-
-&lt;!-- image = &#34;headers/wave90.png&#34;
-caption = &#34;My caption 😄&#34; --&gt;
-
-&lt;p&gt;I am currently working on multiply scattering in random media. See example video below!&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;../img/gifs/combined_wave.gif&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-</description>
+      <description>I am currently working on multiply scattering in random media. See example video below!
+ Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.   </description>
     </item>
     
     <item>
@@ -45,7 +28,9 @@ caption = &#34;My caption 😄&#34; --&gt;
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/industry/</guid>
-      <description></description>
+      <description>img { float: right; }  -- The projects here are come from commercial and industrial challenges.
+  Tracking train tracks How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.
+  Designing a collection of cables How to design a collection of cables to be both robust and flexible?</description>
     </item>
     
     <item>
