@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Mon, 26 Feb 2018 21:47:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Surface waves and instabilities</title>
+      <link>https://arturgower.github.io/project/surface-solid/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/surface-solid/</guid>
+      <description>a surface wave or wrinkle.   -- Summary Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are
+ will give us greater control over surface waves or forming textured surfaces (using surface wrinkles). use these surface waves and surface wrinkles to measure biological materials.</description>
+    </item>
     
     <item>
       <title>Entropy GO</title>
@@ -37,18 +47,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/industry/</guid>
-      <description>img { float: right; }  -- The projects here are come from commercial and industrial challenges.
-  Tracking train tracks How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.
-  Designing a collection of cables How to design a collection of cables to be both robust and flexible?</description>
+      <description>img { float: right; }  -- Examples The projects below come from commercial and industrial challenges.
+  Tracking train tracks How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.    The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.</description>
     </item>
     
     <item>
-      <title>Initial stress in elasticity</title>
+      <title>The mechanics of soft solids</title>
       <link>https://arturgower.github.io/project/initial-stress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/initial-stress/</guid>
-      <description></description>
+      <description>Most of my work on elastic solids has been on constitutive equations, that is, mathematically describing the different components of a solid, and how these effect the forces and deformations. With the two main themes being stressed solids and fibre-reinforced solids. I have also explored how to use waves and instabilities to characterise solids.
+Initially stressed solids The driving question is how to mathematically describe the mechanical response of residually stressed solids?</description>
     </item>
     
   </channel>

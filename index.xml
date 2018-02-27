@@ -11,6 +11,84 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Surface waves and instabilities</title>
+      <link>https://arturgower.github.io/project/surface-solid/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/surface-solid/</guid>
+      <description>
+
+&lt;!-- 
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/surface-wave.jpeg&#34; alt=&#34;a surface wave or wrinkle.&#34; width=&#34;50%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        a surface wave or wrinkle.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+ --&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/WaveFront.jpeg&#34; alt=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34; width=&#34;70%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34; width=&#34;70%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Entropy GO</title>
       <link>https://arturgower.github.io/project/entropy_go/</link>
       <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
@@ -20,96 +98,191 @@
     </item>
     
     <item>
-      <title>Detecting faults on a wing</title>
-      <link>https://arturgower.github.io/post/wing_faults/</link>
-      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      <title>Learning about random media from near-surface backscattering: using machine learning to measure particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/post/wing_faults/</guid>
-      <description>&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
-
-&lt;p&gt;&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;./img/ReconstructedReal.png&#34;/&gt;
- 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;./img/ReconstructedReal2.png&#34; /&gt;
-    
+      <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    &lt;a href=&#34;https://github.com/jondea/MultipleScattering.jl&#34;&gt;
+        &lt;img src=&#34;./img/backscatter.jpg&#34; width=&#34;70%&#34; /&gt;
+    &lt;/a&gt;
     
 &lt;/figure&gt;
-&lt;/p&gt;
 
-&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;./pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;./img/CoefficientsWithErrors.png&#34;/&gt;
-&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;./img/ReconstructedReal3.png&#34;/&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Tracking train tracks</title>
-      <link>https://arturgower.github.io/post/train/</link>
-      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
+      <link>https://arturgower.github.io/publication/multi-species/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/post/train/</guid>
-      <description>&lt;p&gt;
-&lt;figure &gt;
+      <guid>https://arturgower.github.io/publication/multi-species/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/1712.05427&#34;&gt;
+        &lt;img src=&#34;./img/multispecies.jpg&#34; width=&#34;80%&#34; /&gt;
+    &lt;/a&gt;
     
-        &lt;img src=&#34;./img/gifs/train.gif&#34; /&gt;
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/virtual.jpg&#34; alt=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34; width=&#34;80%&#34; /&gt;
     
     
     &lt;figcaption&gt;
-        &lt;h4&gt;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&lt;/h4&gt;
+        &lt;p&gt;
+        Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>A new restriction for initially stressed elastic solids</title>
+      <link>https://arturgower.github.io/publication/stress-objectivity/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    &lt;a href=&#34;https://arxiv.org/abs/1608.05828&#34;&gt;
+        &lt;img src=&#34;./img/uniaxial.png&#34; alt=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34; width=&#34;70%&#34; /&gt;
+    &lt;/a&gt;
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Oblique Wrinkles</title>
+      <link>https://arturgower.github.io/publication/oblique-wrinkles/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/FiberBucklingSolution.jpeg&#34; alt=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34; width=&#34;70%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://arturgower.github.io/talk/example-talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/talk/example-talk/</guid>
+      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</title>
+      <link>https://arturgower.github.io/publication/tube-morphology/</link>
+      <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    
+        &lt;img src=&#34;./img/tube-table.png&#34; alt=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34; width=&#34;100%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Scattering</title>
+      <link>https://arturgower.github.io/project/multiple-scattering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
+      <description>&lt;!-- [header] --&gt;
+
+&lt;!-- image = &#34;headers/wave90.png&#34;
+caption = &#34;My caption 😄&#34; --&gt;
+
+&lt;p&gt;I am currently working on multiply scattering in random media. See example video below!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;./img/gifs/combined_wave.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.&lt;/h4&gt;
         
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
 
-&lt;!-- width=&#34;220&#34; --&gt;
-  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
-&lt;p&gt;
-    To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&amp;rsquo;s location.
-&lt;/p&gt;&lt;/p&gt;
-
-&lt;p&gt;
-    At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
-
-&lt;/p&gt;
-
-&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;
- &lt;img src=&#34;./img/alpha_error.png&#34;&gt;
- 
-&lt;figure &gt;
-    
-        &lt;img src=&#34;./img/beta_error.png&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;h4&gt;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&lt;/h4&gt;
-        
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-&lt;!--
-On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
---&gt;
-
-  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
-    &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
-&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>The art of cable arranging</title>
-      <link>https://arturgower.github.io/post/optimal-cables/</link>
-      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/umbilical/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/post/optimal-cables/</guid>
+      <guid>https://arturgower.github.io/publication/umbilical/</guid>
       <description>
 
-&lt;h2 id=&#34;how-to-design-a-collection-of-cables-to-be-both-robust-and-flexible&#34;&gt;How to design a collection of cables to be both robust and flexible?&lt;/h2&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
 &lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
 
@@ -150,64 +323,24 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
     </item>
     
     <item>
-      <title>Learning about random media from near-surface backscattering: using machine learning to measure particle size and concentration</title>
-      <link>https://arturgower.github.io/publication/learning_backscattering/</link>
-      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
+      <link>https://arturgower.github.io/publication/homeostasis-stress/</link>
+      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
-      <description></description>
-    </item>
+      <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
     
-    <item>
-      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
-      <link>https://arturgower.github.io/publication/multi-species/</link>
-      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/publication/multi-species/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Initial stress symmetry and its applications in elasticity</title>
-      <link>https://arturgower.github.io/publication/stress-symmetry-2015/</link>
-      <pubDate>Fri, 07 Apr 2017 21:04:51 +0100</pubDate>
-      
-      <guid>https://arturgower.github.io/publication/stress-symmetry-2015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example Talk</title>
-      <link>https://arturgower.github.io/talk/example-talk/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/talk/example-talk/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Multiple Scattering</title>
-      <link>https://arturgower.github.io/project/multiple-scattering/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
-      <description>&lt;!-- [header] --&gt;
-
-&lt;!-- image = &#34;headers/wave90.png&#34;
-caption = &#34;My caption 😄&#34; --&gt;
-
-&lt;p&gt;I am currently working on multiply scattering in random media. See example video below!&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;./img/gifs/combined_wave.gif&#34; /&gt;
+        &lt;img src=&#34;./img/wapa.jpg&#34; alt=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34; width=&#34;60%&#34; /&gt;
     
     
     &lt;figcaption&gt;
-        &lt;h4&gt;Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.&lt;/h4&gt;
+        &lt;p&gt;
+        Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
         
+            
+        
+        &lt;/p&gt; 
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
@@ -216,91 +349,79 @@ caption = &#34;My caption 😄&#34; --&gt;
     </item>
     
     <item>
-      <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
-      <link>https://arturgower.github.io/publication/train/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Higher-order reverse automatic differentiation with emphasis on the third-order</title>
+      <link>https://arturgower.github.io/publication/third-order-ad/</link>
+      <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/publication/train/</guid>
+      <guid>https://arturgower.github.io/publication/third-order-ad/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Industrical Mathematics</title>
-      <link>https://arturgower.github.io/project/industry/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Initial stress symmetry and its applications in elasticity</title>
+      <link>https://arturgower.github.io/publication/stress-symmetry-2015/</link>
+      <pubDate>Wed, 07 Oct 2015 21:04:51 +0100</pubDate>
       
-      <guid>https://arturgower.github.io/project/industry/</guid>
+      <guid>https://arturgower.github.io/publication/stress-symmetry-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</title>
+      <link>https://arturgower.github.io/publication/fibre-wrinkle/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
       <description>
 
-&lt;!-- &lt;style&gt;
-img {
-    float: right;
-}
-&lt;/style&gt; --&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;The projects here are come from commercial and industrial challenges.&lt;/p&gt;
-
+&lt;p&gt;When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.
 
 &lt;figure class=&#34;alignright&#34;&gt;
-    &lt;a href=&#34;./post/train&#34;&gt;
-        &lt;img src=&#34;./img/pics/train_tracks.jpg&#34; width=&#34;60%&#34; /&gt;
-    &lt;/a&gt;
+    
+        &lt;img src=&#34;./img/gifs/Shearing.gif&#34; alt=&#34;When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres. &#34; width=&#34;70%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres. 
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
     
 &lt;/figure&gt;
+&lt;/p&gt;
 
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form&lt;/p&gt;
 
-&lt;h4 id=&#34;tracking-train-tracks-post-train&#34;&gt;&lt;a href=&#34;./post/train&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;will give us greater control when creating textured surfaces.&lt;/li&gt;
+&lt;li&gt;helps us understand how wrinkled surfaces form in biology, like the lining of our gut.&lt;/li&gt;
+&lt;li&gt;allow us to use these wrinkles to learn about the material and its fibres.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;p&gt;This last item is the focus of this paper. I study carefully the link between all possible fibres and how they effect the formation of surface wrinkles. The figure below illustrates part of the mathematics.
 
 &lt;figure class=&#34;alignright&#34;&gt;
-    &lt;a href=&#34;./post/train&#34;&gt;
-        &lt;img src=&#34;./img/pics/umbilical.jpg&#34; width=&#34;60%&#34; /&gt;
-    &lt;/a&gt;
+    
+        &lt;img src=&#34;./img/gifs/WrinkleMov.gif&#34; alt=&#34;At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.&#34; width=&#34;70%&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;p&gt;
+        At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.
+        
+            
+        
+        &lt;/p&gt; 
+    &lt;/figcaption&gt;
     
 &lt;/figure&gt;
-
-
-&lt;h4 id=&#34;designing-a-collection-of-cables-post-optimal-cables&#34;&gt;&lt;a href=&#34;./post/optimal-cables&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;How to design a collection of cables to be both robust and flexible? The answer is to use continuous optimisation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-
-&lt;figure class=&#34;alignright&#34;&gt;
-    &lt;a href=&#34;./post/wind_fault&#34;&gt;
-        &lt;img src=&#34;./img/pics/wing.jpg&#34; width=&#34;60%&#34; /&gt;
-    &lt;/a&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;designing-a-collection-of-cables-post-wing-faults&#34;&gt;&lt;a href=&#34;./post/wing_faults&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
-
-&lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
+&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Initial stress in elasticity</title>
-      <link>https://arturgower.github.io/project/initial-stress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/project/initial-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Optimal Cable Positioning</title>
-      <link>https://arturgower.github.io/publication/umbilical/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/publication/umbilical/</guid>
-      <description></description>
     </item>
     
   </channel>
