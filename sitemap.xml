@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/project/wave-software/</loc>
+      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/project/surface-solid/</loc>
       <lastmod>2018-02-27T14:28:52+00:00</lastmod>
     </url>
@@ -16,6 +25,15 @@
     
       <loc>https://arturgower.github.io/project/entropy_go/</loc>
       <lastmod>2018-02-26T21:47:27+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/publication/scattering-software/</loc>
+      <lastmod>2018-01-28T09:56:28+00:00</lastmod>
     </url>
     
   
@@ -43,6 +61,15 @@
     
       <loc>https://arturgower.github.io/publication/initial-mooney/</loc>
       <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/publication/effective-wave-software/</loc>
+      <lastmod>2017-10-28T10:29:53+00:00</lastmod>
     </url>
     
   
@@ -259,6 +286,16 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/publication_types/7/</loc>
+      <lastmod>2018-01-28T09:56:28+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/tags/acousto-elasticity/</loc>
       <lastmod>2013-12-27T19:51:12+00:00</lastmod>
       <priority>0</priority>
@@ -309,7 +346,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/constitutive-equations/</loc>
-      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -319,7 +356,17 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/constitutive-equations/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/effective-waves/</loc>
+      <lastmod>2017-10-28T10:29:53+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -330,6 +377,16 @@
     
       <loc>https://arturgower.github.io/tags/elasticity/</loc>
       <lastmod>2018-02-27T14:28:52+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/ensemble-averaging/</loc>
+      <lastmod>2018-01-13T19:53:40+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -378,6 +435,16 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/tags/homogenisation/</loc>
+      <lastmod>2018-01-13T19:53:40+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/project/industry/</loc>
     </url>
     
@@ -397,7 +464,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/initial-stress/</loc>
-      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -407,7 +474,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/initial-stress/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -436,7 +503,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/machine-learning/</loc>
-      <lastmod>2018-02-26T21:47:27+00:00</lastmod>
+      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -447,6 +514,26 @@
     
       <loc>https://arturgower.github.io/tags/mooney-rivlin-material/</loc>
       <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/multi-species/</loc>
+      <lastmod>2017-10-28T10:29:53+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/multiple-scattering/</loc>
+      <lastmod>2018-01-28T09:56:28+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -505,6 +592,16 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/tags/polydisperse/</loc>
+      <lastmod>2018-01-13T19:53:40+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/tags/post-buckling/</loc>
       <lastmod>2016-05-27T15:10:20+00:00</lastmod>
       <priority>0</priority>
@@ -516,7 +613,7 @@
     <url>
     
       <loc>https://arturgower.github.io/project/</loc>
-      <lastmod>2018-02-27T14:28:52+00:00</lastmod>
+      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -527,6 +624,16 @@
     
       <loc>https://arturgower.github.io/publication_types/</loc>
       <lastmod>2018-01-13T20:08:40+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/random-media/</loc>
+      <lastmod>2018-01-28T09:56:28+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -567,6 +674,16 @@
     
       <loc>https://arturgower.github.io/tags/sensitivity-analysis/</loc>
       <lastmod>2016-01-27T16:14:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/size-distribution/</loc>
+      <lastmod>2018-01-13T19:53:40+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -673,8 +790,18 @@
     
     <url>
     
+      <loc>https://arturgower.github.io/tags/wave-transmission/</loc>
+      <lastmod>2017-10-28T10:29:53+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://arturgower.github.io/tags/waves/</loc>
-      <lastmod>2018-02-27T14:28:52+00:00</lastmod>
+      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
       <priority>0</priority>
     </url>
     

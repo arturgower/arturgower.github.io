@@ -13,6 +13,15 @@
     
     
     <item>
+      <title>MultipleScattering.jl</title>
+      <link>https://arturgower.github.io/publication/scattering-software/</link>
+      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/scattering-software/</guid>
+      <description>placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.        Similar to the figure above, here we show the absolute magnitude of the wave.</description>
+    </item>
+    
+    <item>
       <title>Learning about random media from near-surface backscattering: using machine learning to measure particle size and concentration</title>
       <link>https://arturgower.github.io/publication/learning_backscattering/</link>
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
@@ -37,6 +46,16 @@
       
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
       <description>   Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
+    </item>
+    
+    <item>
+      <title>EffectiveWaves.jl</title>
+      <link>https://arturgower.github.io/publication/effective-wave-software/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
+      <description>The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.
+  </description>
     </item>
     
     <item>
@@ -128,7 +147,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/train/</guid>
-      <description>Summary   Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+      <description>Summary    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
     </item>
     
     <item>
@@ -157,7 +176,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       
       <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
       <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
- The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+  The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
     </item>
     
     <item>
