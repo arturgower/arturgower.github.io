@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random-media on Artur L Gower</title>
+    <link>https://arturgower.github.io/tags/random-media/</link>
+    <description>Recent content in Random-media on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/tags/random-media/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple Scattering</title>
+      <link>https://arturgower.github.io/project/multiple-scattering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
+      <description>I am currently working on multiply scattering in random media. See example video below!
+  Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.   </description>
+    </item>
+    
+  </channel>
+</rss>

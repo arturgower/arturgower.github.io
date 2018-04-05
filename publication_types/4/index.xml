@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 on Artur L Gower</title>
+    <link>https://arturgower.github.io/publication_types/4/</link>
+    <description>Recent content in 4 on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <lastBuildDate>Wed, 13 Apr 2016 20:25:45 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/umbilical/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/umbilical/</guid>
+      <description>Summary A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together. In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.
+There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be placed any where as long as they do not overlap or break any other given restriction.</description>
+    </item>
+    
+    <item>
+      <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
+      <link>https://arturgower.github.io/publication/train/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/train/</guid>
+      <description>Summary    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Geometric Faults from Measured Data</title>
+      <link>https://arturgower.github.io/publication/geometric-faults/</link>
+      <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
+      <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
+  The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+    </item>
+    
+    <item>
+      <title>Modelling of abrasive waterjet etching</title>
+      <link>https://arturgower.github.io/publication/waterjet/</link>
+      <pubDate>Tue, 27 Mar 2012 12:49:42 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/waterjet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
+      <link>https://arturgower.github.io/publication/radial-elasticity/</link>
+      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/radial-elasticity/</guid>
+      <description>Summary The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).
+The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0.</description>
+    </item>
+    
+  </channel>
+</rss>
