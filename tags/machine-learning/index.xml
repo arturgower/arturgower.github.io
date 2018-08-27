@@ -45,8 +45,8 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
-      <description>I am currently working on multiply scattering in random media. See example video below!
-  Back-scattering from a random arrangement of particles which is measured at the blue semi-circle.   </description>
+      <description>I am currently working on multiply scattering in random media. See example video below! I develop methods to calculate the ensemble average of the wave, which I compare with numerical benchmarks based on the multipole method.
+  Back-scattering from a random arrangement of particles.   </description>
     </item>
     
   </channel>
