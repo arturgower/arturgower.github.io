@@ -296,26 +296,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/tags/acousto-elasticity/</loc>
-      <lastmod>2013-12-27T19:51:12+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/anisotropy/</loc>
-      <lastmod>2018-02-27T14:28:52+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
@@ -346,7 +326,183 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/constitutive-equations/</loc>
-      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/finite-elements/</loc>
+      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/hessian-matrix/</loc>
+      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/high-order-methods/</loc>
+      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/project/industry/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/initial-stress/</loc>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/mooney-rivlin-material/</loc>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/post-buckling/</loc>
+      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/project/</loc>
+      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/publication_types/</loc>
+      <lastmod>2018-01-13T20:08:40+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/residual-stress/</loc>
+      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/sensitivity-analysis/</loc>
+      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/soft-tube/</loc>
+      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/stability-analysis/</loc>
+      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/tensors-vector-products/</loc>
+      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/project/initial-stress/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/acousto-elasticity/</loc>
+      <lastmod>2013-12-27T19:51:12+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/tags/anisotropy/</loc>
+      <lastmod>2018-02-27T14:28:52+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -356,7 +512,7 @@
     <url>
     
       <loc>https://arturgower.github.io/tags/constitutive-equations/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
+      <lastmod>2017-06-27T10:23:51+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -405,36 +561,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/tags/finite-elements/</loc>
-      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/hessian-matrix/</loc>
-      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/high-order-methods/</loc>
-      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/homogenisation/</loc>
       <lastmod>2018-01-13T19:53:40+00:00</lastmod>
       <priority>0</priority>
@@ -445,26 +571,8 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/project/industry/</loc>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/industry/</loc>
       <lastmod>2014-04-13T20:40:02+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/initial-stress/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -504,16 +612,6 @@
     
       <loc>https://arturgower.github.io/tags/machine-learning/</loc>
       <lastmod>2018-02-28T10:01:38+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/mooney-rivlin-material/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -602,36 +700,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/tags/post-buckling/</loc>
-      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/project/</loc>
-      <lastmod>2018-02-28T10:01:38+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/publication_types/</loc>
-      <lastmod>2018-01-13T20:08:40+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/random-media/</loc>
       <lastmod>2018-01-28T09:56:28+00:00</lastmod>
       <priority>0</priority>
@@ -662,26 +730,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/tags/residual-stress/</loc>
-      <lastmod>2017-11-27T15:02:35+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/sensitivity-analysis/</loc>
-      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/size-distribution/</loc>
       <lastmod>2018-01-13T19:53:40+00:00</lastmod>
       <priority>0</priority>
@@ -694,16 +742,6 @@
     
       <loc>https://arturgower.github.io/tags/soft-matter/</loc>
       <lastmod>2014-11-27T19:21:07+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/soft-tube/</loc>
-      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -732,16 +770,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/tags/stability-analysis/</loc>
-      <lastmod>2016-05-27T15:10:20+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/tags/surface-waves/</loc>
       <lastmod>2013-12-27T19:51:12+00:00</lastmod>
       <priority>0</priority>
@@ -755,34 +783,6 @@
       <loc>https://arturgower.github.io/tags/surface-waves/</loc>
       <lastmod>2013-12-27T19:51:12+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/tags/tensors-vector-products/</loc>
-      <lastmod>2016-01-27T16:14:45+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>https://arturgower.github.io/project/initial-stress/</loc>
     </url>
     
   
