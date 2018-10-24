@@ -104,15 +104,6 @@
     
     <url>
     
-      <loc>https://arturgower.github.io/talk/example-talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>https://arturgower.github.io/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -132,6 +123,15 @@
     <url>
     
       <loc>https://arturgower.github.io/talk/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://arturgower.github.io/talk/example-talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
