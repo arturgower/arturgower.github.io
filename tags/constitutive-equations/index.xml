@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>constitutive equations on Artur L Gower</title>
+    <title>Constitutive equations on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/constitutive-equations/</link>
-    <description>Recent content in constitutive equations on Artur L Gower</description>
+    <description>Recent content in Constitutive equations on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Tue, 27 Jun 2017 10:23:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/constitutive-equations/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A new restriction for initially stressed elastic solids</title>
-      <link>https://arturgower.github.io/publication/stress-objectivity/</link>
-      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
-      <description>    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.   </description>
+      <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
+      <description>   Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
     </item>
     
   </channel>

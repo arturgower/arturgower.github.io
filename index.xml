@@ -11,6 +11,25 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Multiple Waves Propagate in Random Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/multiple-waves/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/multiple-waves/</guid>
+      <description>
+&lt;figure class=&#34;alignright&#34;&gt;
+    &lt;a href=&#34;https://github.com/jondea/MultipleScattering.jl&#34;&gt;
+        &lt;img src=&#34;./img/gifs/average_scat_harmonic.gif&#34; width=&#34;70%&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;To the right of the dashed line are particles, whose position has been numerically ensemble averaged. To the left is just a homogenious medium. What is shown here (though faintly) is that more than one transmitted wave exists in an ensemble averaged medium. The paper shows this with much more clarity!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Wave Software</title>
       <link>https://arturgower.github.io/project/wave-software/</link>
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
@@ -131,7 +150,7 @@
 &lt;/figure&gt;
 
 
-
+&lt;p&gt;
 &lt;figure&gt;
     &lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl/tree/master/examples/concrete&#34;&gt;
         &lt;img src=&#34;./img/diffraction-slit-abs.jpeg&#34; alt=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34; width=&#34;70%&#34; /&gt;
@@ -147,7 +166,7 @@
     &lt;/figcaption&gt;
     
 &lt;/figure&gt;
-
+&lt;/p&gt;
 </description>
     </item>
     
@@ -393,32 +412,6 @@ $\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
 \includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
 $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
 } --&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
-      <link>https://arturgower.github.io/publication/homeostasis-stress/</link>
-      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
-      <description>
-&lt;figure class=&#34;alignright&#34;&gt;
-    
-        &lt;img src=&#34;./img/pics/wapa.jpg&#34; alt=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34; width=&#34;60%&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
 </description>
     </item>
     

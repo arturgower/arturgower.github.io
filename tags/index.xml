@@ -22,6 +22,24 @@
     </item>
     
     <item>
+      <title>Acousto-elasticity</title>
+      <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/acousto-elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anisotropy</title>
+      <link>https://arturgower.github.io/tags/anisotropy/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automatic differentiation</title>
       <link>https://arturgower.github.io/tags/automatic-differentiation/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
@@ -36,6 +54,51 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitutive equations</title>
+      <link>https://arturgower.github.io/tags/constitutive-equations/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effective waves</title>
+      <link>https://arturgower.github.io/tags/effective-waves/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/effective-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elasticity</title>
+      <link>https://arturgower.github.io/tags/elasticity/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensemble averaging</title>
+      <link>https://arturgower.github.io/tags/ensemble-averaging/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/ensemble-averaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fibre-reinforced</title>
+      <link>https://arturgower.github.io/tags/fibre-reinforced/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/fibre-reinforced/</guid>
       <description></description>
     </item>
     
@@ -67,11 +130,65 @@
     </item>
     
     <item>
+      <title>Homogenisation</title>
+      <link>https://arturgower.github.io/tags/homogenisation/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/homogenisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Industry</title>
+      <link>https://arturgower.github.io/tags/industry/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/industry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Initial stress</title>
       <link>https://arturgower.github.io/tags/initial-stress/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial-stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Instabilities</title>
+      <link>https://arturgower.github.io/tags/instabilities/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/instabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine-learning</title>
+      <link>https://arturgower.github.io/tags/machine-learning/</link>
+      <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     
@@ -85,6 +202,87 @@
     </item>
     
     <item>
+      <title>Multi-species</title>
+      <link>https://arturgower.github.io/tags/multi-species/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/multi-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple scattering</title>
+      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple-scattering</title>
+      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-linear elasticity</title>
+      <link>https://arturgower.github.io/tags/non-linear-elasticity/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/non-linear-elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-principal waves</title>
+      <link>https://arturgower.github.io/tags/non-principal-waves/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/non-principal-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opening angle method</title>
+      <link>https://arturgower.github.io/tags/opening-angle-method/</link>
+      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/opening-angle-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimisation</title>
+      <link>https://arturgower.github.io/tags/optimisation/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particulate materials</title>
+      <link>https://arturgower.github.io/tags/particulate-materials/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/particulate-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polydisperse</title>
+      <link>https://arturgower.github.io/tags/polydisperse/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/polydisperse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Post-buckling</title>
       <link>https://arturgower.github.io/tags/post-buckling/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
@@ -94,9 +292,36 @@
     </item>
     
     <item>
+      <title>Random media</title>
+      <link>https://arturgower.github.io/tags/random-media/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/random-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random-media</title>
+      <link>https://arturgower.github.io/tags/random-media/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/random-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Residual stress</title>
       <link>https://arturgower.github.io/tags/residual-stress/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/residual-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Residual stress</title>
+      <link>https://arturgower.github.io/tags/residual-stress/</link>
+      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/residual-stress/</guid>
       <description></description>
@@ -112,11 +337,47 @@
     </item>
     
     <item>
+      <title>Size distribution</title>
+      <link>https://arturgower.github.io/tags/size-distribution/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/size-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soft matter</title>
+      <link>https://arturgower.github.io/tags/soft-matter/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/soft-matter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Soft tube</title>
       <link>https://arturgower.github.io/tags/soft-tube/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/soft-tube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid mechanics</title>
+      <link>https://arturgower.github.io/tags/solid-mechanics/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/solid-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Solid-mechanics</title>
+      <link>https://arturgower.github.io/tags/solid-mechanics/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/solid-mechanics/</guid>
       <description></description>
     </item>
     
@@ -130,6 +391,24 @@
     </item>
     
     <item>
+      <title>Surface waves</title>
+      <link>https://arturgower.github.io/tags/surface-waves/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/surface-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Surface-waves</title>
+      <link>https://arturgower.github.io/tags/surface-waves/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/surface-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tensors vector products</title>
       <link>https://arturgower.github.io/tags/tensors-vector-products/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
@@ -139,277 +418,7 @@
     </item>
     
     <item>
-      <title>acousto-elasticity</title>
-      <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
-      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/acousto-elasticity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>anisotropy</title>
-      <link>https://arturgower.github.io/tags/anisotropy/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/anisotropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>constitutive equations</title>
-      <link>https://arturgower.github.io/tags/constitutive-equations/</link>
-      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>effective waves</title>
-      <link>https://arturgower.github.io/tags/effective-waves/</link>
-      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/effective-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>elasticity</title>
-      <link>https://arturgower.github.io/tags/elasticity/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/elasticity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ensemble averaging</title>
-      <link>https://arturgower.github.io/tags/ensemble-averaging/</link>
-      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/ensemble-averaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fibre-reinforced</title>
-      <link>https://arturgower.github.io/tags/fibre-reinforced/</link>
-      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/fibre-reinforced/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>homogenisation</title>
-      <link>https://arturgower.github.io/tags/homogenisation/</link>
-      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/homogenisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>industry</title>
-      <link>https://arturgower.github.io/tags/industry/</link>
-      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/industry/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initial stress</title>
-      <link>https://arturgower.github.io/tags/initial-stress/</link>
-      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initial-stress</title>
-      <link>https://arturgower.github.io/tags/initial-stress/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>instabilities</title>
-      <link>https://arturgower.github.io/tags/instabilities/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/instabilities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine-learning</title>
-      <link>https://arturgower.github.io/tags/machine-learning/</link>
-      <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multi-species</title>
-      <link>https://arturgower.github.io/tags/multi-species/</link>
-      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/multi-species/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiple scattering</title>
-      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
-      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiple-scattering</title>
-      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
-      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>non-linear elasticity</title>
-      <link>https://arturgower.github.io/tags/non-linear-elasticity/</link>
-      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/non-linear-elasticity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>non-principal waves</title>
-      <link>https://arturgower.github.io/tags/non-principal-waves/</link>
-      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/non-principal-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>opening angle method</title>
-      <link>https://arturgower.github.io/tags/opening-angle-method/</link>
-      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/opening-angle-method/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimisation</title>
-      <link>https://arturgower.github.io/tags/optimisation/</link>
-      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/optimisation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polydisperse</title>
-      <link>https://arturgower.github.io/tags/polydisperse/</link>
-      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/polydisperse/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random media</title>
-      <link>https://arturgower.github.io/tags/random-media/</link>
-      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/random-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random-media</title>
-      <link>https://arturgower.github.io/tags/random-media/</link>
-      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/random-media/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>residual stress</title>
-      <link>https://arturgower.github.io/tags/residual-stress/</link>
-      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/residual-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>size distribution</title>
-      <link>https://arturgower.github.io/tags/size-distribution/</link>
-      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/size-distribution/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>soft matter</title>
-      <link>https://arturgower.github.io/tags/soft-matter/</link>
-      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/soft-matter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>solid mechanics</title>
-      <link>https://arturgower.github.io/tags/solid-mechanics/</link>
-      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/solid-mechanics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>solid-mechanics</title>
-      <link>https://arturgower.github.io/tags/solid-mechanics/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/solid-mechanics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>surface waves</title>
-      <link>https://arturgower.github.io/tags/surface-waves/</link>
-      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/surface-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>surface-waves</title>
-      <link>https://arturgower.github.io/tags/surface-waves/</link>
-      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/surface-waves/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wave transmission</title>
+      <title>Wave transmission</title>
       <link>https://arturgower.github.io/tags/wave-transmission/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
       
@@ -418,7 +427,7 @@
     </item>
     
     <item>
-      <title>waves</title>
+      <title>Waves</title>
       <link>https://arturgower.github.io/tags/waves/</link>
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
       
@@ -427,7 +436,7 @@
     </item>
     
     <item>
-      <title>wrinkles</title>
+      <title>Wrinkles</title>
       <link>https://arturgower.github.io/tags/wrinkles/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
       
