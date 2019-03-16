@@ -7,22 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Sun, 27 Mar 2016 15:56:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/residual-stress/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
-      <link>https://arturgower.github.io/publication/homeostasis-stress/</link>
-      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
-      <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
-      <description>   Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.   </description>
-    </item>
-    
-  </channel>
-</rss>ith internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
+      <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
+      <description>   Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
     </item>
     
     <item>
