@@ -6,8 +6,8 @@
     <description>Recent content in Publications on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Thu, 31 Jan 2019 11:59:32 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
@@ -27,7 +27,7 @@
       <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/scattering-software/</guid>
-      <description>placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.        Similar to the figure above, here we show the absolute magnitude of the wave.</description>
+      <description>placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.      Similar to the figure above, here we show the absolute magnitude of the wave.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
-      <description>   </description>
+      <description>  </description>
     </item>
     
     <item>
@@ -45,7 +45,7 @@
       <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/multi-species/</guid>
-      <description>   </description>
+      <description>  </description>
     </item>
     
     <item>
@@ -54,7 +54,7 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
-      <description>   Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
+      <description> Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
     </item>
     
     <item>
@@ -73,7 +73,7 @@
       <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
-      <description>    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.   </description>
+      <description>  This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.   </description>
     </item>
     
     <item>
@@ -82,7 +82,7 @@
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
-      <description>   The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
+      <description> The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
     </item>
     
     <item>
@@ -91,7 +91,7 @@
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
-      <description>   Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
+      <description> Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
     </item>
     
     <item>
@@ -110,7 +110,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
-      <description>   Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.   </description>
+      <description> Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.   </description>
     </item>
     
     <item>
@@ -137,7 +137,8 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
-      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.   When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
+      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.
+ When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
  will give us greater control when creating textured surfaces.</description>
     </item>
     
@@ -147,7 +148,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/robust-anisotropy/</guid>
-      <description>   Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.   </description>
+      <description> Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.   </description>
     </item>
     
     <item>
@@ -156,7 +157,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/train/</guid>
-      <description>Summary    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+      <description>Summary   Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
     </item>
     
     <item>
@@ -185,7 +186,8 @@ There is not limit to the number of possible designs that the cables can occupy,
       
       <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
       <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
-  The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
     </item>
     
     <item>

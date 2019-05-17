@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elasticity on Artur L Gower</title>
+    <title>elasticity on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/elasticity/</link>
-    <description>Recent content in Elasticity on Artur L Gower</description>
+    <description>Recent content in elasticity on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/elasticity/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,7 @@
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/surface-solid/</guid>
-      <description>a surface wave or wrinkle.   -- Summary Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are
- will give us greater control over surface waves or forming textured surfaces (using surface wrinkles). use these surface waves and surface wrinkles to measure biological materials.</description>
+      <description>Surface waves and wrinkles can be used to characterise the underlying soft solid.</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
-      <description>   Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
+      <description> Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and B2 is the current configuration with Cauchy stress σ.   </description>
     </item>
     
     <item>
@@ -37,7 +36,7 @@
       <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
-      <description>    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.   </description>
+      <description>  This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.   </description>
     </item>
     
     <item>
@@ -46,7 +45,7 @@
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
-      <description>   The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
+      <description> The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
     </item>
     
     <item>
@@ -55,7 +54,7 @@
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
-      <description>   Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
+      <description> Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
     </item>
     
     <item>
@@ -64,7 +63,7 @@
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
-      <description>   Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.   </description>
+      <description> Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.   </description>
     </item>
     
     <item>
@@ -83,8 +82,7 @@ The wave is an elastic wave with radial symmetry, so we can imagine this as a wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/initial-stress/</guid>
-      <description>Most of my work on elastic solids has been on constitutive equations, that is, mathematically describing the different components of a solid, and how these effect the forces and deformations. With the two main themes being stressed solids and fibre-reinforced solids. I have also explored how to use waves and instabilities to characterise solids.
-Initially stressed solids The driving question is how to mathematically describe the mechanical response of residually stressed solids?</description>
+      <description>How do we mathematically describe the stresses and deformation of anisotropic soft solids.</description>
     </item>
     
   </channel>

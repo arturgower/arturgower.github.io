@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. W. Ogden on Artur L Gower</title>
+    <link>https://arturgower.github.io/authors/r.-w.-ogden/</link>
+    <description>Recent content in R. W. Ogden on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Thu, 27 Nov 2014 16:34:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/authors/r.-w.-ogden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A robust anisotropic hyperelastic formulation for the modelling of soft tissue</title>
+      <link>https://arturgower.github.io/publication/robust-anisotropy/</link>
+      <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/robust-anisotropy/</guid>
+      <description> Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.   </description>
+    </item>
+    
+    <item>
+      <title>Counter-intuitive results in acousto-elasticity</title>
+      <link>https://arturgower.github.io/publication/acousto-elasticity/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/acousto-elasticity/</guid>
+      <description>A plane surface wave travelling on the top of a deformed soft solid.   Highlights:
+ We revisit the theory of acousto-elasticity in deformed isotropic solids. Intuition suggests that slowest and the fastest waves should travel along the directions of least and greatest stretch. We find examples where this is not the case, for body and for surface waves. These results complicate accepted protocols for finding the directions of greatest strains.</description>
+    </item>
+    
+  </channel>
+</rss>

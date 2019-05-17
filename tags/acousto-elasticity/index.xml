@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Acousto-elasticity on Artur L Gower</title>
+    <title>acousto-elasticity on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
-    <description>Recent content in Acousto-elasticity on Artur L Gower</description>
+    <description>Recent content in acousto-elasticity on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Fri, 27 Dec 2013 19:51:12 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/acousto-elasticity/index.xml" rel="self" type="application/rss+xml" />

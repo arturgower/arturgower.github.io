@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anisotropy on Artur L Gower</title>
+    <title>anisotropy on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/anisotropy/</link>
-    <description>Recent content in Anisotropy on Artur L Gower</description>
+    <description>Recent content in anisotropy on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/anisotropy/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,7 @@
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/surface-solid/</guid>
-      <description>a surface wave or wrinkle.   -- Summary Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are
- will give us greater control over surface waves or forming textured surfaces (using surface wrinkles). use these surface waves and surface wrinkles to measure biological materials.</description>
+      <description>Surface waves and wrinkles can be used to characterise the underlying soft solid.</description>
     </item>
     
     <item>
@@ -28,7 +27,7 @@
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
-      <description>   The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
+      <description> The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
     </item>
     
     <item>
@@ -37,7 +36,8 @@
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
-      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.   When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
+      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.
+ When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
  will give us greater control when creating textured surfaces.</description>
     </item>
     

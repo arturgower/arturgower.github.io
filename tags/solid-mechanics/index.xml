@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solid-mechanics on Artur L Gower</title>
+    <title>solid mechanics on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/solid-mechanics/</link>
-    <description>Recent content in Solid-mechanics on Artur L Gower</description>
+    <description>Recent content in solid mechanics on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/solid-mechanics/index.xml" rel="self" type="application/rss+xml" />
@@ -18,8 +18,16 @@
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/surface-solid/</guid>
-      <description>a surface wave or wrinkle.   -- Summary Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are
- will give us greater control over surface waves or forming textured surfaces (using surface wrinkles). use these surface waves and surface wrinkles to measure biological materials.</description>
+      <description>Surface waves and wrinkles can be used to characterise the underlying soft solid.</description>
+    </item>
+    
+    <item>
+      <title>Oblique Wrinkles</title>
+      <link>https://arturgower.github.io/publication/oblique-wrinkles/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
+      <description> The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.   </description>
     </item>
     
     <item>
@@ -38,8 +46,7 @@ The wave is an elastic wave with radial symmetry, so we can imagine this as a wa
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/initial-stress/</guid>
-      <description>Most of my work on elastic solids has been on constitutive equations, that is, mathematically describing the different components of a solid, and how these effect the forces and deformations. With the two main themes being stressed solids and fibre-reinforced solids. I have also explored how to use waves and instabilities to characterise solids.
-Initially stressed solids The driving question is how to mathematically describe the mechanical response of residually stressed solids?</description>
+      <description>How do we mathematically describe the stresses and deformation of anisotropic soft solids.</description>
     </item>
     
   </channel>

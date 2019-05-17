@@ -1,16 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Optimisation on Artur L Gower</title>
+    <title>optimisation on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/optimisation/</link>
-    <description>Recent content in Optimisation on Artur L Gower</description>
+    <description>Recent content in optimisation on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Sun, 13 Apr 2014 20:40:02 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Sat, 13 Jan 2018 20:57:07 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/optimisation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detecting faults on a wing</title>
+      <link>https://arturgower.github.io/post/wing-faults/</link>
+      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/wing-faults/</guid>
+      <description>Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+    </item>
+    
+    <item>
+      <title>The art of cable arranging</title>
+      <link>https://arturgower.github.io/post/cable-arranging/</link>
+      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/cable-arranging/</guid>
+      <description>How to design a collection of cables to be both robust and flexible? A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together. In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.
+There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all.</description>
+    </item>
     
     <item>
       <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
@@ -18,7 +39,7 @@
       <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/train/</guid>
-      <description>Summary    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+      <description>Summary   Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
     </item>
     
     <item>
@@ -28,7 +49,8 @@
       
       <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
       <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
-  The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
     </item>
     
     <item>
@@ -37,8 +59,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/industry/</guid>
-      <description>img { float: right; }  -- Examples The projects below come from commercial and industrial challenges.
-  Tracking train tracks How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.    The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.</description>
+      <description>Combining maths, data and code to solve commercial and industrial problems.</description>
     </item>
     
   </channel>

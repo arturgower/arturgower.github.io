@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Machine-learning on Artur L Gower</title>
+    <title>machine-learning on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/machine-learning/</link>
-    <description>Recent content in Machine-learning on Artur L Gower</description>
+    <description>Recent content in machine-learning on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Wed, 28 Feb 2018 10:01:38 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/wave-software/</guid>
-      <description>I write software to efficiently calculate wave scattering between particles, and to calculate effective waves from homogenisation methods.</description>
+      <description>Software for wave propagation and scattering.</description>
     </item>
     
     <item>
@@ -27,7 +27,7 @@
       <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/entropy_go/</guid>
-      <description></description>
+      <description>Use AI concepts, such as entropy maximisation, to play games.</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
-      <description>   </description>
+      <description>  </description>
     </item>
     
     <item>
@@ -45,8 +45,7 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
-      <description>I am currently working on multiply scattering in random media. See example video below! I develop methods to calculate the ensemble average of the wave, which I compare with numerical benchmarks based on the multipole method.
-  Back-scattering from a random arrangement of particles.   </description>
+      <description>How can we use light and sound waves to measure densely packed particles.</description>
     </item>
     
   </channel>

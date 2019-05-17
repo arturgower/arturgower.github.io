@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wrinkles on Artur L Gower</title>
+    <title>wrinkles on Artur L Gower</title>
     <link>https://arturgower.github.io/tags/wrinkles/</link>
-    <description>Recent content in Wrinkles on Artur L Gower</description>
+    <description>Recent content in wrinkles on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Thu, 27 Nov 2014 19:21:07 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/wrinkles/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,8 @@
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
-      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.   When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
+      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.
+ When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
  will give us greater control when creating textured surfaces.</description>
     </item>
     

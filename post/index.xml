@@ -6,11 +6,32 @@
     <description>Recent content in Posts on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Sat, 13 Jan 2018 20:57:07 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Detecting faults on a wing</title>
+      <link>https://arturgower.github.io/post/wing-faults/</link>
+      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/wing-faults/</guid>
+      <description>Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+    </item>
+    
+    <item>
+      <title>The art of cable arranging</title>
+      <link>https://arturgower.github.io/post/cable-arranging/</link>
+      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/cable-arranging/</guid>
+      <description>How to design a collection of cables to be both robust and flexible? A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together. In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.
+There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all.</description>
+    </item>
     
   </channel>
 </rss>

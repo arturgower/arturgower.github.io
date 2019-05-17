@@ -6,7 +6,7 @@
     <description>Recent content in Stability analysis on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Fri, 27 May 2016 15:10:20 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/stability-analysis/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
-      <description>   Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
+      <description> Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.   </description>
     </item>
     
   </channel>

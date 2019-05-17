@@ -6,7 +6,7 @@
     <description>Recent content in Automatic differentiation on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Wed, 27 Jan 2016 16:14:45 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/automatic-differentiation/index.xml" rel="self" type="application/rss+xml" />

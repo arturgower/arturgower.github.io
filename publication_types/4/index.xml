@@ -6,7 +6,7 @@
     <description>Recent content in 4 on Artur L Gower</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>&amp;copy; 2017 Artur L Gower</copyright>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
     <lastBuildDate>Wed, 13 Apr 2016 20:25:45 +0000</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
@@ -28,7 +28,7 @@ There is not limit to the number of possible designs that the cables can occupy,
       <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
       
       <guid>https://arturgower.github.io/publication/train/</guid>
-      <description>Summary    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+      <description>Summary   Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
     </item>
     
     <item>
@@ -38,7 +38,8 @@ There is not limit to the number of possible designs that the cables can occupy,
       
       <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
       <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
-  The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
     </item>
     
     <item>

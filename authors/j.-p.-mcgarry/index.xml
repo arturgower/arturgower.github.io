@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. P. McGarry on Artur L Gower</title>
+    <link>https://arturgower.github.io/authors/j.-p.-mcgarry/</link>
+    <description>Recent content in J. P. McGarry on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Thu, 27 Nov 2014 16:34:46 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/authors/j.-p.-mcgarry/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A robust anisotropic hyperelastic formulation for the modelling of soft tissue</title>
+      <link>https://arturgower.github.io/publication/robust-anisotropy/</link>
+      <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/robust-anisotropy/</guid>
+      <description> Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.   </description>
+    </item>
+    
+  </channel>
+</rss>

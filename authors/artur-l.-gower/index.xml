@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artur L. Gower on Artur L Gower</title>
+    <link>https://arturgower.github.io/authors/artur-l.-gower/</link>
+    <description>Recent content in Artur L. Gower on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Sat, 28 Oct 2017 10:29:53 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/authors/artur-l.-gower/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>EffectiveWaves.jl</title>
+      <link>https://arturgower.github.io/publication/effective-wave-software/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
+      <description>The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.
+  </description>
+    </item>
+    
+    <item>
+      <title>Higher-order reverse automatic differentiation with emphasis on the third-order</title>
+      <link>https://arturgower.github.io/publication/third-order-ad/</link>
+      <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/third-order-ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</title>
+      <link>https://arturgower.github.io/publication/fibre-wrinkle/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
+      <description>Summary When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.
+ When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.   Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form
+ will give us greater control when creating textured surfaces.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Geometric Faults from Measured Data</title>
+      <link>https://arturgower.github.io/publication/geometric-faults/</link>
+      <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
+      <description>Summary Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (blue) and returns an approximation of the wing (red), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).
+ 
+The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition.</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
+      <link>https://arturgower.github.io/publication/radial-elasticity/</link>
+      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/radial-elasticity/</guid>
+      <description>Summary The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).
+The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0.</description>
+    </item>
+    
+  </channel>
+</rss>
