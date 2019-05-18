@@ -24,6 +24,15 @@ The figures bellow (The spiky light blue image) illustrates how the method decom
     </item>
     
     <item>
+      <title>Tracking train tracks</title>
+      <link>https://arturgower.github.io/post/train/</link>
+      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/train/</guid>
+      <description>Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks.</description>
+    </item>
+    
+    <item>
       <title>The art of cable arranging</title>
       <link>https://arturgower.github.io/post/cable-arranging/</link>
       <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>

@@ -148,14 +148,14 @@
       <guid>https://arturgower.github.io/publication/scattering-software/</guid>
       <description>&lt;figure&gt;
 &lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl/tree/master/examples/concrete&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34; width=&#34;70%&#34; /&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34; width=&#34;70%&#34; /&gt;
 &lt;/a&gt;
 
 
 &lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
   &lt;p&gt;
-    placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
+    Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
     
     
     
@@ -207,6 +207,67 @@
 
 &lt;p&gt;&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
 &lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking train tracks</title>
+      <link>https://arturgower.github.io/post/train/</link>
+      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/post/train/</guid>
+      <description>&lt;p&gt;
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+    To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&amp;rsquo;s location.
+&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;
+    At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+
+&lt;/p&gt;
+
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+    &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -830,10 +891,10 @@ img {
 &lt;/a&gt;
 
 &lt;/figure&gt;
-#### [Tracking train tracks](/post/train)
-How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.
 
+&lt;h4 id=&#34;tracking-train-tracks-publication-train&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/train&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
 
+&lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
 &lt;a href=&#34;https://arturgower.github.io/post/train&#34;&gt;
@@ -857,7 +918,7 @@ How to track a train using only a camera? We designed a method that extracts the
 
 &lt;p&gt;&lt;figure class=&#34;alignright&#34;&gt;
 &lt;a href=&#34;https://arturgower.github.io/publication/umbilical&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; width=&#34;60%&#34; /&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; width=&#34;40%&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -870,7 +931,7 @@ How to track a train using only a camera? We designed a method that extracts the
 
 &lt;p&gt;&lt;figure class=&#34;alignright&#34;&gt;
 &lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; width=&#34;60%&#34; /&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; width=&#34;40%&#34; /&gt;
 &lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/figure&gt;&lt;/p&gt;
