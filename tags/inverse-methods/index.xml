@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inverse-methods on Artur L Gower</title>
+    <link>https://arturgower.github.io/tags/inverse-methods/</link>
+    <description>Recent content in inverse-methods on Artur L Gower</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; {year} Artur L Gower</copyright>
+    <lastBuildDate>Wed, 28 Feb 2018 10:01:38 +0000</lastBuildDate>
+    
+	<atom:link href="https://arturgower.github.io/tags/inverse-methods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wave Software</title>
+      <link>https://arturgower.github.io/project/wave-software/</link>
+      <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/wave-software/</guid>
+      <description>Software for wave propagation and scattering.</description>
+    </item>
+    
+    <item>
+      <title>Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Waves in Complex Materials</title>
+      <link>https://arturgower.github.io/project/multiple-scattering/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
+      <description>The aim is to understand how waves (like sound, radio, light, and vibrations) behave in materials with random microstructure.</description>
+    </item>
+    
+    <item>
+      <title>Industrial Mathematics</title>
+      <link>https://arturgower.github.io/project/industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/project/industry/</guid>
+      <description>Combining maths, data and code to solve commercial and industrial problems.</description>
+    </item>
+    
+  </channel>
+</rss>
