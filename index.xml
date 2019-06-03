@@ -7,10 +7,47 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Sun, 19 May 2019 13:58:32 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
     
 	    <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/prove-multiple-waves/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/publication/prove-multiple-waves/</guid>
+      <description>
+
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; width=&#34;70%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; width=&#34;70%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Work With Me</title>

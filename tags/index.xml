@@ -7,17 +7,62 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Thu, 31 Jan 2019 11:59:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
     
 	<atom:link href="https://arturgower.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Wiener-Hopf</title>
+      <link>https://arturgower.github.io/tags/wiener-hopf/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/wiener-hopf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>composite materials</title>
+      <link>https://arturgower.github.io/tags/composite-materials/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/composite-materials/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ensemble averaging</title>
       <link>https://arturgower.github.io/tags/ensemble-averaging/</link>
-      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
       
       <guid>https://arturgower.github.io/tags/ensemble-averaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multiple scattering</title>
+      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random media</title>
+      <link>https://arturgower.github.io/tags/random-media/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/random-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wave propagation</title>
+      <link>https://arturgower.github.io/tags/wave-propagation/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/wave-propagation/</guid>
       <description></description>
     </item>
     
@@ -31,29 +76,11 @@
     </item>
     
     <item>
-      <title>multiple scattering</title>
-      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
-      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>particulate materials</title>
       <link>https://arturgower.github.io/tags/particulate-materials/</link>
       <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/particulate-materials/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random media</title>
-      <link>https://arturgower.github.io/tags/random-media/</link>
-      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/random-media/</guid>
       <description></description>
     </item>
     
