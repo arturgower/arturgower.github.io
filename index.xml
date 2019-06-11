@@ -569,10 +569,31 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <guid>https://arturgower.github.io/publication/multi-species/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 &lt;a href=&#34;https://arxiv.org/abs/1712.05427&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; width=&#34;80%&#34; /&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; width=&#34;60%&#34; /&gt;
 &lt;/a&gt;
 
 &lt;/figure&gt;
+
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+
+&lt;p&gt;Particulate materials (emulsions, powders, blood) have led to significant advances in foods science and healthcare. To automate the production of these materials or to monitor them in use, waves such as acoustics and light are essential. One open challenge has been to describe waves in particles with different sizes and properties (multi-species). These variations in particle properties are key indicators of performance. This paper is the first to derive a rigorous model, and demonstrates the deficiencies of current ad hoc models.&lt;/p&gt;
+
+&lt;!-- Factual information about the significance of the output --&gt;
+
+&lt;p&gt;Quoting the British Standards (ISO 20998-3:2017): &amp;ldquo;Ultrasonic spectroscopy is widely used to measure particle size distribution (PSD) in colloids, dispersions, and emulsions&amp;rdquo;. Yet, despite the widespread use and importance of these methods, the ISO publication describes that there does not exist a rigorous model for acoustics in polydisperse particles (multi-species). This paper clearly fills this gap in the knowledge, and provides simply accessible formulas, as well a software package (&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl&#34; target=&#34;_blank&#34;&gt;https://github.com/arturgower/EffectiveWaves.jl&lt;/a&gt;) for a vast range of different particle materials.&lt;br /&gt;
+&lt;!--
+Reviewers:
+- This extension to the multi-species case is non-trivial and leads to some counter-intuitive results.
+- This paper ... makes original and worthwhile extensions of knowledge.
+--&gt;&lt;/p&gt;
+
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower drafted the manuscript, derived the mathematical expressions, and carried out all the numerical calculations. The other authors made contributions to the text, and helped conceive the study.
+
+--&gt;
 </description>
     </item>
     
@@ -668,6 +689,38 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+
+&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
+
+&lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
+
+&lt;!-- Factual information about the significance of the output
+
+This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
+
+How wrinkles form underpins many techniques across science and engineering, see examples below. All these methods rely on an intuitive assumption: that wrinkles form orthogonal to the directions of greatest tension. Our work demonstrates that rigours theory does not confirm this assumption.
+
+ Examples include:
+- use surface wrinkles to tune surface wetting and adhesion.
+- to pattern microlens array (used in fibre optics and optical computing), to create wavy stretchable electronics which can undergo large strains without breaking.   
+- avoiding wrinkling in flexible displays and eletro-textiles.  
+
+Reviewers quotes:
+- I learned a number of new things from this paper ... The occurrence of wrinkles
+that are aligned obliquely as revealed by the authors was unexpected to me.
+- A very original paper, clearly written and containing pertinent informations.
+
+--&gt;
+
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
 </description>
     </item>
     
@@ -694,6 +747,28 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+
+&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&amp;rsquo;s mechanical function and properties to its pattern.&lt;/p&gt;
+
+&lt;!-- Factual information about the significance of the output
+
+This paper was the first to demonstrate how internals stress can be directly related to pattern formation (through instabilities). A range of papers on pattern formation in soft tissues have resulted from this work, including:
+- patterns formation on elastic spheres (like the early stage of an embryo) due to internal stresses.
+- wrinkles forming on stressed thin films (used in flexible electronics and surface patterning).
+- pattern formation on layered aorta (a large artery).
+- theoretical frameworks which connect tissue growth, internal stress, with pattern formation.
+
+--&gt;
+
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
 </description>
     </item>
     
@@ -931,7 +1006,34 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <pubDate>Wed, 07 Oct 2015 21:04:51 +0100</pubDate>
       
       <guid>https://arturgower.github.io/publication/stress-symmetry-2015/</guid>
-      <description></description>
+      <description>&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+
+&lt;p&gt;Stresses in solids can arise due to an external load, or from internal changes such as thermal expansion and growth. Significant residual stress are present in biological tissues due to growth, in most metal due to cooling and rolling, and even in the earths crust due to gravity and active tectonics. These stresses greatly alter the elastic behaviour of a solid, which is the theme of this work. This paper demonstrated that a basic physical law (related to energy conservation) was missing from all the elastic models in the field. This physical law also allows elegant shortcuts to model in-vivo stress conditions, which we used to model the elastic behaviour of an artery under ideal in-vivo conditions. Previous studies needed to use heavy numerical implementations to achieve a similar non-optimal result.&lt;/p&gt;
+
+&lt;!-- Factual information about the significance of the output --&gt;
+
+&lt;!--
+
+Anonymous reviewer:
+So far [there does not exist] in the literature a general non-destructive method or theory to compute [initial stresses]. The present paper [helps achieve this goal and] will have many applications in the future.
+
+So far this paper has directly led over 10 different studies and methods (mostly in the form of published papers).
+
+Main impact: this work changed the communities approach to modelling elastic solids under stress. Before, it was thought that pre-stresses (like a residual stress) could easily be accounted for in the elastic behaviour. The new law introduced in this paper changed that view. Since publication, there have been far fewer papers explicitly modelling the nonlinear elastic behaviour of solids under stress. Papers that have been published have almost all exclusively used a model introduced in this paper, which is one of the few known to satisfy the extra physical law.
+
+
+
+
+--&gt;
+
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower conceived of the study, developed the theoretical framework, and produced the numerical results and graphs.
+
+--&gt;
+</description>
     </item>
     
     <item>
@@ -1017,6 +1119,30 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
 &lt;/figcaption&gt;
 
 &lt;/figure&gt;
+
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+
+&lt;p&gt;Modelling soft tissues has an immense potential to impact healthcare. It will enable a revolution of simulated surgeries, and long term predictions of prosthetics in the human body. Most soft tissues are reinforced by fibres (anisotropic). In this paper, we demonstrated how to implement, in finite element, robust models of anisotropic soft tissues. We were the first to correctly model volumetric changes in soft tissues, which, previously, were ignored by most finite element methods. To demonstrate the importance of our method, we simulated a stent deployed in an artery, and showed how the arterial forces were significantly under predicted with previous models.&lt;/p&gt;
+
+&lt;!-- Factual information about the significance of the output --&gt;
+
+&lt;!-- This papers has influenced a wide community which models soft tissues with finite element.
+ By tracking the 80+ citations of this paper, some of the numerous  
+ Some
+ contributions that our method led to include
+- robust simulations of arteries walls in numerous papers including: studying passive and active behaviour, optimising stent deployment, modelling the mechanics of plaque formation, and models for vein reconstruction surgeries (from venous valve tissue).
+- improved models of tendons and ligaments in knees and other joints, which help optimise surgical methods, and avoid tears.
+- models of the elastic behaviour of skin tissues.
+- mechano-electrochemical models for smooth muscle contraction.
+--&gt;
+
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed both the theoretical framework, mathematical examples, and custom elasticity tensors used by Abacus (finite element software. David Nolan developed and implemented the simulations examples in the paper. All authors helped draft the manuscript and conceive the study.
+
+--&gt;
 </description>
     </item>
     
