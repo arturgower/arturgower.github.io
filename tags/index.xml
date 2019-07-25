@@ -193,15 +193,6 @@
     </item>
     
     <item>
-      <title>Residual stress</title>
-      <link>https://arturgower.github.io/tags/residual-stress/</link>
-      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/residual-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>constitutive equations</title>
       <link>https://arturgower.github.io/tags/constitutive-equations/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
@@ -216,6 +207,15 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       
       <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>residual stress</title>
+      <link>https://arturgower.github.io/tags/residual-stress/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      
+      <guid>https://arturgower.github.io/tags/residual-stress/</guid>
       <description></description>
     </item>
     
