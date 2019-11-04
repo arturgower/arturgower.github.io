@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-gb">
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -27,7 +28,7 @@
   
     
   
-  <meta name="description" content="Art Gower&#39;s academic website, including all papers and pretty pictures.  ">
+  <meta name="description" content="Lecturer in Dynamics">
 
   
   <link rel="alternate" hreflang="en-gb" href="https://arturgower.github.io/publication/">
@@ -36,21 +37,9 @@
 
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
   
-  
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="rgb(0, 136, 204)">
   
 
   
@@ -59,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -71,13 +60,15 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -85,41 +76,66 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Ubuntu:400,400italic,700|Ubuntu+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:700%7CUbuntu:400,400italic,700%7CUbuntu+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.74611ef949c07b571786de90eeb01018.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51196017-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-51196017-2', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-51196017-2', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
   <link rel="alternate" href="/publication/index.xml" type="application/rss+xml" title="Artur L Gower">
-  <link rel="feed" href="/publication/index.xml" type="application/rss+xml" title="Artur L Gower">
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://arturgower.github.io/publication/">
@@ -129,8 +145,10 @@
   
   
     
+    
   
-  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@arturgower">
   <meta property="twitter:creator" content="@arturgower">
@@ -138,20 +156,32 @@
   <meta property="og:site_name" content="Artur L Gower">
   <meta property="og:url" content="https://arturgower.github.io/publication/">
   <meta property="og:title" content="Publications | Artur L Gower">
-  <meta property="og:description" content="Art Gower&#39;s academic website, including all papers and pretty pictures.  "><meta property="og:image" content="https://arturgower.github.io/img/three_particles">
-  <meta property="og:locale" content="en-gb">
+  <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-  <meta property="og:updated_time" content="2019-06-03T11:29:37&#43;01:00">
-  
-
+    <meta property="og:updated_time" content="2019-06-03T11:29:37&#43;01:00">
   
 
   
+
+
+
+
+  
+
+
+  
+
+
+
+
 
   <title>Publications | Artur L Gower</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -168,7 +198,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -184,8 +214,8 @@
 </aside>
 
 
-
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -228,11 +258,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about">
-            
-            <span>Home</span>
-            
-          </a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -261,11 +287,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects">
-            
-            <span>Projects</span>
-            
-          </a>
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
         </li>
 
         
@@ -294,11 +316,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured">
-            
-            <span>Publications</span>
-            
-          </a>
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -327,11 +345,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts">
-            
-            <span>Posts</span>
-            
-          </a>
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
         </li>
 
         
@@ -353,11 +367,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/post/work-with-me">
-            
-            <span>Work with me</span>
-            
-          </a>
+          <a class="nav-link " href="/post/work-with-me"><span>Work with me</span></a>
         </li>
 
         
@@ -386,11 +396,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact">
-            
-            <span>Contact</span>
-            
-          </a>
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -412,6 +418,10 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
 
       </ul>
 
@@ -420,7 +430,7 @@
 </nav>
 
 
-
+  
 
 
 
@@ -441,7 +451,7 @@
     
   
 <div class="universal-wrapper pt-3">
-  <h1 itemprop="name">Publications</h1>
+  <h1>Publications</h1>
 
   
 
@@ -534,20 +544,16 @@
           <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
             <option value="*">Type</option>
             
-
             
             <option value=".pubtype-2">
-              
               Journal article
             </option>
             
             <option value=".pubtype-4">
-              
               Report
             </option>
             
             <option value=".pubtype-8">
-              
               Software
             </option>
             
@@ -609,13 +615,13 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
@@ -623,7 +629,7 @@
 
   </span>
   (2019).
-  <a href="/publication/prove-multiple-waves/" itemprop="name">A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>.
+  <a href="/publication/prove-multiple-waves/">A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>.
   arXiv.
   
   <p>
@@ -693,22 +699,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2019">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
   </span>
   (2019).
-  <a href="/publication/multiple-waves/" itemprop="name">Multiple Waves Propagate in Random Particulate Materials</a>.
+  <a href="/publication/multiple-waves/">Multiple Waves Propagate in Random Particulate Materials</a>.
   arXiv.
   
   <p>
@@ -784,22 +791,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-8 year-2018">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-deakin/">J. Deakin</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>
 
   </span>
   (2018).
-  <a href="/publication/scattering-software/" itemprop="name">MultipleScattering.jl</a>.
+  <a href="/publication/scattering-software/">MultipleScattering.jl</a>.
   GitHub.
   
   <p>
@@ -875,22 +883,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
   </span>
   (2018).
-  <a href="/publication/learning_backscattering/" itemprop="name">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>.
+  <a href="/publication/learning_backscattering/">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>.
   EPL (Europhysics Letters).
   
   <p>
@@ -993,22 +1002,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2018">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-j.-smith/">M. J. Smith</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/m.-j.-smith/">M. J. Smith</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
   </span>
   (2018).
-  <a href="/publication/multi-species/" itemprop="name">Reflection from a multi-species material and its transmitted effective wavenumber</a>.
+  <a href="/publication/multi-species/">Reflection from a multi-species material and its transmitted effective wavenumber</a>.
   Proceedings of the Royal Society A (accepted).
   
   <p>
@@ -1105,22 +1115,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/abramo-agosti/">Abramo Agosti</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/pasquale-ciarletta/">Pasquale Ciarletta</a></span>
+  
+  <span><a href="/authors/abramo-agosti/">Abramo Agosti</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/pasquale-ciarletta/">Pasquale Ciarletta</a></span>
 
   </span>
   (2017).
-  <a href="/publication/initial-mooney/" itemprop="name">The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</a>.
+  <a href="/publication/initial-mooney/">The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</a>.
   Mechanics Research Communications.
   
   <p>
@@ -1209,22 +1220,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-8 year-2017">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+  
+  <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
 
   </span>
   (2017).
-  <a href="/publication/effective-wave-software/" itemprop="name">EffectiveWaves.jl</a>.
+  <a href="/publication/effective-wave-software/">EffectiveWaves.jl</a>.
   GitHub.
   
   <p>
@@ -1300,22 +1312,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/t.-shearer/">T. Shearer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/t.-shearer/">T. Shearer</a></span>, <span><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>
 
   </span>
   (2017).
-  <a href="/publication/stress-objectivity/" itemprop="name">A new restriction for initially stressed elastic solids</a>.
+  <a href="/publication/stress-objectivity/">A new restriction for initially stressed elastic solids</a>.
   QJMAM.
   
   <p>
@@ -1412,22 +1425,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2017">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-carfagna/">M. Carfagna</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-grillo/">A. Grillo</a></span>
+  
+  <span><a href="/authors/m.-carfagna/">M. Carfagna</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/a.-grillo/">A. Grillo</a></span>
 
   </span>
   (2017).
-  <a href="/publication/oblique-wrinkles/" itemprop="name">Oblique Wrinkles</a>.
+  <a href="/publication/oblique-wrinkles/">Oblique Wrinkles</a>.
   Proceedings of the Royal Society A.
   
   <p>
@@ -1524,22 +1538,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-taffetani/">M. Taffetani</a></span>
+  
+  <span><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/m.-taffetani/">M. Taffetani</a></span>
 
   </span>
   (2016).
-  <a href="/publication/tube-morphology/" itemprop="name">Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</a>.
+  <a href="/publication/tube-morphology/">Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</a>.
   Journal of the Mechanics and Physics of Solids.
   
   <p>
@@ -1634,22 +1649,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2016">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
+  
+  <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
 
   </span>
   (2016).
-  <a href="/publication/umbilical/" itemprop="name">Optimal Cable Positioning</a>.
+  <a href="/publication/umbilical/">Optimal Cable Positioning</a>.
   The Maths In Industry Eprints Archive.
   
   <p>
@@ -1738,22 +1754,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>
+  
+  <span><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>
 
   </span>
   (2016).
-  <a href="/publication/homeostasis-stress/" itemprop="name">On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</a>.
+  <a href="/publication/homeostasis-stress/">On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</a>.
   Scientific Reports.
   
   <p>
@@ -1842,22 +1859,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2016">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/robert-m.-gower/">Robert M. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+  
+  <span><a href="/authors/robert-m.-gower/">Robert M. Gower</a></span>, <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
 
   </span>
   (2016).
-  <a href="/publication/third-order-ad/" itemprop="name">Higher-order reverse automatic differentiation with emphasis on the third-order</a>.
+  <a href="/publication/third-order-ad/">Higher-order reverse automatic differentiation with emphasis on the third-order</a>.
   Mathematical Programming SERIES A.
   
   <p>
@@ -1948,22 +1966,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2015">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>
 
   </span>
   (2015).
-  <a href="/publication/stress-symmetry-2015/" itemprop="name">Initial stress symmetry and its applications in elasticity</a>.
+  <a href="/publication/stress-symmetry-2015/">Initial stress symmetry and its applications in elasticity</a>.
   Proceedings of the Royal Society A.
   
   <p>
@@ -2060,22 +2079,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+  
+  <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
 
   </span>
   (2014).
-  <a href="/publication/fibre-wrinkle/" itemprop="name">Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</a>.
+  <a href="/publication/fibre-wrinkle/">Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</a>.
   Journal of Engineering Mathematics.
   
   <p>
@@ -2165,22 +2185,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2014">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/d.-r.-nolan/">D. R. Nolan</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/r.-w.-ogden/">R. W. Ogden</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-p.-mcgarry/">J. P. McGarry</a></span>
+  
+  <span><a href="/authors/d.-r.-nolan/">D. R. Nolan</a></span>, <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/r.-w.-ogden/">R. W. Ogden</a></span>, <span><a href="/authors/j.-p.-mcgarry/">J. P. McGarry</a></span>
 
   </span>
   (2014).
-  <a href="/publication/robust-anisotropy/" itemprop="name">A robust anisotropic hyperelastic formulation for the modelling of soft tissue</a>.
+  <a href="/publication/robust-anisotropy/">A robust anisotropic hyperelastic formulation for the modelling of soft tissue</a>.
   Journal of the mechanical behavior of biomedical materials.
   
   <p>
@@ -2250,22 +2271,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2014">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
+  
+  <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
 
   </span>
   (2014).
-  <a href="/publication/train/" itemprop="name">Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</a>.
+  <a href="/publication/train/">Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</a>.
   The Maths In Industry Eprints Archive.
   
   <p>
@@ -2349,22 +2371,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/r.-w.-ogden/">R. W. Ogden</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/r.-w.-ogden/">R. W. Ogden</a></span>
 
   </span>
   (2013).
-  <a href="/publication/acousto-elasticity/" itemprop="name">Counter-intuitive results in acousto-elasticity</a>.
+  <a href="/publication/acousto-elasticity/">Counter-intuitive results in acousto-elasticity</a>.
   Wave Motion.
   
   <p>
@@ -2440,22 +2463,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2013">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>
+  
+  <span><a href="/authors/p.-ciarletta/">P. Ciarletta</a></span>, <span><a href="/authors/m.-destrade/">M. Destrade</a></span>, <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>
 
   </span>
   (2013).
-  <a href="/publication/skin-shear/" itemprop="name">Shear instability in skin tissue</a>.
+  <a href="/publication/skin-shear/">Shear instability in skin tissue</a>.
   Quarterly Journal of Mechanics and Applied Mathematics.
   
   <p>
@@ -2531,22 +2555,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2012">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+  
+  <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
 
   </span>
   (2012).
-  <a href="/publication/geometric-faults/" itemprop="name">Detecting Geometric Faults from Measured Data</a>.
+  <a href="/publication/geometric-faults/">Detecting Geometric Faults from Measured Data</a>.
   The Maths In Industry Eprints Archive.
   
   <p>
@@ -2622,22 +2647,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2012">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/c.-brett/">C. Brett</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-herterich/">J. Herterich</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/k.-katterbauer/">K. Katterbauer</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-melnik/">A. Melnik</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-thompson/">J. Thompson</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/c.-brett/">C. Brett</a></span>, <span><a href="/authors/j.-herterich/">J. Herterich</a></span>, <span><a href="/authors/k.-katterbauer/">K. Katterbauer</a></span>, <span><a href="/authors/a.-melnik/">A. Melnik</a></span>, <span><a href="/authors/j.-thompson/">J. Thompson</a></span>
 
   </span>
   (2012).
-  <a href="/publication/waterjet/" itemprop="name">Modelling of abrasive waterjet etching</a>.
+  <a href="/publication/waterjet/">Modelling of abrasive waterjet etching</a>.
   OCCAM 4th UK Graduate Modelling Camp.
   
   <p>
@@ -2691,22 +2717,23 @@
 
         <div class="grid-sizer col-lg-12 isotope-item pubtype-4 year-2011">
           
-            <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/CreativeWork">
+            <div class="pub-list-item" style="margin-bottom: 1rem">
   <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   
   
 
-  <span itemprop="author" class="article-metadata li-cite-author">
+  <span class="article-metadata li-cite-author">
     
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+  
+  <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
 
   </span>
   (2011).
-  <a href="/publication/radial-elasticity/" itemprop="name">Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</a>.
+  <a href="/publication/radial-elasticity/">Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</a>.
   Repositório da Produção Científica e Intelectual da Unicamp.
   
   <p>
@@ -2770,63 +2797,10 @@
     </div>
   </div>
 </div>
-<div class="container">
-  <footer class="site-footer">
-  
 
-  <p class="powered-by">
-    &copy; 2019 Artur L Gower &middot; 
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+      
 
     
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-</div>
-
-
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-    
-
-    
-    
-    
-    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -2835,25 +2809,25 @@
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
-      
     
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -2863,13 +2837,13 @@
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -2908,6 +2882,9 @@
 
     
     
+
+    
+    
     
     
     
@@ -2920,8 +2897,68 @@
     
     
     
-    <script src="/js/academic.min.3258b3a711acd6208568ec000de4beec.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
-  </body>
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2019 Artur L Gower &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
-

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Artur L Gower</title>
+    <title>Recent &amp; Upcoming Talks | Artur L Gower</title>
     <link>https://arturgower.github.io/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Artur L Gower</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Fri, 17 May 2019 19:12:22 +0100</lastBuildDate>
-    
-	<atom:link href="https://arturgower.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://arturgower.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Fri, 17 May 2019 19:12:22 +0100</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://arturgower.github.io/talk/</link>
+    </image>
     
     <item>
       <title>Links to recent talks</title>
       <link>https://arturgower.github.io/talk/talk-links/</link>
       <pubDate>Fri, 17 May 2019 19:12:22 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/talk/talk-links/</guid>
-      <description>I might try and write talks in MarkDown or something mind like that&amp;hellip;</description>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A. Melnik on Artur L Gower</title>
+    <title>A. Melnik | Artur L Gower</title>
     <link>https://arturgower.github.io/authors/a.-melnik/</link>
-    <description>Recent content in A. Melnik on Artur L Gower</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Tue, 27 Mar 2012 12:49:42 +0000</lastBuildDate>
-    
-	<atom:link href="https://arturgower.github.io/authors/a.-melnik/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://arturgower.github.io/authors/a.-melnik/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Melnik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Tue, 27 Mar 2012 12:49:42 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>A. Melnik</title>
+      <link>https://arturgower.github.io/authors/a.-melnik/</link>
+    </image>
     
     <item>
       <title>Modelling of abrasive waterjet etching</title>
       <link>https://arturgower.github.io/publication/waterjet/</link>
       <pubDate>Tue, 27 Mar 2012 12:49:42 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/waterjet/</guid>
       <description></description>
     </item>

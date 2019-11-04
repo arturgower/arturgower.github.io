@@ -3,22 +3,14 @@
   <channel>
     <title>Artur L Gower</title>
     <link>https://arturgower.github.io/authors/admin/</link>
-    <description>Recent content on Artur L Gower</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    
-	<atom:link href="https://arturgower.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
+      <atom:link href="https://arturgower.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artur L Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Artur L Gower</title>
       <link>https://arturgower.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/authors/admin/</guid>
-      <description>Welcome! I am a lecturer at the University of Sheffield and part of the Dynamics group. I mostly develop code and mathematical models for waves (like sound and radio) and more broadly solid mechanics. For an overview see my projects, publications or CV.</description>
-    </item>
+    </image>
     
   </channel>
 </rss>

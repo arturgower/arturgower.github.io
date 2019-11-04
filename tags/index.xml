@@ -1,31 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Artur L Gower</title>
+    <title>Tags | Artur L Gower</title>
     <link>https://arturgower.github.io/tags/</link>
-    <description>Recent content in Tags on Artur L Gower</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
-    
-	<atom:link href="https://arturgower.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Wiener-Hopf</title>
-      <link>https://arturgower.github.io/tags/wiener-hopf/</link>
-      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/wiener-hopf/</guid>
-      <description></description>
-    </item>
+      <atom:link href="https://arturgower.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>https://arturgower.github.io/tags/</link>
+    </image>
     
     <item>
       <title>composite materials</title>
       <link>https://arturgower.github.io/tags/composite-materials/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/tags/composite-materials/</guid>
       <description></description>
     </item>
@@ -34,25 +24,22 @@
       <title>ensemble averaging</title>
       <link>https://arturgower.github.io/tags/ensemble-averaging/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/tags/ensemble-averaging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>multiple scattering</title>
+      <title>multiple-scattering</title>
       <link>https://arturgower.github.io/tags/multiple-scattering/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>random media</title>
+      <title>random-media</title>
       <link>https://arturgower.github.io/tags/random-media/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/tags/random-media/</guid>
       <description></description>
     </item>
@@ -61,8 +48,15 @@
       <title>wave propagation</title>
       <link>https://arturgower.github.io/tags/wave-propagation/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/tags/wave-propagation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiener-Hopf</title>
+      <link>https://arturgower.github.io/tags/wiener-hopf/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/tags/wiener-hopf/</guid>
       <description></description>
     </item>
     
@@ -70,7 +64,6 @@
       <title>homogenisation</title>
       <link>https://arturgower.github.io/tags/homogenisation/</link>
       <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/homogenisation/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>particulate materials</title>
       <link>https://arturgower.github.io/tags/particulate-materials/</link>
       <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/particulate-materials/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>inverse-methods</title>
       <link>https://arturgower.github.io/tags/inverse-methods/</link>
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/inverse-methods/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>waves</title>
       <link>https://arturgower.github.io/tags/waves/</link>
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/waves/</guid>
       <description></description>
     </item>
@@ -106,7 +96,6 @@
       <title>anisotropy</title>
       <link>https://arturgower.github.io/tags/anisotropy/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/anisotropy/</guid>
       <description></description>
     </item>
@@ -115,7 +104,6 @@
       <title>elasticity</title>
       <link>https://arturgower.github.io/tags/elasticity/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/elasticity/</guid>
       <description></description>
     </item>
@@ -124,25 +112,22 @@
       <title>instabilities</title>
       <link>https://arturgower.github.io/tags/instabilities/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/instabilities/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>solid mechanics</title>
+      <title>solid-mechanics</title>
       <link>https://arturgower.github.io/tags/solid-mechanics/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/solid-mechanics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>surface waves</title>
+      <title>surface-waves</title>
       <link>https://arturgower.github.io/tags/surface-waves/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/surface-waves/</guid>
       <description></description>
     </item>
@@ -151,7 +136,6 @@
       <title>optimisation</title>
       <link>https://arturgower.github.io/tags/optimisation/</link>
       <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/optimisation/</guid>
       <description></description>
     </item>
@@ -160,7 +144,6 @@
       <title>industry</title>
       <link>https://arturgower.github.io/tags/industry/</link>
       <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/industry/</guid>
       <description></description>
     </item>
@@ -169,7 +152,6 @@
       <title>polydisperse</title>
       <link>https://arturgower.github.io/tags/polydisperse/</link>
       <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/polydisperse/</guid>
       <description></description>
     </item>
@@ -178,8 +160,23 @@
       <title>size distribution</title>
       <link>https://arturgower.github.io/tags/size-distribution/</link>
       <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/size-distribution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constitutive equations</title>
+      <link>https://arturgower.github.io/tags/constitutive-equations/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initial-stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
       <description></description>
     </item>
     
@@ -187,26 +184,7 @@
       <title>Mooney-Rivlin material</title>
       <link>https://arturgower.github.io/tags/mooney-rivlin-material/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/mooney-rivlin-material/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>constitutive equations</title>
-      <link>https://arturgower.github.io/tags/constitutive-equations/</link>
-      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initial stress</title>
-      <link>https://arturgower.github.io/tags/initial-stress/</link>
-      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
-      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
       <description></description>
     </item>
     
@@ -214,7 +192,6 @@
       <title>residual stress</title>
       <link>https://arturgower.github.io/tags/residual-stress/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/residual-stress/</guid>
       <description></description>
     </item>
@@ -223,7 +200,6 @@
       <title>effective waves</title>
       <link>https://arturgower.github.io/tags/effective-waves/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/effective-waves/</guid>
       <description></description>
     </item>
@@ -232,7 +208,6 @@
       <title>multi-species</title>
       <link>https://arturgower.github.io/tags/multi-species/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/multi-species/</guid>
       <description></description>
     </item>
@@ -241,7 +216,6 @@
       <title>wave transmission</title>
       <link>https://arturgower.github.io/tags/wave-transmission/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/wave-transmission/</guid>
       <description></description>
     </item>
@@ -250,7 +224,6 @@
       <title>Finite elements</title>
       <link>https://arturgower.github.io/tags/finite-elements/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/finite-elements/</guid>
       <description></description>
     </item>
@@ -259,7 +232,6 @@
       <title>Post-buckling</title>
       <link>https://arturgower.github.io/tags/post-buckling/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/post-buckling/</guid>
       <description></description>
     </item>
@@ -268,7 +240,6 @@
       <title>Soft tube</title>
       <link>https://arturgower.github.io/tags/soft-tube/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/soft-tube/</guid>
       <description></description>
     </item>
@@ -277,7 +248,6 @@
       <title>Stability analysis</title>
       <link>https://arturgower.github.io/tags/stability-analysis/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/stability-analysis/</guid>
       <description></description>
     </item>
@@ -286,7 +256,6 @@
       <title>opening angle method</title>
       <link>https://arturgower.github.io/tags/opening-angle-method/</link>
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/opening-angle-method/</guid>
       <description></description>
     </item>
@@ -295,7 +264,6 @@
       <title>Automatic differentiation</title>
       <link>https://arturgower.github.io/tags/automatic-differentiation/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/automatic-differentiation/</guid>
       <description></description>
     </item>
@@ -304,7 +272,6 @@
       <title>Hessian matrix</title>
       <link>https://arturgower.github.io/tags/hessian-matrix/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/hessian-matrix/</guid>
       <description></description>
     </item>
@@ -313,7 +280,6 @@
       <title>High-order methods</title>
       <link>https://arturgower.github.io/tags/high-order-methods/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/high-order-methods/</guid>
       <description></description>
     </item>
@@ -322,7 +288,6 @@
       <title>Sensitivity analysis</title>
       <link>https://arturgower.github.io/tags/sensitivity-analysis/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/sensitivity-analysis/</guid>
       <description></description>
     </item>
@@ -331,7 +296,6 @@
       <title>Tensors vector products</title>
       <link>https://arturgower.github.io/tags/tensors-vector-products/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/tensors-vector-products/</guid>
       <description></description>
     </item>
@@ -340,7 +304,6 @@
       <title>fibre-reinforced</title>
       <link>https://arturgower.github.io/tags/fibre-reinforced/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/fibre-reinforced/</guid>
       <description></description>
     </item>
@@ -349,7 +312,6 @@
       <title>non-linear elasticity</title>
       <link>https://arturgower.github.io/tags/non-linear-elasticity/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/non-linear-elasticity/</guid>
       <description></description>
     </item>
@@ -358,7 +320,6 @@
       <title>soft matter</title>
       <link>https://arturgower.github.io/tags/soft-matter/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/soft-matter/</guid>
       <description></description>
     </item>
@@ -367,7 +328,6 @@
       <title>wrinkles</title>
       <link>https://arturgower.github.io/tags/wrinkles/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/wrinkles/</guid>
       <description></description>
     </item>
@@ -376,7 +336,6 @@
       <title>acousto-elasticity</title>
       <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
       <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/acousto-elasticity/</guid>
       <description></description>
     </item>
@@ -385,7 +344,6 @@
       <title>non-principal waves</title>
       <link>https://arturgower.github.io/tags/non-principal-waves/</link>
       <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/tags/non-principal-waves/</guid>
       <description></description>
     </item>

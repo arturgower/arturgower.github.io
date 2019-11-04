@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Artur L Gower</title>
+    <title>Categories | Artur L Gower</title>
     <link>https://arturgower.github.io/categories/</link>
-    <description>Recent content in Categories on Artur L Gower</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    
-	<atom:link href="https://arturgower.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://arturgower.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Categories</title>
+      <link>https://arturgower.github.io/categories/</link>
+    </image>
     
   </channel>
 </rss>

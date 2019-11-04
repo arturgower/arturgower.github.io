@@ -3,47 +3,63 @@
   <channel>
     <title>Artur L Gower</title>
     <link>https://arturgower.github.io/</link>
-    <description>Recent content on Artur L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-gb</language>
-    <copyright>&amp;copy; {year} Artur L Gower</copyright>
-    <lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
-    
-	    <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Artur L Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Artur L Gower</title>
+      <link>https://arturgower.github.io/</link>
+    </image>
     
     <item>
       <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
       <link>https://arturgower.github.io/publication/prove-multiple-waves/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/publication/prove-multiple-waves/</guid>
       <description>
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; data-caption=&#34;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -53,7 +69,6 @@
       <title>Work With Me</title>
       <link>https://arturgower.github.io/post/work-with-me/</link>
       <pubDate>Sun, 19 May 2019 13:58:32 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/post/work-with-me/</guid>
       <description>
 
@@ -145,18 +160,32 @@ techniques to measure and predict these particle properties are important in man
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Harmonic wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Harmonic wave reflected from a random arrangement of particles.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Harmonic wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;Main skills:&lt;/p&gt;
 
@@ -178,18 +207,32 @@ techniques to measure and predict these particle properties are important in man
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;An elastic wave propagating on the surface of a solid under tension.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;An elastic wave propagating on the surface of a solid under tension.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    An elastic wave propagating on the surface of a solid under tension.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;Main skills:&lt;/p&gt;
 
@@ -205,7 +248,6 @@ techniques to measure and predict these particle properties are important in man
       <title>Links to recent talks</title>
       <link>https://arturgower.github.io/talk/talk-links/</link>
       <pubDate>Fri, 17 May 2019 19:12:22 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/talk/talk-links/</guid>
       <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
 </description>
@@ -215,12 +257,14 @@ techniques to measure and predict these particle properties are important in man
       <title>Multiple Waves Propagate in Random Particulate Materials</title>
       <link>https://arturgower.github.io/publication/multiple-waves/</link>
       <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/multiple-waves/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://github.com/jondea/MultipleScattering.jl&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; width=&#34;70%&#34; /&gt;
-&lt;/a&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -232,7 +276,6 @@ techniques to measure and predict these particle properties are important in man
       <title>Wave Software</title>
       <link>https://arturgower.github.io/project/wave-software/</link>
       <pubDate>Wed, 28 Feb 2018 10:01:38 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/wave-software/</guid>
       <description>&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
@@ -244,35 +287,63 @@ techniques to measure and predict these particle properties are important in man
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Wave reflected from a random arrangement of particles.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 
 &lt;p&gt;&lt;a name=&#34;star-wall&#34;&gt;&lt;/a&gt;
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; data-caption=&#34;A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.
+  &lt;/figcaption&gt;
 
-&lt;/figure&gt;&lt;/p&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
 </description>
     </item>
     
@@ -280,30 +351,38 @@ techniques to measure and predict these particle properties are important in man
       <title>Surface waves and instabilities</title>
       <link>https://arturgower.github.io/project/surface-solid/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/surface-solid/</guid>
       <description>
 
 &lt;!-- 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;a surface wave or wrinkle.&#34; width=&#34;50%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;a surface wave or wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     a surface wave or wrinkle.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
 
-&lt;/figure&gt; --&gt;
+
+&lt;/figure&gt;
+ --&gt;
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
@@ -320,37 +399,33 @@ techniques to measure and predict these particle properties are important in man
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     illustrates how overlapping body waves (blue) creates the resulting wave front (red).
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -362,7 +437,6 @@ techniques to measure and predict these particle properties are important in man
       <title>Entropy GO</title>
       <link>https://arturgower.github.io/project/entropy_go/</link>
       <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/entropy_go/</guid>
       <description></description>
     </item>
@@ -371,41 +445,36 @@ techniques to measure and predict these particle properties are important in man
       <title>MultipleScattering.jl</title>
       <link>https://arturgower.github.io/publication/scattering-software/</link>
       <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/scattering-software/</guid>
       <description>&lt;figure&gt;
-&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl/tree/master/examples/concrete&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34; width=&#34;70%&#34; /&gt;
-&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; data-caption=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
 &lt;figure&gt;
-&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl/tree/master/examples/concrete&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34; width=&#34;70%&#34; /&gt;
-&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; data-caption=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Similar to the figure above, here we show the absolute magnitude of the wave.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -415,7 +484,6 @@ techniques to measure and predict these particle properties are important in man
       <title>Detecting faults on a wing</title>
       <link>https://arturgower.github.io/post/wing-faults/</link>
       <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/post/wing-faults/</guid>
       <description>&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
 
@@ -423,12 +491,26 @@ techniques to measure and predict these particle properties are important in man
  
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;/figure&gt;&lt;/p&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
 
@@ -441,23 +523,36 @@ techniques to measure and predict these particle properties are important in man
       <title>Tracking train tracks</title>
       <link>https://arturgower.github.io/post/train/</link>
       <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/post/train/</guid>
       <description>&lt;p&gt;
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 &lt;!-- width=&#34;220&#34; --&gt;
   &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
 &lt;p&gt;
@@ -476,18 +571,32 @@ techniques to measure and predict these particle properties are important in man
  
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 &lt;!--
 On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
 --&gt;
@@ -502,7 +611,6 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>The art of cable arranging</title>
       <link>https://arturgower.github.io/post/cable-arranging/</link>
       <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/post/cable-arranging/</guid>
       <description>
 
@@ -516,12 +624,26 @@ placed any where as long as they do not overlap or break any other given restric
 &lt;!-- 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;/figure&gt; --&gt;
+
+&lt;/figure&gt;
+ --&gt;
 
 &lt;p&gt;&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
 &lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;&lt;/p&gt;
@@ -551,12 +673,14 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <title>Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</title>
       <link>https://arturgower.github.io/publication/learning_backscattering/</link>
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://github.com/jondea/MultipleScattering.jl&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; width=&#34;70%&#34; /&gt;
-&lt;/a&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 </description>
@@ -566,12 +690,14 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
       <link>https://arturgower.github.io/publication/multi-species/</link>
       <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/multi-species/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1712.05427&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; width=&#34;60%&#34; /&gt;
-&lt;/a&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -602,23 +728,20 @@ Artur Gower drafted the manuscript, derived the mathematical expressions, and ca
       <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
       <link>https://arturgower.github.io/publication/initial-mooney/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34; width=&#34;80%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -628,14 +751,16 @@ Artur Gower drafted the manuscript, derived the mathematical expressions, and ca
       <title>EffectiveWaves.jl</title>
       <link>https://arturgower.github.io/publication/effective-wave-software/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
       <description>&lt;p&gt;The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.&lt;/p&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl/tree/master/examples/concrete&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; width=&#34;100%&#34; /&gt;
-&lt;/a&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 </description>
@@ -645,23 +770,20 @@ Artur Gower drafted the manuscript, derived the mathematical expressions, and ca
       <title>A new restriction for initially stressed elastic solids</title>
       <link>https://arturgower.github.io/publication/stress-objectivity/</link>
       <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arxiv.org/abs/1608.05828&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34; width=&#34;70%&#34; /&gt;
-&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -671,23 +793,20 @@ Artur Gower drafted the manuscript, derived the mathematical expressions, and ca
       <title>Oblique Wrinkles</title>
       <link>https://arturgower.github.io/publication/oblique-wrinkles/</link>
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -729,23 +848,20 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <title>Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</title>
       <link>https://arturgower.github.io/publication/tube-morphology/</link>
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34; width=&#34;100%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/tube-table.png&#34; data-caption=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -777,7 +893,6 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <title>Waves in Complex Materials</title>
       <link>https://arturgower.github.io/project/multiple-scattering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
       <description>
 
@@ -826,7 +941,7 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       
     
   
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water. &#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
     &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
@@ -837,7 +952,7 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       
     
   
-  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air. &#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air.&#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
     &lt;img src=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
@@ -875,22 +990,50 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
 &lt;p&gt;
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 Caption: one reflected wave from a complex material. What can we learn about this material from measuring the wave at the receiver?
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/moments.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
 
 &lt;p&gt;(Figures made with &lt;a href=&#34;../wave-software/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
@@ -904,12 +1047,26 @@ Caption: the wave reflected from the same complex material can be different each
 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
+
 
 &lt;blockquote&gt;
 &lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
@@ -921,7 +1078,6 @@ Caption: the wave reflected from the same complex material can be different each
       <title>Optimal Cable Positioning</title>
       <link>https://arturgower.github.io/publication/umbilical/</link>
       <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/umbilical/</guid>
       <description>
 
@@ -935,12 +1091,26 @@ placed any where as long as they do not overlap or break any other given restric
 &lt;!-- 
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;/figure&gt; --&gt;
+
+&lt;/figure&gt;
+ --&gt;
 
 &lt;p&gt;&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
 &lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;&lt;/p&gt;
@@ -970,23 +1140,20 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
       <link>https://arturgower.github.io/publication/homeostasis-stress/</link>
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34; width=&#34;60%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -996,7 +1163,6 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <title>Higher-order reverse automatic differentiation with emphasis on the third-order</title>
       <link>https://arturgower.github.io/publication/third-order-ad/</link>
       <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/third-order-ad/</guid>
       <description></description>
     </item>
@@ -1005,7 +1171,6 @@ $\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(
       <title>Initial stress symmetry and its applications in elasticity</title>
       <link>https://arturgower.github.io/publication/stress-symmetry-2015/</link>
       <pubDate>Wed, 07 Oct 2015 21:04:51 +0100</pubDate>
-      
       <guid>https://arturgower.github.io/publication/stress-symmetry-2015/</guid>
       <description>&lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
@@ -1041,7 +1206,6 @@ Artur Gower conceived of the study, developed the theoretical framework, and pro
       <title>Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</title>
       <link>https://arturgower.github.io/publication/fibre-wrinkle/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
       <description>
 
@@ -1051,19 +1215,17 @@ Artur Gower conceived of the study, developed the theoretical framework, and pro
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; alt=&#34;When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres. &#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; data-caption=&#34;When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -1079,19 +1241,17 @@ Artur Gower conceived of the study, developed the theoretical framework, and pro
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; alt=&#34;At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.&#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; data-caption=&#34;At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>
@@ -1101,23 +1261,20 @@ Artur Gower conceived of the study, developed the theoretical framework, and pro
       <title>A robust anisotropic hyperelastic formulation for the modelling of soft tissue</title>
       <link>https://arturgower.github.io/publication/robust-anisotropy/</link>
       <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/robust-anisotropy/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; alt=&#34;Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.&#34; width=&#34;100%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; data-caption=&#34;Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -1151,7 +1308,6 @@ Artur Gower developed both the theoretical framework, mathematical examples, and
       <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
       <link>https://arturgower.github.io/publication/train/</link>
       <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/train/</guid>
       <description>
 
@@ -1160,18 +1316,32 @@ Artur Gower developed both the theoretical framework, mathematical examples, and
 &lt;p&gt;
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 &lt;!-- width=&#34;220&#34; --&gt;
   &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
 &lt;p&gt;
@@ -1190,18 +1360,32 @@ Artur Gower developed both the theoretical framework, mathematical examples, and
  
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
-  &lt;h4&gt;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&lt;/h4&gt;
   
-&lt;/figcaption&gt;
+  
+  &lt;figcaption&gt;
+    Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
+
 &lt;!--
 On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
 --&gt;
@@ -1216,23 +1400,20 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Counter-intuitive results in acousto-elasticity</title>
       <link>https://arturgower.github.io/publication/acousto-elasticity/</link>
       <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/acousto-elasticity/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;A plane surface wave travelling on the top of a deformed soft solid. &#34; width=&#34;70%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A plane surface wave travelling on the top of a deformed soft solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     A plane surface wave travelling on the top of a deformed soft solid.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -1251,23 +1432,20 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Shear instability in skin tissue</title>
       <link>https://arturgower.github.io/publication/skin-shear/</link>
       <pubDate>Mon, 27 May 2013 20:00:17 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/skin-shear/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; alt=&#34;On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?&#34; width=&#34;90%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; data-caption=&#34;On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; alt=&#34;&#34; width=&#34;90%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
@@ -1279,7 +1457,6 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Detecting Geometric Faults from Measured Data</title>
       <link>https://arturgower.github.io/publication/geometric-faults/</link>
       <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/geometric-faults/</guid>
       <description>
 
@@ -1291,12 +1468,26 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
  
 
 
+
+
+
+
+
+
+
+
+
+
 &lt;figure&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
 
 
-&lt;/figure&gt;&lt;/p&gt;
+
+&lt;/figure&gt;
+&lt;/p&gt;
 
 &lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
 
@@ -1309,7 +1500,6 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Modelling of abrasive waterjet etching</title>
       <link>https://arturgower.github.io/publication/waterjet/</link>
       <pubDate>Tue, 27 Mar 2012 12:49:42 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/waterjet/</guid>
       <description></description>
     </item>
@@ -1318,13 +1508,15 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
       <link>https://arturgower.github.io/publication/radial-elasticity/</link>
       <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/publication/radial-elasticity/</guid>
       <description>
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; width=&#34;85%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; alt=&#34;&#34; width=&#34;85%&#34; &gt;&lt;/a&gt;
+
 
 
 &lt;/figure&gt;
@@ -1341,7 +1533,6 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
       <title>Industrial Mathematics</title>
       <link>https://arturgower.github.io/project/industry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/industry/</guid>
       <description>
 
@@ -1356,9 +1547,12 @@ img {
 &lt;p&gt;The projects below come from commercial and industrial challenges.&lt;/p&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arturgower.github.io/post/train&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; width=&#34;60%&#34; /&gt;
-&lt;/a&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+
+
 
 &lt;/figure&gt;
 
@@ -1367,31 +1561,33 @@ img {
 &lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arturgower.github.io/post/train&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.&#34; width=&#34;50%&#34; /&gt;
-&lt;/a&gt;
 
 
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arturgower.github.io/publication/umbilical&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; width=&#34;40%&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;p&gt;&lt;/figure&gt;&lt;/p&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+  
 
 &lt;h4 id=&#34;designing-a-collection-of-cables-publication-umbilical&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/umbilical&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
 
@@ -1399,12 +1595,15 @@ img {
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;figure class=&#34;alignright&#34;&gt;
-&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; width=&#34;40%&#34; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;p&gt;&lt;/figure&gt;&lt;/p&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
 
 &lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing-publication-geometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 
@@ -1416,7 +1615,6 @@ img {
       <title>The mechanics of soft solids</title>
       <link>https://arturgower.github.io/project/initial-stress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://arturgower.github.io/project/initial-stress/</guid>
       <description>
 
@@ -1428,37 +1626,33 @@ img {
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34; width=&#34;60%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 
 &lt;figure class=&#34;alignright&#34;&gt;
 
-&lt;img src=&#34;https://arturgower.github.io/img/StressTube.png&#34; alt=&#34;The arrows indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&#34; width=&#34;60%&#34; /&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/StressTube.png&#34; data-caption=&#34;The arrows indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/StressTube.png&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
 
 
-
-&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
   
-  &lt;p&gt;
+  
+  &lt;figcaption&gt;
     The arrows indicate the direction of the residual stress of a thick tube. The material is in equilibrium.
-    
-    
-    
-  &lt;/p&gt; 
-&lt;/figcaption&gt;
+  &lt;/figcaption&gt;
+
 
 &lt;/figure&gt;
 </description>

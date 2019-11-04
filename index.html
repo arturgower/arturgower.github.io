@@ -1,12 +1,12 @@
-
 <!DOCTYPE html>
 <html lang="en-gb">
+
 <head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.3.0">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
 
   
 
@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Art Gower&#39;s academic website, including all papers and pretty pictures.  ">
+  <meta name="description" content="Lecturer in Dynamics">
 
   
   <link rel="alternate" hreflang="en-gb" href="https://arturgower.github.io/">
@@ -37,21 +37,9 @@
 
 
   
-
-  
-
-  
-
-  
-
-  
-
-  
-
   
   
-  
-  <meta name="theme-color" content="#3f51b5">
+  <meta name="theme-color" content="rgb(0, 136, 204)">
   
 
   
@@ -60,8 +48,8 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.css" integrity="sha256-ygkqlh3CYSUri3LhQxzdcm0n1EQvH2Y+U5S2idbLtxs=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
     
@@ -72,13 +60,15 @@
       
       
         
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" crossorigin="anonymous" title="hl-light">
-          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
         
       
     
 
     
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
 
     
 
@@ -86,41 +76,66 @@
 
   
   
-  <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Montserrat:400,700|Ubuntu:400,400italic,700|Ubuntu+Mono">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:700%7CUbuntu:400,400italic,700%7CUbuntu+Mono&display=swap">
   
 
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.74611ef949c07b571786de90eeb01018.css">
+  
+  <link rel="stylesheet" href="/css/academic.css">
 
   
 
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51196017-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-51196017-2', {});
+
   
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
-    <script>
-      window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-      ga('create', 'UA-51196017-2', 'auto');
-      
-      ga('require', 'eventTracker');
-      ga('require', 'outboundLinkTracker');
-      ga('require', 'urlChangeTracker');
-      ga('send', 'pageview');
-    </script>
-    <script async src="//www.google-analytics.com/analytics.js"></script>
-    
-    <script async src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js" integrity="sha512-HUmooslVKj4m6OBu0OgzjXXr+QuFYy/k7eLI5jdeEy/F4RSgMn6XRWRGkFi5IFaFgy7uFTkegp3Z0XnJf3Jq+g==" crossorigin="anonymous"></script>
-    
-  
-  
+
 
   
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Artur L Gower">
-  <link rel="feed" href="/index.xml" type="application/rss+xml" title="Artur L Gower">
   
 
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon.png">
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://arturgower.github.io/">
@@ -130,8 +145,10 @@
   
   
     
+    
   
-  <meta property="twitter:card" content="summary_large_image">
+  
+  <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@arturgower">
   <meta property="twitter:creator" content="@arturgower">
@@ -139,20 +156,46 @@
   <meta property="og:site_name" content="Artur L Gower">
   <meta property="og:url" content="https://arturgower.github.io/">
   <meta property="og:title" content="Artur L Gower">
-  <meta property="og:description" content="Art Gower&#39;s academic website, including all papers and pretty pictures.  "><meta property="og:image" content="https://arturgower.github.io/img/three_particles">
-  <meta property="og:locale" content="en-gb">
+  <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-  <meta property="og:updated_time" content="2019-06-03T11:29:37&#43;01:00">
-  
-
+    <meta property="og:updated_time" content="2019-06-03T11:29:37&#43;01:00">
   
 
   
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://arturgower.github.io/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  },
+  "url": "https://arturgower.github.io/"
+}
+</script>
+
+
+  
+
+
+  
+
+
+  
+
+
+
+
 
   <title>Artur L Gower</title>
 
 </head>
-<body id="top" data-spy="scroll" data-target="#navbar-main" data-offset="71" >
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" class="dark">
+
   <aside class="search-results" id="search">
   <div class="container">
     <section class="search-header">
@@ -169,7 +212,7 @@
       <div id="search-box">
         
         <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" role="textbox" spellcheck="false" type="search">
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
         
       </div>
 
@@ -185,8 +228,8 @@
 </aside>
 
 
-
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0" id="navbar-main">
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
   <div class="container">
 
     
@@ -229,11 +272,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about">
-            
-            <span>Home</span>
-            
-          </a>
+          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
         </li>
 
         
@@ -262,11 +301,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#projects" data-target="#projects">
-            
-            <span>Projects</span>
-            
-          </a>
+          <a class="nav-link " href="/#projects" data-target="#projects"><span>Projects</span></a>
         </li>
 
         
@@ -295,11 +330,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#featured" data-target="#featured">
-            
-            <span>Publications</span>
-            
-          </a>
+          <a class="nav-link " href="/#featured" data-target="#featured"><span>Publications</span></a>
         </li>
 
         
@@ -328,11 +359,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts" data-target="#posts">
-            
-            <span>Posts</span>
-            
-          </a>
+          <a class="nav-link " href="/#posts" data-target="#posts"><span>Posts</span></a>
         </li>
 
         
@@ -354,11 +381,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/post/work-with-me">
-            
-            <span>Work with me</span>
-            
-          </a>
+          <a class="nav-link " href="/post/work-with-me"><span>Work with me</span></a>
         </li>
 
         
@@ -387,11 +410,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#contact" data-target="#contact">
-            
-            <span>Contact</span>
-            
-          </a>
+          <a class="nav-link " href="/#contact" data-target="#contact"><span>Contact</span></a>
         </li>
 
         
@@ -413,12 +432,27 @@
         
 
         
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
 
       </ul>
 
     </div>
   </div>
 </nav>
+
+
+  
+
+
+
+
+
+
+
+
 
 
 
@@ -458,7 +492,14 @@
 
   
   
-  <section id="about" class="home-section wg-about   " >
+  
+  
+  
+
+  
+  
+
+  <section id="about" class="home-section wg-about   "  >
     <div class="container">
       
 
@@ -475,29 +516,27 @@
 
 
 
-<div class="row" itemprop="author" itemscope itemtype="http://schema.org/Person" itemref="person-email person-address">
+<div class="row">
   <div class="col-12 col-lg-4">
     <div id="profile">
 
       
       
-      <img class="portrait" src="/authors/admin/avatar_hu57d6c4c07c61df7d85b606a36e1e1edd_150979_250x250_fill_q90_lanczos_center.jpg" itemprop="image" alt="Avatar">
+      <img class="portrait" src="/authors/admin/avatar_hu57d6c4c07c61df7d85b606a36e1e1edd_150979_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
       
 
       <div class="portrait-title">
-        <h2 itemprop="name">Artur L Gower</h2>
-        <h3 itemprop="jobTitle">Lecturer in Dynamics</h3>
+        <h2>Artur L Gower</h2>
+        <h3>Lecturer in Dynamics</h3>
 
         
-        <h3 itemprop="worksFor" itemscope itemtype="http://schema.org/Organization">
-          <a href="https://www.sheffield.ac.uk/" target="_blank" itemprop="url" rel="noopener">
-          <span itemprop="name">University of Sheffield</span>
+        <h3>
+          <a href="https://www.sheffield.ac.uk/" target="_blank" rel="noopener">
+          <span>University of Sheffield</span>
           </a>
         </h3>
         
       </div>
-
-      <link itemprop="url" href="">
 
       <ul class="network-icon" aria-hidden="true">
         
@@ -513,7 +552,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://twitter.com/arturgower" target="_blank" rel="noopener">
+          <a href="https://twitter.com/arturgower" target="_blank" rel="noopener">
             <i class="fab fa-twitter big-icon"></i>
           </a>
         </li>
@@ -528,7 +567,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://scholar.google.co.uk/citations?user=G1aw9GcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
+          <a href="https://scholar.google.co.uk/citations?user=G1aw9GcAAAAJ&amp;hl=en" target="_blank" rel="noopener">
             <i class="ai ai-google-scholar big-icon"></i>
           </a>
         </li>
@@ -543,7 +582,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://www.researchgate.net/profile/Artur_Gower" target="_blank" rel="noopener">
+          <a href="https://www.researchgate.net/profile/Artur_Gower" target="_blank" rel="noopener">
             <i class="ai ai-researchgate big-icon"></i>
           </a>
         </li>
@@ -560,7 +599,7 @@
           
         
         <li>
-          <a itemprop="sameAs" href="https://github.com/arturgower" target="_blank" rel="noopener">
+          <a href="https://github.com/arturgower" target="_blank" rel="noopener">
             <i class="fab fa-github big-icon"></i>
           </a>
         </li>
@@ -569,7 +608,7 @@
 
     </div>
   </div>
-  <div class="col-12 col-lg-8" itemprop="description">
+  <div class="col-12 col-lg-8">
 
     
     <h1>Intro</h1>
@@ -635,7 +674,6 @@
 
     </div>
   </section>
-  
 
   
   
@@ -660,7 +698,14 @@
 
   
   
-  <section id="projects" class="home-section wg-portfolio   " >
+  
+  
+  
+
+  
+  
+
+  <section id="projects" class="home-section wg-portfolio   "  >
     <div class="container">
       
 
@@ -747,14 +792,22 @@
 
     <div class="isotope projects-container js-layout-masonry ">
       
+
         
         
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -770,23 +823,34 @@
     
     <div class="card-text">
       <h4><a href="/project/wave-software/" >Wave Software</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>Software for wave propagation and scattering.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
+
         
         
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -802,26 +866,37 @@
     
     <div class="card-text">
       <h4><a href="/project/surface-solid/" >Surface waves and instabilities</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>Surface waves and wrinkles can be used to characterise the underlying soft solid.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
+
         
         
         
           
           
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -837,23 +912,34 @@
     
     <div class="card-text">
       <h4><a href="https://github.com/arturgower/EntropyGO" target="_blank" rel="noopener">Entropy GO</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>Use AI concepts, such as entropy maximisation, to play games.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
+
         
         
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -869,23 +955,34 @@
     
     <div class="card-text">
       <h4><a href="/project/multiple-scattering/" >Waves in Complex Materials</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>The aim is to understand how waves (like sound, radio, light, and vibrations) behave in materials with random microstructure.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
+
         
         
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -901,23 +998,34 @@
     
     <div class="card-text">
       <h4><a href="/project/industry/" >Industrial Mathematics</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>Combining maths, data and code to solve commercial and industrial problems.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
+
         
         
         
+
         
           
 
 
 
+
+
+
+
+
+  
 
 
 
@@ -933,14 +1041,17 @@
     
     <div class="card-text">
       <h4><a href="/project/initial-stress/" >The mechanics of soft solids</a></h4>
-      <div class="card-desription">
+      
+      <div class="article-style">
         <p>How do we mathematically describe the stresses and deformation of anisotropic soft solids.</p>
       </div>
+      
     </div>
   </div>
 </div>
 
         
+
       
     </div>
 
@@ -949,7 +1060,6 @@
 
     </div>
   </section>
-  
 
   
   
@@ -974,7 +1084,14 @@
 
   
   
-  <section id="featured" class="home-section wg-featured   " >
+  
+  
+  
+
+  
+  
+
+  <section id="featured" class="home-section wg-featured   "  >
     <div class="container">
       
 
@@ -1017,8 +1134,6 @@
 
 
 
-
-  
   
 
 
@@ -1028,15 +1143,11 @@
   
 
 
-<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+<div class="card-simple">
 
   
     
 
-
-
-<meta content="2019-06-03 11:29:37 &#43;0100 BST" itemprop="datePublished">
-<meta content="2019-06-03 11:29:37 &#43;0100 BST" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -1049,7 +1160,7 @@
     
       
     
-    <time>June 2019</time>
+    June 2019
   </span>
   
 
@@ -1066,10 +1177,9 @@
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -1080,13 +1190,13 @@
   
   
 
-  <h3 class="article-title mb-1 mt-3" itemprop="name">
-    <a href="/publication/prove-multiple-waves/" itemprop="url">A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/prove-multiple-waves/">A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>
   </h3>
 
   
-  <div class="article-style" itemprop="articleBody">
-    Materials comprising randomly distributed particles, or inclusions, occur frequently in the world around us. Common examples include composites, emulsions, suspensions, complex gases, etc&hellip; This paper is the first to clearly prove that, contrary to the belief of most in the community, multiple effective waves propagate in particulate materials (in an ensemble-average sense).
+  <div class="article-style">
+    <p>Materials comprising randomly distributed particles, or inclusions, occur frequently in the world around us. Common examples include composites, emulsions, suspensions, complex gases, etc&hellip; This paper is the first to clearly prove that, contrary to the belief of most in the community, multiple effective waves propagate in particulate materials (in an ensemble-average sense).</p>
   </div>
   
 
@@ -1157,8 +1267,6 @@
 
 
 
-
-  
   
 
 
@@ -1168,15 +1276,11 @@
   
 
 
-<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+<div class="card-simple">
 
   
     
 
-
-
-<meta content="2019-01-31 11:59:32 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2019-01-31 11:59:32 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -1189,7 +1293,8 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
   </div>
   
@@ -1201,7 +1306,7 @@
     
       
     
-    <time>January 2019</time>
+    January 2019
   </span>
   
 
@@ -1218,10 +1323,9 @@
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -1232,13 +1336,13 @@
   
   
 
-  <h3 class="article-title mb-1 mt-3" itemprop="name">
-    <a href="/publication/multiple-waves/" itemprop="url">Multiple Waves Propagate in Random Particulate Materials</a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/multiple-waves/">Multiple Waves Propagate in Random Particulate Materials</a>
   </h3>
 
   
-  <div class="article-style" itemprop="articleBody">
-    We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged particulate material. By particulate material we mean a medium filled with randomly placed particles and consider waves governed by the scalar wave equation. Although most of these waves decay rapidly, they make a significant contribution to reflection and transmission beyond the low-frequency regime. In two spatial dimensions, we develop an efficient method to calculate all these waves, which gives highly accurate predictions when compared to a finite-difference scheme. This method is, to the authors knowledge, the first of its kind to give accurate predictions across a broad frequency range and particle volume fraction.
+  <div class="article-style">
+    <p>We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged particulate material. By particulate material we mean a medium filled with randomly placed particles and consider waves governed by the scalar wave equation. Although most of these waves decay rapidly, they make a significant contribution to reflection and transmission beyond the low-frequency regime. In two spatial dimensions, we develop an efficient method to calculate all these waves, which gives highly accurate predictions when compared to a finite-difference scheme. This method is, to the authors knowledge, the first of its kind to give accurate predictions across a broad frequency range and particle volume fraction.</p>
   </div>
   
 
@@ -1315,8 +1419,6 @@
 
 
 
-
-  
   
 
 
@@ -1326,15 +1428,11 @@
   
 
 
-<div class="card-simple" itemscope itemtype="http://schema.org/ScholarlyArticle">
+<div class="card-simple">
 
   
     
 
-
-
-<meta content="2018-01-13 20:08:40 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-01-13 20:08:40 &#43;0000 UTC" itemprop="dateModified">
 
 <div class="article-metadata">
 
@@ -1347,7 +1445,8 @@
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
   </div>
   
@@ -1359,7 +1458,7 @@
     
       
     
-    <time>January 2018</time>
+    January 2018
   </span>
   
 
@@ -1376,10 +1475,9 @@
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -1390,13 +1488,13 @@
   
   
 
-  <h3 class="article-title mb-1 mt-3" itemprop="name">
-    <a href="/publication/learning_backscattering/" itemprop="url">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/learning_backscattering/">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>
   </h3>
 
   
-  <div class="article-style" itemprop="articleBody">
-    To what extent can particulate random media be characterised using direct wave backscattering from a single receiver/source? Here, in a two-dimensional setting, we show using a machine learning approach that both the particle radius and concentration can be accurately measured when the boundary condition on the particles is of Dirichlet type. Although the methods we introduce could be applied to any particle type. In general backscattering is challenging to interpret for a wide range of particle concentrations, because multiple scattering cannot be ignored, except in the very dilute range. Across the concentration range from 1% to 20% we find that the mean backscattered wave field is sufficient to accurately determine the concentration of particles. However, to accurately determine the particle radius, the second moment, or average intensity, of the backscattering is necessary. We are also able to determine what is the ideal frequency range to measure a broad range of particles sizes. To get rigorous results with supervised machine learning requires a large, highly precise, dataset of backscattered waves from an infinite half-space filled with particles. We are able to create this dataset by introducing a numerical approach which accurately approximates the backscattering from an infinite half-space.
+  <div class="article-style">
+    <p>To what extent can particulate random media be characterised using direct wave backscattering from a single receiver/source? Here, in a two-dimensional setting, we show using a machine learning approach that both the particle radius and concentration can be accurately measured when the boundary condition on the particles is of Dirichlet type. Although the methods we introduce could be applied to any particle type. In general backscattering is challenging to interpret for a wide range of particle concentrations, because multiple scattering cannot be ignored, except in the very dilute range. Across the concentration range from 1% to 20% we find that the mean backscattered wave field is sufficient to accurately determine the concentration of particles. However, to accurately determine the particle radius, the second moment, or average intensity, of the backscattering is necessary. We are also able to determine what is the ideal frequency range to measure a broad range of particles sizes. To get rigorous results with supervised machine learning requires a large, highly precise, dataset of backscattered waves from an infinite half-space filled with particles. We are able to create this dataset by introducing a numerical approach which accurately approximates the backscattering from an infinite half-space.</p>
   </div>
   
 
@@ -1499,7 +1597,6 @@
 
     </div>
   </section>
-  
 
   
   
@@ -1524,7 +1621,14 @@
 
   
   
-  <section id="publications" class="home-section wg-pages   " >
+  
+  
+  
+
+  
+  
+
+  <section id="publications" class="home-section wg-pages   "  >
     <div class="container">
       
 
@@ -1575,12 +1679,12 @@
   </div>
   <div class="col-12 col-lg-8">
 
-    <p><div class="alert alert-note">
+    <div class="alert alert-note">
   <div>
     Quickly discover relevant content by <a href="https://arturgower.github.io/publication/" target="_blank">filtering publications</a>.
   </div>
 </div>
-</p>
+
 
     
       
@@ -1592,26 +1696,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/prove-multiple-waves/" itemprop="url">A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/prove-multiple-waves/" >A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       Materials comprising randomly distributed particles, or inclusions, occur frequently in the world around us. Common examples include …
     </div>
     
@@ -1697,26 +1801,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/multiple-waves/" itemprop="url">Multiple Waves Propagate in Random Particulate Materials</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/multiple-waves/" >Multiple Waves Propagate in Random Particulate Materials</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged …
     </div>
     
@@ -1726,12 +1830,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
       </div>
       
@@ -1817,26 +1922,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/scattering-software/" itemprop="url">MultipleScattering.jl</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/scattering-software/" >MultipleScattering.jl</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       <a href="https://github.com/jondea/MultipleScattering.jl" target="_blank">MultipleScattering.jl</a>: a Julia library for simulating, processing, and plotting multiple scattering of acoustic waves.
     </div>
     
@@ -1846,12 +1951,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-deakin/">J. Deakin</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>
 
       </div>
       
@@ -1937,26 +2043,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/learning_backscattering/" itemprop="url">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/learning_backscattering/" >Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       To what extent can particulate random media be characterised using direct wave backscattering from a single receiver/source? Here, in a …
     </div>
     
@@ -1966,12 +2072,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/r.-m.-gower/">R. M. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
       </div>
       
@@ -2084,26 +2191,26 @@
 
 
 
+
   
-  
-  
-
-
-
-
-
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+
+
+
+  
+
+
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/publication/multi-species/" itemprop="url">Reflection from a multi-species material and its transmitted effective wavenumber</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/multi-species/" >Reflection from a multi-species material and its transmitted effective wavenumber</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       We formally deduce closed-form expressions for the transmitted effective wavenumber of a material comprising multiple types of …
     </div>
     
@@ -2113,12 +2220,13 @@
       
 
       
-      <div itemprop="author">
+      <div>
         
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/m.-j.-smith/">M. J. Smith</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
+  
+  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/m.-j.-smith/">M. J. Smith</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
 
       </div>
       
@@ -2231,7 +2339,6 @@
 
     </div>
   </section>
-  
 
   
   
@@ -2256,7 +2363,14 @@
 
   
   
-  <section id="posts" class="home-section wg-pages   " >
+  
+  
+  
+
+  
+  
+
+  <section id="posts" class="home-section wg-pages   "  >
     <div class="container">
       
 
@@ -2319,7 +2433,6 @@
 
 
 
-  
 
 
 
@@ -2328,15 +2441,15 @@
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/work-with-me/" itemprop="url">Work With Me</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/work-with-me/" >Work With Me</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       Am always happy to discuss research and exchange ideas. Find my contact details here. See below for funded PhD opportunities.
 PhD …
     </div>
@@ -2350,10 +2463,6 @@ PhD …
         
 
 
-
-<meta content="2019-05-19 13:58:32 &#43;0100 BST" itemprop="datePublished">
-<meta content="2019-05-19 13:58:32 &#43;0100 BST" itemprop="dateModified">
-
 <div class="article-metadata">
 
   
@@ -2365,7 +2474,8 @@ PhD …
 
 
 
-  <span itemprop="author name" itemtype="http://schema.org/Person"><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
+  
+  <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
 
   </div>
   
@@ -2377,7 +2487,7 @@ PhD …
     
       
     
-    <time>May 19, 2019</time>
+    May 19, 2019
   </span>
   
 
@@ -2392,10 +2502,9 @@ PhD …
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -2423,7 +2532,6 @@ PhD …
 
 
 
-  
 
 
 
@@ -2432,15 +2540,15 @@ PhD …
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/wing-faults/" itemprop="url">Detecting faults on a wing</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/wing-faults/" >Detecting faults on a wing</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       Below is the outline of a wing with a bolt and two plates (green) that were not fitted together correctly (may require zooming in). The …
     </div>
     
@@ -2453,10 +2561,6 @@ PhD …
         
 
 
-
-<meta content="2018-01-13 20:57:07 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-01-13 20:57:07 &#43;0000 UTC" itemprop="dateModified">
-
 <div class="article-metadata">
 
   
@@ -2468,7 +2572,7 @@ PhD …
     
       
     
-    <time>Jan 13, 2018</time>
+    Jan 13, 2018
   </span>
   
 
@@ -2483,10 +2587,9 @@ PhD …
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -2501,8 +2604,8 @@ PhD …
     
     
     
-    <a href="/post/wing-faults/">
-      <img src="/post/wing-faults/featured_hud2ffe45eedb2e35d326f56d87586f143_24995_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    <a href="/post/wing-faults/" >
+      <img src="/post/wing-faults/featured_hud2ffe45eedb2e35d326f56d87586f143_24995_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2519,7 +2622,6 @@ PhD …
 
 
 
-  
 
 
 
@@ -2528,15 +2630,15 @@ PhD …
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/train/" itemprop="url">Tracking train tracks</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/train/" >Tracking train tracks</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.   --  To increase the number of …
     </div>
     
@@ -2549,10 +2651,6 @@ PhD …
         
 
 
-
-<meta content="2018-01-13 20:40:02 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-01-13 20:40:02 &#43;0000 UTC" itemprop="dateModified">
-
 <div class="article-metadata">
 
   
@@ -2564,7 +2662,7 @@ PhD …
     
       
     
-    <time>Jan 13, 2018</time>
+    Jan 13, 2018
   </span>
   
 
@@ -2579,10 +2677,9 @@ PhD …
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -2597,8 +2694,8 @@ PhD …
     
     
     
-    <a href="/post/train/">
-      <img src="/post/train/featured_hu4a133914e6d55e961b689daebb77b5b2_104359_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    <a href="/post/train/" >
+      <img src="/post/train/featured_hu4a133914e6d55e961b689daebb77b5b2_104359_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2615,7 +2712,6 @@ PhD …
 
 
 
-  
 
 
 
@@ -2624,15 +2720,15 @@ PhD …
   
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/BlogPosting">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/post/cable-arranging/" itemprop="url">The art of cable arranging</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/post/cable-arranging/" >The art of cable arranging</a>
     </h3>
 
     
-    <div class="article-style" itemprop="articleBody">
+    <div class="article-style">
       How to design a collection of cables to be both robust and flexible? A subsea control umbilical is a collection of electrical, fibre …
     </div>
     
@@ -2645,10 +2741,6 @@ PhD …
         
 
 
-
-<meta content="2018-01-13 20:25:45 &#43;0000 UTC" itemprop="datePublished">
-<meta content="2018-01-13 20:25:45 &#43;0000 UTC" itemprop="dateModified">
-
 <div class="article-metadata">
 
   
@@ -2660,7 +2752,7 @@ PhD …
     
       
     
-    <time>Jan 13, 2018</time>
+    Jan 13, 2018
   </span>
   
 
@@ -2675,10 +2767,9 @@ PhD …
 
   
   
-
-  
   
 
+  
   
 
 </div>
@@ -2693,8 +2784,8 @@ PhD …
     
     
     
-    <a href="/post/cable-arranging/">
-      <img src="/post/cable-arranging/featured_hu9558ac21944205c596edf5147be75fd8_63691_150x0_resize_q90_lanczos.jpg" itemprop="image">
+    <a href="/post/cable-arranging/" >
+      <img src="/post/cable-arranging/featured_hu9558ac21944205c596edf5147be75fd8_63691_150x0_resize_q90_lanczos.jpg" alt="">
     </a>
     
   </div>
@@ -2710,7 +2801,6 @@ PhD …
 
     </div>
   </section>
-  
 
   
   
@@ -2735,7 +2825,14 @@ PhD …
 
   
   
-  <section id="talks" class="home-section wg-pages   " >
+  
+  
+  
+
+  
+  
+
+  <section id="talks" class="home-section wg-pages   "  >
     <div class="container">
       
 
@@ -2798,20 +2895,20 @@ PhD …
 
 
 
+
   
   
-  
 
 
 
 
 
 
-<div class="media stream-item" itemscope itemtype="http://schema.org/Event">
+<div class="media stream-item">
   <div class="media-body">
 
-    <h3 class="article-title mb-0 mt-0" itemprop="name">
-      <a href="/talk/talk-links/" itemprop="url">Links to recent talks</a>
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/talk/talk-links/" >Links to recent talks</a>
     </h3>
 
     
@@ -2820,13 +2917,8 @@ PhD …
 
       
       <div>
-        <span itemprop="startDate">
-          
-          May 17, 2019
-          
-            7:12 PM
-            
-          
+        <span>
+          May 17, 2019 19:12
         </span>
         
       </div>
@@ -2950,7 +3042,6 @@ PhD …
 
     </div>
   </section>
-  
 
   
   
@@ -2975,9 +3066,31 @@ PhD …
 
   
   
-  <section id="tags" class="home-section wg-tag-cloud   " >
+  
+  
+  
+
+  
+  
+
+  <section id="tags" class="home-section wg-tag-cloud   "  >
     <div class="container">
       
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
 
 
 <div class="row">
@@ -2989,8 +3102,6 @@ PhD …
     
 
     
-      
-      
 
       
       
@@ -3003,212 +3114,102 @@ PhD …
           
           
           
-          <a href="/tags/acousto-elasticity/" style="font-size:0.8rem">acousto-elasticity</a>
+          <a href="/tags/anisotropy/" style="font-size:3.7061691952974734rem">anisotropy</a>
         
           
           
           
-          <a href="/tags/anisotropy/" style="font-size:1.8725805810714777rem">anisotropy</a>
+          <a href="/tags/constitutive-equations/" style="font-size:0.8rem">Constitutive equations</a>
         
           
           
           
-          <a href="/tags/automatic-differentiation/" style="font-size:0.8rem">automatic-differentiation</a>
+          <a href="/tags/elasticity/" style="font-size:6.612338390594947rem">elasticity</a>
         
           
           
           
-          <a href="/tags/composite-materials/" style="font-size:0.8rem">composite-materials</a>
+          <a href="/tags/ensemble-averaging/" style="font-size:2.5rem">ensemble averaging</a>
         
           
           
           
-          <a href="/tags/constitutive-equations/" style="font-size:1.336290290535739rem">constitutive-equations</a>
+          <a href="/tags/fibre-reinforced/" style="font-size:0.8rem">fibre-reinforced</a>
         
           
           
           
-          <a href="/tags/effective-waves/" style="font-size:0.8rem">effective-waves</a>
+          <a href="/tags/homogenisation/" style="font-size:0.8rem">homogenisation</a>
         
           
           
           
-          <a href="/tags/elasticity/" style="font-size:2.408870871607216rem">elasticity</a>
+          <a href="/tags/industry/" style="font-size:6.052479199453075rem">industry</a>
         
           
           
           
-          <a href="/tags/ensemble-averaging/" style="font-size:1.65rem">ensemble-averaging</a>
+          <a href="/tags/initial-stress/" style="font-size:3.7061691952974734rem">initial-stress</a>
         
           
           
           
-          <a href="/tags/fibre-reinforced/" style="font-size:1.336290290535739rem">fibre-reinforced</a>
+          <a href="/tags/instabilities/" style="font-size:3.7061691952974734rem">instabilities</a>
         
           
           
           
-          <a href="/tags/finite-elements/" style="font-size:0.8rem">finite-elements</a>
+          <a href="/tags/inverse-methods/" style="font-size:3.7061691952974734rem">inverse-methods</a>
         
           
           
           
-          <a href="/tags/hessian-matrix/" style="font-size:0.8rem">hessian-matrix</a>
+          <a href="/tags/multiple-scattering/" style="font-size:5.4061691952974735rem">multiple-scattering</a>
         
           
           
           
-          <a href="/tags/high-order-methods/" style="font-size:0.8rem">high-order-methods</a>
+          <a href="/tags/non-linear-elasticity/" style="font-size:0.8rem">non-linear elasticity</a>
         
           
           
           
-          <a href="/tags/homogenisation/" style="font-size:1.336290290535739rem">homogenisation</a>
+          <a href="/tags/optimisation/" style="font-size:6.052479199453075rem">optimisation</a>
         
           
           
           
-          <a href="/tags/industry/" style="font-size:2.305557186787209rem">industry</a>
+          <a href="/tags/random-media/" style="font-size:5.4061691952974735rem">random-media</a>
         
           
           
           
-          <a href="/tags/initial-stress/" style="font-size:1.8725805810714777rem">initial-stress</a>
+          <a href="/tags/residual-stress/" style="font-size:2.5rem">residual stress</a>
         
           
           
           
-          <a href="/tags/instabilities/" style="font-size:1.8725805810714777rem">instabilities</a>
+          <a href="/tags/soft-matter/" style="font-size:0.8rem">soft matter</a>
         
           
           
           
-          <a href="/tags/inverse-methods/" style="font-size:1.8725805810714777rem">inverse-methods</a>
+          <a href="/tags/solid-mechanics/" style="font-size:3.7061691952974734rem">solid-mechanics</a>
         
           
           
           
-          <a href="/tags/mooney-rivlin-material/" style="font-size:0.8rem">mooney-rivlin-material</a>
+          <a href="/tags/surface-waves/" style="font-size:0.8rem">surface-waves</a>
         
           
           
           
-          <a href="/tags/multi-species/" style="font-size:0.8rem">multi-species</a>
+          <a href="/tags/waves/" style="font-size:3.7061691952974734rem">waves</a>
         
           
           
           
-          <a href="/tags/multiple-scattering/" style="font-size:2.1862902905357386rem">multiple-scattering</a>
-        
-          
-          
-          
-          <a href="/tags/non-linear-elasticity/" style="font-size:1.336290290535739rem">non-linear-elasticity</a>
-        
-          
-          
-          
-          <a href="/tags/non-principal-waves/" style="font-size:0.8rem">non-principal-waves</a>
-        
-          
-          
-          
-          <a href="/tags/opening-angle-method/" style="font-size:0.8rem">opening-angle-method</a>
-        
-          
-          
-          
-          <a href="/tags/optimisation/" style="font-size:2.305557186787209rem">optimisation</a>
-        
-          
-          
-          
-          <a href="/tags/particulate-materials/" style="font-size:0.8rem">particulate-materials</a>
-        
-          
-          
-          
-          <a href="/tags/polydisperse/" style="font-size:0.8rem">polydisperse</a>
-        
-          
-          
-          
-          <a href="/tags/post-buckling/" style="font-size:0.8rem">post-buckling</a>
-        
-          
-          
-          
-          <a href="/tags/random-media/" style="font-size:2.1862902905357386rem">random-media</a>
-        
-          
-          
-          
-          <a href="/tags/residual-stress/" style="font-size:1.65rem">residual-stress</a>
-        
-          
-          
-          
-          <a href="/tags/sensitivity-analysis/" style="font-size:0.8rem">sensitivity-analysis</a>
-        
-          
-          
-          
-          <a href="/tags/size-distribution/" style="font-size:0.8rem">size-distribution</a>
-        
-          
-          
-          
-          <a href="/tags/soft-matter/" style="font-size:1.336290290535739rem">soft-matter</a>
-        
-          
-          
-          
-          <a href="/tags/soft-tube/" style="font-size:0.8rem">soft-tube</a>
-        
-          
-          
-          
-          <a href="/tags/solid-mechanics/" style="font-size:1.8725805810714777rem">solid-mechanics</a>
-        
-          
-          
-          
-          <a href="/tags/stability-analysis/" style="font-size:0.8rem">stability-analysis</a>
-        
-          
-          
-          
-          <a href="/tags/surface-waves/" style="font-size:1.336290290535739rem">surface-waves</a>
-        
-          
-          
-          
-          <a href="/tags/tensors-vector-products/" style="font-size:0.8rem">tensors-vector-products</a>
-        
-          
-          
-          
-          <a href="/tags/wave-propagation/" style="font-size:0.8rem">wave-propagation</a>
-        
-          
-          
-          
-          <a href="/tags/wave-transmission/" style="font-size:0.8rem">wave-transmission</a>
-        
-          
-          
-          
-          <a href="/tags/waves/" style="font-size:1.8725805810714777rem">waves</a>
-        
-          
-          
-          
-          <a href="/tags/wiener-hopf/" style="font-size:0.8rem">wiener-hopf</a>
-        
-          
-          
-          
-          <a href="/tags/wrinkles/" style="font-size:1.336290290535739rem">wrinkles</a>
+          <a href="/tags/wrinkles/" style="font-size:0.8rem">wrinkles</a>
         
       </div>
     
@@ -3218,7 +3219,6 @@ PhD …
 
     </div>
   </section>
-  
 
   
   
@@ -3243,9 +3243,17 @@ PhD …
 
   
   
-  <section id="contact" class="home-section wg-contact   " >
+  
+  
+  
+
+  
+  
+
+  <section id="contact" class="home-section wg-contact   "  >
     <div class="container">
       
+
 
 
 
@@ -3267,7 +3275,7 @@ PhD …
     
 
     <div class="mb-3">
-      <form name="contact" method="POST" action="https://formspree.io/arturgower$@$gmail.com">
+      <form name="contact" method="POST" action="https://formspree.io/arturgower@gmail.com">
         <div class="form-group form-inline">
           <label class="sr-only" for="inputName">Name</label>
           <input type="text" name="name" class="form-control w-100" id="inputName" placeholder="Name" required>
@@ -3285,16 +3293,31 @@ PhD …
     </div>
     
 
-    <ul class="fa-ul" itemscope>
+    <ul class="fa-ul">
 
       
 
+      
+
+      
+      
+        
+        
+        
+        
+        
+        
+        
+        <li>
+          <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
+          <span id="person-address">RD08, Mappin Mining Block, Sheffield, Yorkshire, S1 4DT, United Kingdom</span>
+        </li>
       
 
       
       <li>
-        <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-        <span id="person-address" itemprop="address">RD08, Mining block, University of Sheffield, UK</span>
+        <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
+        <span>Entre through the Mining block, walk up two stairs to level 2 then find office RD08.</span>
       </li>
       
 
@@ -3317,26 +3340,22 @@ PhD …
       
       <li>
         <i class="fa-li fab fa-twitter fa-2x" aria-hidden="true"></i>
-        <a href="https://twitter.com/arturgower" target="_blank" rel="noopener">Message me</a>
-      </li>
-      
-      
-      
-      
-        
-      
-      
-      
-      
-      
-      <li>
-        <i class="fa-li fab fa-skype fa-2x" aria-hidden="true"></i>
-        <a href="skype:arturgower?call" >Skype me</a>
+        <a href="https://twitter.com/Twitter" target="_blank" rel="noopener">Message Me</a>
       </li>
       
 
     </ul>
 
+    
+    <div class="d-none">
+      <input id="map-provider" value="2">
+      <input id="map-lat" value="53.382164">
+      <input id="map-lng" value="-1.478298">
+      <input id="map-dir" value="RD08, Mappin Mining Block, Sheffield, Yorkshire, S1 4DT, United Kingdom">
+      <input id="map-zoom" value="16">
+      <input id="map-api-key" value="">
+    </div>
+    <div id="map"></div>
     
 
   </div>
@@ -3344,66 +3363,12 @@ PhD …
 
     </div>
   </section>
-  
 
 
-<div class="container">
-  <footer class="site-footer">
-  
 
-  <p class="powered-by">
-    &copy; 2019 Artur L Gower &middot; 
-
-    Powered by the
-    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
-    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+      
 
     
-    <span class="float-right" aria-hidden="true">
-      <a href="#" id="back_to_top">
-        <span class="button_icon">
-          <i class="fas fa-chevron-up fa-2x"></i>
-        </span>
-      </a>
-    </span>
-    
-  </p>
-</footer>
-
-</div>
-
-
-<div id="modal" class="modal fade" role="dialog">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h5 class="modal-title">Cite</h5>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-        <pre><code class="tex hljs"></code></pre>
-      </div>
-      <div class="modal-footer">
-        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
-          <i class="fas fa-copy"></i> Copy
-        </a>
-        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
-          <i class="fas fa-download"></i> Download
-        </a>
-        <div id="modal-error"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-    
-
-    
-    
-    
-    <script src="/js/mathjax-config.js"></script>
     
 
     
@@ -3412,25 +3377,25 @@ PhD …
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.5/jquery.fancybox.min.js" integrity="sha256-X5PoE3KU5l+JcX+w09p/wHl9AzK333C4hJ2I9S5mD4M=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
 
       
         
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js" integrity="sha256-/BfiIkHlHoVihZdc6TFuj7MmJ0TWcWsMXkeDFwhi0zw=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
         
       
 
       
       
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin="anonymous" async></script>
-      
     
 
     
     
-
-    
-    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
     
 
     
@@ -3440,13 +3405,13 @@ PhD …
 
     
     
+    
+    
+    
+    
     <script>
-      const search_index_filename = "/index.json";
-      const i18n = {
-        'placeholder': "Search...",
-        'results': "results found",
-        'no_results': "No results found"
-      };
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
       const content_type = {
         'post': "Posts",
         'project': "Projects",
@@ -3485,6 +3450,9 @@ PhD …
 
     
     
+
+    
+    
     
     
     
@@ -3497,9 +3465,68 @@ PhD …
     
     
     
-    <script src="/js/academic.min.3258b3a711acd6208568ec000de4beec.js"></script>
+    <script src="/js/academic.min.d6bd04fdad2ad213aa8111c5a3b72fc5.js"></script>
 
-  </body>
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    &copy; 2019 Artur L Gower &middot; 
+
+    Powered by the
+    <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a>.
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
 </html>
-
-
