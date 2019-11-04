@@ -5,12 +5,50 @@
     <link>https://arturgower.github.io/post/</link>
       <atom:link href="https://arturgower.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Sun, 19 May 2019 13:58:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2019 Artur L Gower</copyright><lastBuildDate>Mon, 04 Nov 2019 16:02:03 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://arturgower.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Workshop on Waves in Random Media</title>
+      <link>https://arturgower.github.io/post/random-waves-workshop/</link>
+      <pubDate>Mon, 04 Nov 2019 16:02:03 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/random-waves-workshop/</guid>
+      <description>
+
+&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+
+&lt;p&gt;Waves propagating in random media are key to many areas of physics and engineering. These random media include gases, emulsions, powders, porous and polycrystalline materials, to name just a few. The theoretical tools to understand these waves can be applied to all linear waves, such as acoustics, light, and elastic. Yet, the community, and the tools used are quite disconnected.  This workshop aims to bridge the gaps between mathematicians, physics, and engineers, and better understand our connections, and share recent advances.&lt;/p&gt;
+
+&lt;h3 id=&#34;confirmed-speakers&#34;&gt;Confirmed Speakers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://inside.mines.edu/~pamartin/&#34;&gt;Paul A. Martin&lt;/a&gt;, Professor of Applied Mathematics, Colorado School of Mines.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.uci.edu/~ksolna/&#34;&gt;Knut solna&lt;/a&gt;, Professor of Mathematics, University of California at Irvine.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.institut-langevin.espci.fr/romain_pierrat&#34;&gt;Romain Pierrat&lt;/a&gt;, Scientist at CNRS, ESPCI Paris, Institut Langevin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikerbasque.net/en/juan-jose-saenz&#34;&gt;Juan-José Saenz&lt;/a&gt;, Ikerbasque Research Professor at DIPC - Donostia International Physics Center.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rottergroup.itp.tuwien.ac.at/&#34;&gt;Stefan Rotter&lt;/a&gt;, Professor of Computational Neuroscience, Bernstein Center Freiburg.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rottergroup.itp.tuwien.ac.at/&#34;&gt;Stefan Rotter&lt;/a&gt;, Professor of Computational Neuroscience, Bernstein Center Freiburg.&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://lpmmc.cnrs.fr/spip.php?article181&amp;lang=fr&#34;&gt; Sergey Skipetrov&lt;/a&gt;, Senior Scientist at CNRS, Laboratoire de Physique et Modélisation des Milieux.&lt;/p&gt;
+
+&lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
+
+&lt;p&gt;We greatly appreciate the funding given by the &lt;a href=&#34;https://acoustics.ac.uk&#34;&gt;UK Acoustics Network&lt;/a&gt; for this workshop.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/#home&#34;&gt;Art Gower&lt;/a&gt;, Lecturer in Dyamics, University of Sheffield.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strath.ac.uk/staff/tantkatherinemargaretmarymiss/&#34;&gt; Katy Tant&lt;/a&gt;, Strathclyde Chancellor&amp;rsquo;s Fellow, University of Strathclyde.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.lp2n.fr/nanomix/&#34;&gt; Kevin Vynck&lt;/a&gt;, Scientist at CNRS, Laboratory for Photonics, Numerics and Nanosciences.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Work With Me</title>
