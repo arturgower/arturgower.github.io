@@ -18,29 +18,17 @@
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
 --&gt;
-
-&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
-
+&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&#39;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
 &lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
-
 &lt;!-- Factual information about the significance of the output
 
 This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
@@ -58,7 +46,6 @@ that are aligned obliquely as revealed by the authors was unexpected to me.
 - A very original paper, clearly written and containing pertinent informations.
 
 --&gt;
-
 &lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
 
 Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
@@ -73,27 +60,16 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/tube-morphology/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/tube-table.png&#34; data-caption=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
 --&gt;
-
-&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&amp;rsquo;s mechanical function and properties to its pattern.&lt;/p&gt;
-
+&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&#39;s mechanical function and properties to its pattern.&lt;/p&gt;
 &lt;!-- Factual information about the significance of the output
 
 This paper was the first to demonstrate how internals stress can be directly related to pattern formation (through instabilities). A range of papers on pattern formation in soft tissues have resulted from this work, including:
@@ -103,7 +79,6 @@ This paper was the first to demonstrate how internals stress can be directly rel
 - theoretical frameworks which connect tissue growth, internal stress, with pattern formation.
 
 --&gt;
-
 &lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
 
 Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
@@ -118,19 +93,11 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 </description>
     </item>
@@ -143,11 +110,8 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <description>&lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
 --&gt;
-
 &lt;p&gt;Stresses in solids can arise due to an external load, or from internal changes such as thermal expansion and growth. Significant residual stress are present in biological tissues due to growth, in most metal due to cooling and rolling, and even in the earths crust due to gravity and active tectonics. These stresses greatly alter the elastic behaviour of a solid, which is the theme of this work. This paper demonstrated that a basic physical law (related to energy conservation) was missing from all the elastic models in the field. This physical law also allows elegant shortcuts to model in-vivo stress conditions, which we used to model the elastic behaviour of an artery under ideal in-vivo conditions. Previous studies needed to use heavy numerical implementations to achieve a similar non-optimal result.&lt;/p&gt;
-
 &lt;!-- Factual information about the significance of the output --&gt;
-
 &lt;!--
 
 Anonymous reviewer:
@@ -161,7 +125,6 @@ Main impact: this work changed the communities approach to modelling elastic sol
 
 
 --&gt;
-
 &lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
 
 Artur Gower conceived of the study, developed the theoretical framework, and produced the numerical results and graphs.
@@ -176,29 +139,17 @@ Artur Gower conceived of the study, developed the theoretical framework, and pro
       <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/robust-anisotropy/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; data-caption=&#34;Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
 --&gt;
-
 &lt;p&gt;Modelling soft tissues has an immense potential to impact healthcare. It will enable a revolution of simulated surgeries, and long term predictions of prosthetics in the human body. Most soft tissues are reinforced by fibres (anisotropic). In this paper, we demonstrated how to implement, in finite element, robust models of anisotropic soft tissues. We were the first to correctly model volumetric changes in soft tissues, which, previously, were ignored by most finite element methods. To demonstrate the importance of our method, we simulated a stent deployed in an artery, and showed how the arterial forces were significantly under predicted with previous models.&lt;/p&gt;
-
 &lt;!-- Factual information about the significance of the output --&gt;
-
 &lt;!-- This papers has influenced a wide community which models soft tissues with finite element.
  By tracking the 80+ citations of this paper, some of the numerous  
  Some
@@ -208,7 +159,6 @@ Justification Statement: the originality, significance and rigour of this output
 - models of the elastic behaviour of skin tissues.
 - mechano-electrochemical models for smooth muscle contraction.
 --&gt;
-
 &lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
 
 Artur Gower developed both the theoretical framework, mathematical examples, and custom elasticity tensors used by Abacus (finite element software. David Nolan developed and implemented the simulations examples in the paper. All authors helped draft the manuscript and conceive the study.
@@ -223,23 +173,13 @@ Artur Gower developed both the theoretical framework, mathematical examples, and
       <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/acousto-elasticity/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A plane surface wave travelling on the top of a deformed soft solid.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     A plane surface wave travelling on the top of a deformed soft solid.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;p&gt;Highlights:&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;We revisit the theory of acousto-elasticity in deformed isotropic solids.&lt;/li&gt;
 &lt;li&gt;Intuition suggests that slowest and the fastest waves should travel along the directions of least and greatest stretch.&lt;/li&gt;
@@ -255,21 +195,12 @@ Artur Gower developed both the theoretical framework, mathematical examples, and
       <pubDate>Mon, 27 May 2013 20:00:17 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/skin-shear/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; data-caption=&#34;On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; alt=&#34;&#34; width=&#34;90%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;p&gt;We explore how the alignment of surface wrinkles relate to the directions of the reinforcing fibres in the skin. This technique is used to estimate the Langer lines (directions of greatest tension), which then indicates where incisions are best made for surgery.&lt;/p&gt;
 </description>
     </item>
