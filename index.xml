@@ -21,7 +21,7 @@
 &lt;p&gt;Waves propagating in random media are key to many areas of physics and engineering. These random media include gases, emulsions, powders, porous and polycrystalline materials, to name just a few. The theoretical tools to understand these waves can be applied to all linear waves, such as acoustics, light, and elastic. Yet, the community, and the tools used are quite disconnected.  This workshop aims to bridge the gaps between mathematicians, physicists, and engineers, to better understand our connections, and to share recent advances.&lt;/p&gt;
 &lt;h3 id=&#34;confirmed-speakers&#34;&gt;Confirmed Speakers&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://luke-bennetts.com/&#34;&gt;Luke Bennetts&lt;/a&gt;, Senior Lecturer in Applied Mathematics, The University of Adelaide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://luke-bennetts.com/&#34;&gt;Luke Bennetts&lt;/a&gt;, Associate Professor in Applied Mathematics, The University of Adelaide.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/19970568_Adrian_Doicu&#34;&gt;Adrian Doicu&lt;/a&gt;, Senior Scientist at the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR).&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://inside.mines.edu/~pamartin/&#34;&gt;Paul A. Martin&lt;/a&gt;, Professor of Applied Mathematics, Colorado School of Mines.&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.institut-langevin.espci.fr/romain_pierrat&#34;&gt;Romain Pierrat&lt;/a&gt;, CNRS Scientist, ESPCI Paris, Institut Langevin.&lt;/li&gt;
@@ -182,7 +182,7 @@
 &lt;li&gt;&lt;a href=&#34;#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;modelling-waves-in-complex-materialsprojectmultiplescattering&#34;&gt;&lt;a href=&#34;../../project/multiple-scattering/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;modelling-waves-in-complex-materialsprojectmultiple-scattering&#34;&gt;&lt;a href=&#34;../../project/multiple-scattering/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
 &lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;../../project/multiple-scattering/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
 
@@ -239,7 +239,7 @@
 &lt;li&gt;Mathematical modelling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;wave-scattering-from-particulatesprojectwavesoftware&#34;&gt;&lt;a href=&#34;../../project/wave-software/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulatesprojectwave-software&#34;&gt;&lt;a href=&#34;../../project/wave-software/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
 &lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/wave-software/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;../../project/multiple-scattering/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
@@ -280,7 +280,7 @@ techniques to measure and predict these particle properties are important in man
 &lt;li&gt;Mathematical modelling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;elastic-wave-propagationprojectsurfacesolid&#34;&gt;&lt;a href=&#34;../../project/surface-solid/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;elastic-wave-propagationprojectsurface-solid&#34;&gt;&lt;a href=&#34;../../project/surface-solid/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&#39;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
 &lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/surface-solid/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;../../project/initial-stress/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
 
@@ -1392,7 +1392,7 @@ img {
 &lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
 &lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/figure&gt;
-&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wingpublicationgeometricfaults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
+&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wingpublicationgeometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
 </description>
     </item>
