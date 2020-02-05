@@ -19,11 +19,8 @@
       <guid>https://arturgower.github.io/project/wave-software/</guid>
       <description>&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
-
 &lt;p&gt;I develop simulations/software to calculate &lt;a href=&#34;../../publication/scattering-software&#34;&gt;wave scattering between particles&lt;/a&gt;, and to calculate &lt;a href=&#34;../../publication/effective-wave-software&#34;&gt;effective waves&lt;/a&gt; from homogenisation methods. The main research goal is to the further our understanding of &lt;a href=&#34;../multiple-scattering&#34;&gt;waves in complex materials&lt;/a&gt; and validate theoretical models.&lt;/p&gt;
-
 &lt;p&gt;This software is very flexible: you can simulate waves reflected from any shape you can make out of spheres, such as reflected a wave off a &lt;a href=&#34;#star-wall&#34;&gt;starfish in a pipe&lt;/a&gt;.&lt;/p&gt;
-
 
 
 
@@ -52,7 +49,6 @@ techniques to measure and predict these particle properties are important in man
 
 
 &lt;/figure&gt;
-
 
 &lt;p&gt;&lt;a name=&#34;star-wall&#34;&gt;&lt;/a&gt;
 
@@ -93,13 +89,8 @@ techniques to measure and predict these particle properties are important in man
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-
+&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/figure&gt;
 </description>
     </item>
@@ -109,14 +100,9 @@ techniques to measure and predict these particle properties are important in man
       <link>https://arturgower.github.io/project/multiple-scattering/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/project/multiple-scattering/</guid>
-      <description>
-
-&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
 &lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw  creates strong durable buildings, what we call today a composite material. Composites are far better than the sum of their parts, for example they can be stronger and cheaper. Hundreds of years of experimentation has led to similar discoveries when mixing fluids and gases, what we now call complex fluids/media.&lt;/p&gt;
-
 &lt;p&gt;Today composite materials and complex fluids have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
-
 
 
 
@@ -185,22 +171,16 @@ techniques to measure and predict these particle properties are important in man
   
   
 &lt;/div&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;Click on images above. Metal matrix foams and fibre composites are examples of composites, while emulsions, suspensions, complex gases, and polymers are complex fluids.&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;My research focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals:&lt;/p&gt;
-
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Controlling waves&lt;/strong&gt; by designing the next generation of materials. These new materials can then improve telecommunications by controlling light and elastic waves, and mechanical engineering by controlling vibrations and even earthquakes.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Sensing materials&lt;/strong&gt; with waves. We sense the world around us by using waves. Light and sound are reflected from all materials, and when they reach us, our brains can decode them to understand what objects are around us. In a similar way, waves are used to sense the microstructure materials. One use is to automate manufacturing, where we need to develop sensors that can detect changes in microstructure from reflected waves. Keeping track of the microstructure is essential to determine when the material has reached its optimally flexibility, strength, or capacity to transmit information.&lt;/li&gt;
 &lt;/ol&gt;
-
 &lt;h2 id=&#34;mathematical-models&#34;&gt;Mathematical models&lt;/h2&gt;
-
 &lt;p&gt;In all these complex materials, it is impossible to know the exact position and shapes of all the microstructure. But the reflected wave does depend on the configuration of the microstructure.&lt;/p&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;
 
@@ -250,15 +230,13 @@ Caption: one reflected wave from a complex material. What can we learn about thi
 &lt;/figure&gt;
 
 Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
-
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
 &lt;p&gt;(Figures made with &lt;a href=&#34;../wave-software/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
 &lt;/blockquote&gt;
-
 &lt;p&gt;Our goal is to develop mathematical models which predict the average reflected wave and its variance (or standard deviation), as these do not depend on the configuration of the microstructure. One of our discoveries [&lt;a href=&#34;https://arxiv.org/abs/1810.10816&#34;&gt;paper 1&lt;/a&gt;,&lt;a href=&#34;https://arxiv.org/abs/1905.06996&#34;&gt;paper 2&lt;/a&gt;] is that there exists many waves, with different speeds and characteristics, that can propagate
 (in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensemble_average_(statistical_mechanics)&#34;&gt;ensemble averaged&lt;/a&gt; sense) inside these complex materials.&lt;/p&gt;
-
 &lt;p&gt;Once we have accurate mathematical models, and &lt;a href=&#34;../wave-software/&#34;&gt;software&lt;/a&gt;, we can generate a large quantity of (average) reflected waves from different material, such as shown below. This large quantity of data is essential to learn how to &lt;strong&gt;sense materials&lt;/strong&gt; and &lt;strong&gt;design materials to control waves&lt;/strong&gt;.&lt;/p&gt;
-
 
 
 
@@ -282,7 +260,6 @@ Caption: the wave reflected from the same complex material can be different each
 
 &lt;/figure&gt;
 
-
 &lt;blockquote&gt;
 &lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -294,79 +271,39 @@ Caption: the wave reflected from the same complex material can be different each
       <link>https://arturgower.github.io/project/industry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/project/industry/</guid>
-      <description>
-
-&lt;!-- &lt;style&gt;
+      <description>&lt;!-- &lt;style&gt;
 img {
     float: right;
 }
 &lt;/style&gt; --&gt;
-
 &lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
-
 &lt;p&gt;The projects below come from commercial and industrial challenges.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-
+&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/figure&gt;
-
-&lt;h4 id=&#34;tracking-train-tracks-publication-train&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/train&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;tracking-train-trackspublicationtrain&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/train&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
-
-
-
+&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/figure&gt;
-  
-
-&lt;h4 id=&#34;designing-a-collection-of-cables-publication-umbilical&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/umbilical&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;designing-a-collection-of-cablespublicationumbilical&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/umbilical&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to design a collection of cables to be both robust and flexible? The answer is to use continuous optimisation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
-
-
-
+&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/figure&gt;
-
-&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing-publication-geometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
-
+&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wingpublicationgeometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
 </description>
     </item>
