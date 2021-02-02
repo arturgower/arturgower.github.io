@@ -5,12 +5,46 @@
     <link>https://arturgower.github.io/publication_types/2/</link>
       <atom:link href="https://arturgower.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>2</title>
       <link>https://arturgower.github.io/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Effective waves for random three-dimensional particulate materials</title>
+      <link>https://arturgower.github.io/publication/effective-waves-3d/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/effective-waves-3d/</guid>
+      <description>&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
+
+&lt;figure class=&#34;alignright&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; data-caption=&#34;Shows the average scattering of a harmonic wave according to the effective waves theory.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Shows the average scattering of a harmonic wave according to the effective waves theory.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>

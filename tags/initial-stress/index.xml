@@ -5,12 +5,21 @@
     <link>https://arturgower.github.io/tags/initial-stress/</link>
       <atom:link href="https://arturgower.github.io/tags/initial-stress/index.xml" rel="self" type="application/rss+xml" />
     <description>initial-stress</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>initial-stress</title>
       <link>https://arturgower.github.io/tags/initial-stress/</link>
     </image>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>

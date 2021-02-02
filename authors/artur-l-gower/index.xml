@@ -5,12 +5,74 @@
     <link>https://arturgower.github.io/authors/artur-l-gower/</link>
       <atom:link href="https://arturgower.github.io/authors/artur-l-gower/index.xml" rel="self" type="application/rss+xml" />
     <description>Artur L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Sun, 19 May 2019 13:58:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Artur L Gower</title>
       <link>https://arturgower.github.io/authors/artur-l-gower/</link>
     </image>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/prove-multiple-waves/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/prove-multiple-waves/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; data-caption=&#34;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Work With Me</title>
@@ -24,9 +86,18 @@
 
 &lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
 
-&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.
-&lt;!-- There is currently available a [funded PhD position](https://www.sheffield.ac.uk/mecheng/phd/phd-studentships/waves-complex-materials), [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
-Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
+
+&lt;p&gt;There are currently two available funded PhD positions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
+
+&lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;

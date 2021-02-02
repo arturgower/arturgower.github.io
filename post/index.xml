@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/post/</link>
       <atom:link href="https://arturgower.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Mon, 04 Nov 2019 16:02:03 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Mon, 04 Nov 2019 16:02:03 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Posts</title>
@@ -161,9 +161,18 @@
 
 &lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
 
-&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.
-&lt;!-- There is currently available a [funded PhD position](https://www.sheffield.ac.uk/mecheng/phd/phd-studentships/waves-complex-materials), [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
-Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
+
+&lt;p&gt;There are currently two available funded PhD positions:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
+
+&lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;

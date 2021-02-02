@@ -5,12 +5,68 @@
     <link>https://arturgower.github.io/tags/</link>
       <atom:link href="https://arturgower.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://arturgower.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>multiple-scattering</title>
+      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>particulate</title>
+      <link>https://arturgower.github.io/tags/particulate/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/particulate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>random-media</title>
+      <link>https://arturgower.github.io/tags/random-media/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/random-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>elasticity</title>
+      <link>https://arturgower.github.io/tags/elasticity/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>initial-stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensing</title>
+      <link>https://arturgower.github.io/tags/sensing/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ultrasonic waves</title>
+      <link>https://arturgower.github.io/tags/ultrasonic-waves/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/ultrasonic-waves/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>composite materials</title>
@@ -25,22 +81,6 @@
       <link>https://arturgower.github.io/tags/ensemble-averaging/</link>
       <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
       <guid>https://arturgower.github.io/tags/ensemble-averaging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>multiple-scattering</title>
-      <link>https://arturgower.github.io/tags/multiple-scattering/</link>
-      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      <guid>https://arturgower.github.io/tags/multiple-scattering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>random-media</title>
-      <link>https://arturgower.github.io/tags/random-media/</link>
-      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
-      <guid>https://arturgower.github.io/tags/random-media/</guid>
       <description></description>
     </item>
     
@@ -97,14 +137,6 @@
       <link>https://arturgower.github.io/tags/anisotropy/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
       <guid>https://arturgower.github.io/tags/anisotropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>elasticity</title>
-      <link>https://arturgower.github.io/tags/elasticity/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/elasticity/</guid>
       <description></description>
     </item>
     
@@ -169,14 +201,6 @@
       <link>https://arturgower.github.io/tags/constitutive-equations/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       <guid>https://arturgower.github.io/tags/constitutive-equations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initial-stress</title>
-      <link>https://arturgower.github.io/tags/initial-stress/</link>
-      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
       <description></description>
     </item>
     

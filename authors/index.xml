@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/authors/</link>
       <atom:link href="https://arturgower.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2020 Artur L Gower</copyright><lastBuildDate>Sun, 19 May 2019 13:58:32 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Artur L. Gower</title>
+      <link>https://arturgower.github.io/authors/artur-l.-gower/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/authors/artur-l.-gower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gerhard Kristensson</title>
+      <link>https://arturgower.github.io/authors/gerhard-kristensson/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/authors/gerhard-kristensson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Artur L Gower</title>
       <link>https://arturgower.github.io/authors/artur-l-gower/</link>
-      <pubDate>Sun, 19 May 2019 13:58:32 +0100</pubDate>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/authors/artur-l-gower/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guo-Yang Li</title>
+      <link>https://arturgower.github.io/authors/guo-yang-li/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/authors/guo-yang-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michel Destrade</title>
+      <link>https://arturgower.github.io/authors/michel-destrade/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/authors/michel-destrade/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I. David Abrahams</title>
+      <link>https://arturgower.github.io/authors/i.-david-abrahams/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/authors/i.-david-abrahams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William J Parnell</title>
+      <link>https://arturgower.github.io/authors/william-j-parnell/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/authors/william-j-parnell/</guid>
       <description></description>
     </item>
     
@@ -81,14 +129,6 @@
       <link>https://arturgower.github.io/authors/pasquale-ciarletta/</link>
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       <guid>https://arturgower.github.io/authors/pasquale-ciarletta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Artur L. Gower</title>
-      <link>https://arturgower.github.io/authors/artur-l.-gower/</link>
-      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
-      <guid>https://arturgower.github.io/authors/artur-l.-gower/</guid>
       <description></description>
     </item>
     
