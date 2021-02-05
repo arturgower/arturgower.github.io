@@ -17,9 +17,7 @@
       <link>https://arturgower.github.io/project/surface-solid/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
       <guid>https://arturgower.github.io/project/surface-solid/</guid>
-      <description>
-
-&lt;!-- 
+      <description>&lt;!-- 
 
 
 
@@ -48,52 +46,28 @@
 
 &lt;/figure&gt;
  --&gt;
-
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
 &lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
 &lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
-
 &lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     illustrates how overlapping body waves (blue) creates the resulting wave front (red).
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
 </description>
     </item>
@@ -104,29 +78,17 @@
       <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/oblique-wrinkles/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;!--
 Justification Statement: the originality, significance and rigour of this output (up to 100 words).
 --&gt;
-
 &lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
-
 &lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
-
 &lt;!-- Factual information about the significance of the output
 
 This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
@@ -144,7 +106,6 @@ that are aligned obliquely as revealed by the authors was unexpected to me.
 - A very original paper, clearly written and containing pertinent informations.
 
 --&gt;
-
 &lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
 
 Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
@@ -158,52 +119,28 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <link>https://arturgower.github.io/publication/fibre-wrinkle/</link>
       <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/fibre-wrinkle/</guid>
-      <description>
-
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;p&gt;When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; data-caption=&#34;When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;will give us greater control when creating textured surfaces.&lt;/li&gt;
 &lt;li&gt;helps us understand how wrinkled surfaces form in biology, like the lining of our gut.&lt;/li&gt;
 &lt;li&gt;allow us to use these wrinkles to learn about the material and its fibres.&lt;/li&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;This last item is the focus of this paper. I study carefully the link between all possible fibres and how they effect the formation of surface wrinkles. The figure below illustrates part of the mathematics.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; data-caption=&#34;At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 </description>
     </item>
@@ -214,21 +151,12 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
       <pubDate>Mon, 27 May 2013 20:00:17 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/skin-shear/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; data-caption=&#34;On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; alt=&#34;&#34; width=&#34;90%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;p&gt;We explore how the alignment of surface wrinkles relate to the directions of the reinforcing fibres in the skin. This technique is used to estimate the Langer lines (directions of greatest tension), which then indicates where incisions are best made for surgery.&lt;/p&gt;
 </description>
     </item>
