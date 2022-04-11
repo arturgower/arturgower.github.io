@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/tags/wiener-hopf/</link>
       <atom:link href="https://arturgower.github.io/tags/wiener-hopf/index.xml" rel="self" type="application/rss+xml" />
     <description>Wiener-Hopf</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2022 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Wiener-Hopf</title>
@@ -46,12 +46,21 @@
 
 &lt;/figure&gt;
 
+
 &lt;figure&gt;
+
+
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
   &lt;figcaption&gt;
     These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
   &lt;/figcaption&gt;
+
+
 &lt;/figure&gt;
 </description>
     </item>

@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/tags/multi-species/</link>
       <atom:link href="https://arturgower.github.io/tags/multi-species/index.xml" rel="self" type="application/rss+xml" />
     <description>multi-species</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Sat, 28 Oct 2017 10:29:53 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2022 Artur L Gower</copyright><lastBuildDate>Sat, 28 Oct 2017 10:29:53 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>multi-species</title>
@@ -18,9 +18,15 @@
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
       <description>&lt;p&gt;The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.&lt;/p&gt;
+
 &lt;figure class=&#34;alignright&#34;&gt;
-&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+
+
+
 &lt;/figure&gt;
 </description>
     </item>

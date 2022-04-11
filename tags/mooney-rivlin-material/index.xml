@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/tags/mooney-rivlin-material/</link>
       <atom:link href="https://arturgower.github.io/tags/mooney-rivlin-material/index.xml" rel="self" type="application/rss+xml" />
     <description>Mooney-Rivlin material</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2022 Artur L Gower</copyright><lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Mooney-Rivlin material</title>
@@ -18,11 +18,19 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
+
+
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
   &lt;figcaption&gt;
     Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
   &lt;/figcaption&gt;
+
+
 &lt;/figure&gt;
 </description>
     </item>

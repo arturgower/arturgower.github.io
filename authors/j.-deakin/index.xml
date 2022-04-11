@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/authors/j.-deakin/</link>
       <atom:link href="https://arturgower.github.io/authors/j.-deakin/index.xml" rel="self" type="application/rss+xml" />
     <description>J. Deakin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2021 Artur L Gower</copyright><lastBuildDate>Sun, 28 Jan 2018 09:56:28 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2022 Artur L Gower</copyright><lastBuildDate>Sun, 28 Jan 2018 09:56:28 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>J. Deakin</title>
@@ -18,18 +18,35 @@
       <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/scattering-software/</guid>
       <description>&lt;figure&gt;
+
+
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; data-caption=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
   &lt;figcaption&gt;
     Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
   &lt;/figcaption&gt;
+
+
 &lt;/figure&gt;
+
 &lt;figure&gt;
+
+
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; data-caption=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
   &lt;figcaption&gt;
     Similar to the figure above, here we show the absolute magnitude of the wave.
   &lt;/figcaption&gt;
+
+
 &lt;/figure&gt;
 </description>
     </item>
@@ -40,8 +57,13 @@
       <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/learning_backscattering/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-&lt;p&gt;&lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;&lt;/p&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+
 &lt;/figure&gt;
 </description>
     </item>
