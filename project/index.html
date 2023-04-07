@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -475,10 +477,10 @@
   </div>
   
   <div>
-    <h2><a href="/project/surface-solid/">Surface waves and instabilities</a></h2>
+    <h2><a href="/project/ultrasonics/">Ultrasonics</a></h2>
     <div class="article-style">
       
-      Surface waves and wrinkles can be used to characterise the underlying soft solid.  
+      Using elastic waves, also known as ultrasonics, to measure materials or find defects  
       
     </div>
   </div>
@@ -511,7 +513,7 @@
   </div>
   
   <div>
-    <h2><a href="/project/initial-stress/">The mechanics of soft solids</a></h2>
+    <h2><a href="/project/elasticity/">The mechanics of soft solids</a></h2>
     <div class="article-style">
       
       How do we mathematically describe the stresses and deformation of anisotropic soft solids.

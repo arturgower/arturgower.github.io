@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2021-02-02T18:03:04&#43;00:00">
+    <meta property="og:updated_time" content="2023-03-02T17:43:29&#43;00:00">
   
 
   
@@ -467,34 +469,34 @@
     
     
       
-      <li><a href="https://arturgower.github.io/authors/j.-deakin/">J. Deakin</a></li>
+      <li><a href="https://arturgower.github.io/authors/raphael-c-assier/">Raphaël C Assier</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/r.-m.-gower/">R. M. Gower</a></li>
+      <li><a href="https://arturgower.github.io/authors/seok-hyun-yun/">Seok-Hyun Yun</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/m.-j.-smith/">M. J. Smith</a></li>
+      <li><a href="https://arturgower.github.io/authors/valerie-j-pinfield/">Valerie J Pinfield</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/abramo-agosti/">Abramo Agosti</a></li>
+      <li><a href="https://arturgower.github.io/authors/william-j-parnell/">William J Parnell</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/pasquale-ciarletta/">Pasquale Ciarletta</a></li>
+      <li><a href="https://arturgower.github.io/authors/artur-l.-gower/">Artur L. Gower</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/p.-ciarletta/">P. Ciarletta</a></li>
+      <li><a href="https://arturgower.github.io/authors/gerhard-kristensson/">Gerhard Kristensson</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/t.-shearer/">T. Shearer</a></li>
+      <li><a href="https://arturgower.github.io/authors/i.-david-abrahams/">I. David Abrahams</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/a.-grillo/">A. Grillo</a></li>
+      <li><a href="https://arturgower.github.io/authors/william-j.-parnell/">William J. Parnell</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/m.-carfagna/">M. Carfagna</a></li>
+      <li><a href="https://arturgower.github.io/authors/a.-l.-gower/">A. L. Gower</a></li>
     
       
-      <li><a href="https://arturgower.github.io/authors/m.-destrade/">M. Destrade</a></li>
+      <li><a href="https://arturgower.github.io/authors/i.-d.-abrahams/">I. D. Abrahams</a></li>
     
   </ul>
 

@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2021-02-02T18:03:04&#43;00:00">
+    <meta property="og:updated_time" content="2023-03-02T17:43:29&#43;00:00">
   
 
   
@@ -467,7 +469,34 @@
     
     
       
-      <li><a href="https://arturgower.github.io/authors/admin/">Artur L Gower</a></li>
+      <li><a href="https://arturgower.github.io/authors/m.-destrade/">M. Destrade</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/m.-taffetani/">M. Taffetani</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/robert-m.-gower/">Robert M. Gower</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/d.-r.-nolan/">D. R. Nolan</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/j.-p.-mcgarry/">J. P. McGarry</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/r.-w.-ogden/">R. W. Ogden</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/a.-melnik/">A. Melnik</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/c.-brett/">C. Brett</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/j.-herterich/">J. Herterich</a></li>
+    
+      
+      <li><a href="https://arturgower.github.io/authors/j.-thompson/">J. Thompson</a></li>
     
   </ul>
 
@@ -477,6 +506,8 @@
     
     <li class="page-item"><a class="page-link" href="/authors/page/3/">&laquo;</a></li>
     
+    
+    <li class="page-item"><a class="page-link" href="/authors/page/5/">&raquo;</a></li>
     
   </ul>
 </nav>

@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -917,6 +919,8 @@ img {
     <h3>Related</h3>
     <ul>
       
+      <li><a href="/project/ultrasonics/">Ultrasonics</a></li>
+      
       <li><a href="/post/wing-faults/">Detecting faults on a wing</a></li>
       
       <li><a href="/post/train/">Tracking train tracks</a></li>
@@ -924,8 +928,6 @@ img {
       <li><a href="/post/cable-arranging/">The art of cable arranging</a></li>
       
       <li><a href="/publication/train/">Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</a></li>
-      
-      <li><a href="/publication/geometric-faults/">Detecting Geometric Faults from Measured Data</a></li>
       
     </ul>
   </div>
@@ -1218,151 +1220,6 @@ img {
       
       
         <h2>Publications</h2>
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/angled-ultrasonic-stress/" >An ultrasonic method to measure stress without calibration: The angled shear wave method</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/industry/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/angled-shear-wave-JASA.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://asa.scitation.org/doi/abs/10.1121/10.0002959" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/angled-ultrasonic-stress/" >
-      <img src="/publication/angled-ultrasonic-stress/featured_hu43e627a45e84e6fa52ab42e83a0d161f_39989_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-          
         
           
             

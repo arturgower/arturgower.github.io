@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2018-01-13T20:57:07&#43;00:00">
+    <meta property="og:updated_time" content="2018-02-27T14:28:52&#43;00:00">
   
 
   
@@ -464,6 +466,15 @@
   
 
   
+  
+  <div>
+    <h2><a href="/project/ultrasonics/">Ultrasonics</a></h2>
+    <div class="article-style">
+      
+      Using elastic waves, also known as ultrasonics, to measure materials or find defects  
+      
+    </div>
+  </div>
   
   <div>
     <h2><a href="/post/wing-faults/">Detecting faults on a wing</a></h2>

@@ -102,13 +102,15 @@ There are currently three available funded PhD positions:
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -118,7 +120,7 @@ There are currently three available funded PhD positions:
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -720,11 +722,11 @@ techniques to measure and predict these particle properties are important in man
 
 <p><a name="elastic-waves"></a></p>
 
-<h3 id="elastic-wave-propagation-project-surface-solid"><a href="../../project/surface-solid/">Elastic wave propagation</a></h3>
+<h3 id="elastic-wave-propagation-project-ultrasonics"><a href="../../project/ultrasonics/">Elastic wave propagation</a></h3>
 
 <p>We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.</p>
 
-<p>Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see <a href="../../project/surface-solid/">Surface Waves</a> and <a href="../../project/initial-stress/">Elastic materials under stress</a>.</p>
+<p>Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see <a href="../../project/ultrasonics/">Surface Waves</a> and <a href="../../project/elasticity/">Elastic materials under stress</a>.</p>
 
 
 

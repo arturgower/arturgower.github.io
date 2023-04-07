@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -591,13 +593,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/industry/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/ultrasonics/">
     Project
   </a>
   
@@ -866,11 +862,11 @@
       
       <li><a href="/publication/homeostasis-stress/">On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</a></li>
       
-      <li><a href="/project/surface-solid/">Surface waves and instabilities</a></li>
-      
       <li><a href="/publication/initial-mooney/">The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</a></li>
       
       <li><a href="/publication/oblique-wrinkles/">Oblique Wrinkles</a></li>
+      
+      <li><a href="/publication/tube-morphology/">Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</a></li>
       
     </ul>
   </div>

@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Surface waves and instabilities</title>
-      <link>https://arturgower.github.io/project/surface-solid/</link>
+      <title>Ultrasonics</title>
+      <link>https://arturgower.github.io/project/ultrasonics/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/surface-solid/</guid>
+      <guid>https://arturgower.github.io/project/ultrasonics/</guid>
       <description>
 
 &lt;!-- 
@@ -51,12 +51,20 @@
 
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 
-&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
-&lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;Some of the motivations to work on ultrasonics include:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
 
 &lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
 
@@ -180,12 +188,14 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
     
     <item>
       <title>The mechanics of soft solids</title>
-      <link>https://arturgower.github.io/project/initial-stress/</link>
+      <link>https://arturgower.github.io/project/elasticity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/initial-stress/</guid>
+      <guid>https://arturgower.github.io/project/elasticity/</guid>
       <description>
 
-&lt;p&gt;Most of my work on elastic solids has been on constitutive equations, that is, mathematically describing the different components of a solid, and how these effect the forces and deformations. With the two main themes being stressed solids and fibre-reinforced solids. I have also explored how to use waves and instabilities to characterise solids.&lt;/p&gt;
+&lt;p&gt;Our research focuses primarily on the study of elastic solids and the development of constitutive equations that describe the various components of these materials and their impact on forces and deformations. My work primarily centres on two main themes: stressed solids and fibre-reinforced solids.&lt;/p&gt;
+
+&lt;p&gt;In addition to constitutive equations, we also explore the use of waves and instabilities to characterise elastic solids and understand the origin of patterns in soft tissues.&lt;/p&gt;
 
 &lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
 
@@ -222,6 +232,15 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
 
 
 &lt;/figure&gt;
+
+&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
+
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

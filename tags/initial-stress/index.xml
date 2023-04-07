@@ -5,12 +5,21 @@
     <link>https://arturgower.github.io/tags/initial-stress/</link>
       <atom:link href="https://arturgower.github.io/tags/initial-stress/index.xml" rel="self" type="application/rss+xml" />
     <description>initial-stress</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>initial-stress</title>
       <link>https://arturgower.github.io/tags/initial-stress/</link>
     </image>
+    
+    <item>
+      <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
+      <link>https://arturgower.github.io/publication/ultrasound-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/ultrasound-stress/</guid>
+      <description>&lt;p&gt;Mechanical stresses across different length scales play a fundamental role in understanding biological systems&amp;rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force. Using an ultrasound transducer to excite and track the shear waves remotely, we demonstrate the application of the method by imaging uniaxial and bending stresses in an isotropic hydrogel and the passive uniaxial stress in a skeletal muscle. These measurements were all done without the knowledge of the constitutive parameters of the materials. The experiments indicate that our method will find broad applications, ranging from health monitoring of soft structures and machines to diagnosing diseases that alter stresses in soft tissues.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
@@ -92,12 +101,14 @@
     
     <item>
       <title>The mechanics of soft solids</title>
-      <link>https://arturgower.github.io/project/initial-stress/</link>
+      <link>https://arturgower.github.io/project/elasticity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/initial-stress/</guid>
+      <guid>https://arturgower.github.io/project/elasticity/</guid>
       <description>
 
-&lt;p&gt;Most of my work on elastic solids has been on constitutive equations, that is, mathematically describing the different components of a solid, and how these effect the forces and deformations. With the two main themes being stressed solids and fibre-reinforced solids. I have also explored how to use waves and instabilities to characterise solids.&lt;/p&gt;
+&lt;p&gt;Our research focuses primarily on the study of elastic solids and the development of constitutive equations that describe the various components of these materials and their impact on forces and deformations. My work primarily centres on two main themes: stressed solids and fibre-reinforced solids.&lt;/p&gt;
+
+&lt;p&gt;In addition to constitutive equations, we also explore the use of waves and instabilities to characterise elastic solids and understand the origin of patterns in soft tissues.&lt;/p&gt;
 
 &lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
 
@@ -134,6 +145,15 @@
 
 
 &lt;/figure&gt;
+
+&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
+
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -590,7 +592,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/elasticity/">
     Project
   </a>
   
@@ -871,7 +873,7 @@
       
       <li><a href="/publication/radial-elasticity/">Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</a></li>
       
-      <li><a href="/project/initial-stress/">The mechanics of soft solids</a></li>
+      <li><a href="/project/elasticity/">The mechanics of soft solids</a></li>
       
     </ul>
   </div>

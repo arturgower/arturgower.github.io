@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2021-02-02T17:43:29&#43;00:00">
+    <meta property="og:updated_time" content="2023-03-02T17:43:29&#43;00:00">
   
 
   
@@ -448,6 +450,18 @@
     <div class="article-widget content-widget-hr">
       <h3>Latest</h3>
       <ul>
+        
+        <li>
+          <a href="/publication/ultrasound-stress/">Noninvasive measurement of local stress inside soft materials with programmed shear waves</a>
+        </li>
+        
+        <li>
+          <a href="/publication/thermo-visco-elastic/">A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</a>
+        </li>
+        
+        <li>
+          <a href="/publication/thin-stress-2022/">Non-destructive mapping of stress and strain in soft thin films through sound waves</a>
+        </li>
         
         <li>
           <a href="/publication/angled-ultrasonic-stress/">An ultrasonic method to measure stress without calibration: The angled shear wave method</a>

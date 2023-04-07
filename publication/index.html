@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2021-02-02T18:03:04&#43;00:00">
+    <meta property="og:updated_time" content="2023-03-02T17:43:29&#43;00:00">
   
 
   
@@ -540,6 +542,18 @@
         
         
       
+        
+        
+      
+        
+        
+      
+        
+        
+      
+        
+        
+      
 
       <div class="form-row mb-4">
         <div class="col-auto">
@@ -570,6 +584,14 @@
             <option value="*">Date</option>
             
             
+            
+            <option value=".year-2023">
+              2023
+            </option>
+            
+            <option value=".year-2022">
+              2022
+            </option>
             
             <option value=".year-2021">
               2021
@@ -617,6 +639,502 @@
       </div>
 
       <div id="container-publications">
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2023">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/zhaoyi-zhang/">Zhaoyi Zhang</a></span>, <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/yuxuan-jiang/">Yuxuan Jiang</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/yanping-cao/">Yanping Cao</a></span>
+
+  </span>
+  (2023).
+  <a href="/publication/ultrasound-stress/">Noninvasive measurement of local stress inside soft materials with programmed shear waves</a>.
+  Science Advances.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082_sm.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/add4082_Movie_S1.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.science.org/doi/full/10.1126/sciadv.add4082" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/soumya-mukherjee/">Soumya Mukherjee</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/and-artur-l.-gower/">and Artur L. Gower</a></span>
+
+  </span>
+  (2022).
+  <a href="/publication/anisotropic-initial-stress/">Representing the stress and strain energy of elastic solids with initial stress and transverse texture anisotropy</a>.
+  Proc. Roy. Soc. A.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2022.0255.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0255" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/seok-hyun-yun/">Seok-Hyun Yun</a></span>
+
+  </span>
+  (2022).
+  <a href="/publication/thin-stress-2022/">Non-destructive mapping of stress and strain in soft thin films through sound waves</a>.
+  Communications Physics.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022-supp.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/surface-wave-thin-stress.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s42005-022-01000-3" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2022">
+          
+            <div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+
+
+  
+  <span><a href="/authors/erik-garcia-neefjes/">Erik García Neefjes</a></span>, <span><a href="/authors/david-nigro/">David Nigro</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/raphael-c-assier/">Raphaël C Assier</a></span>, <span><a href="/authors/valerie-j-pinfield/">Valerie J Pinfield</a></span>, <span><a href="/authors/william-j-parnell/">William J Parnell</a></span>
+
+  </span>
+  (2022).
+  <a href="/publication/thermo-visco-elastic/">A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</a>.
+  Proc. Roy. Soc. A.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2022.0193.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0193" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
         
 
         
@@ -764,13 +1282,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/industry/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
     Project
   </a>
   
@@ -1013,12 +1525,6 @@
 
   
   <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/wave-software/">
     Project
   </a>
   
@@ -1447,7 +1953,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -1652,7 +2158,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -1757,7 +2263,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/surface-solid/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -1870,13 +2376,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/surface-solid/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -2086,7 +2586,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -2306,7 +2806,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -2417,13 +2917,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/surface-solid/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   
@@ -2709,7 +3203,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/surface-solid/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
     Project
   </a>
   
@@ -2801,7 +3295,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/surface-solid/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
     Project
   </a>
   

@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -449,6 +451,14 @@
   <h2>Latest</h2>
   <ul>
     
+      <li><a href="/publication/ultrasound-stress/">Noninvasive measurement of local stress inside soft materials with programmed shear waves</a></li>
+    
+      <li><a href="/publication/anisotropic-initial-stress/">Representing the stress and strain energy of elastic solids with initial stress and transverse texture anisotropy</a></li>
+    
+      <li><a href="/publication/thermo-visco-elastic/">A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</a></li>
+    
+      <li><a href="/publication/thin-stress-2022/">Non-destructive mapping of stress and strain in soft thin films through sound waves</a></li>
+    
       <li><a href="/publication/effective-waves-3d/">Effective waves for random three-dimensional particulate materials</a></li>
     
       <li><a href="/publication/angled-ultrasonic-stress/">An ultrasonic method to measure stress without calibration: The angled shear wave method</a></li>
@@ -460,14 +470,6 @@
       <li><a href="/post/work-with-me/">Work With Me</a></li>
     
       <li><a href="/talk/talk-links/">Links to recent talks</a></li>
-    
-      <li><a href="/publication/multiple-waves/">Multiple Waves Propagate in Random Particulate Materials</a></li>
-    
-      <li><a href="/project/wave-software/">Wave Software</a></li>
-    
-      <li><a href="/project/surface-solid/">Surface waves and instabilities</a></li>
-    
-      <li><a href="/project/entropy_go/">Entropy GO</a></li>
     
   </ul>
   

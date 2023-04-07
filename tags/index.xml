@@ -5,12 +5,76 @@
     <link>https://arturgower.github.io/tags/</link>
       <atom:link href="https://arturgower.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://arturgower.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>initial-stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medical</title>
+      <link>https://arturgower.github.io/tags/medical/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/medical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensing</title>
+      <link>https://arturgower.github.io/tags/sensing/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/sensing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ultrasonic waves</title>
+      <link>https://arturgower.github.io/tags/ultrasonic-waves/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/ultrasonic-waves/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ultrasound</title>
+      <link>https://arturgower.github.io/tags/ultrasound/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/ultrasound/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thermo-visco-elasticity</title>
+      <link>https://arturgower.github.io/tags/thermo-visco-elasticity/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/thermo-visco-elasticity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>thin-films</title>
+      <link>https://arturgower.github.io/tags/thin-films/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/thin-films/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>viscous waves</title>
+      <link>https://arturgower.github.io/tags/viscous-waves/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/viscous-waves/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>multiple-scattering</title>
@@ -41,30 +105,6 @@
       <link>https://arturgower.github.io/tags/elasticity/</link>
       <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/tags/elasticity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>initial-stress</title>
-      <link>https://arturgower.github.io/tags/initial-stress/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/initial-stress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sensing</title>
-      <link>https://arturgower.github.io/tags/sensing/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/sensing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ultrasonic waves</title>
-      <link>https://arturgower.github.io/tags/ultrasonic-waves/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/ultrasonic-waves/</guid>
       <description></description>
     </item>
     
@@ -133,18 +173,10 @@
     </item>
     
     <item>
-      <title>anisotropy</title>
-      <link>https://arturgower.github.io/tags/anisotropy/</link>
+      <title>industry</title>
+      <link>https://arturgower.github.io/tags/industry/</link>
       <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/anisotropy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>instabilities</title>
-      <link>https://arturgower.github.io/tags/instabilities/</link>
-      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/instabilities/</guid>
+      <guid>https://arturgower.github.io/tags/industry/</guid>
       <description></description>
     </item>
     
@@ -165,18 +197,26 @@
     </item>
     
     <item>
-      <title>optimisation</title>
-      <link>https://arturgower.github.io/tags/optimisation/</link>
-      <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/optimisation/</guid>
+      <title>ultrasonics</title>
+      <link>https://arturgower.github.io/tags/ultrasonics/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/ultrasonics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>industry</title>
-      <link>https://arturgower.github.io/tags/industry/</link>
-      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
-      <guid>https://arturgower.github.io/tags/industry/</guid>
+      <title>hobby</title>
+      <link>https://arturgower.github.io/tags/hobby/</link>
+      <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/hobby/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>optimisation</title>
+      <link>https://arturgower.github.io/tags/optimisation/</link>
+      <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/optimisation/</guid>
       <description></description>
     </item>
     
@@ -241,6 +281,22 @@
       <link>https://arturgower.github.io/tags/wave-transmission/</link>
       <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
       <guid>https://arturgower.github.io/tags/wave-transmission/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>anisotropy</title>
+      <link>https://arturgower.github.io/tags/anisotropy/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/anisotropy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>instabilities</title>
+      <link>https://arturgower.github.io/tags/instabilities/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/tags/instabilities/</guid>
       <description></description>
     </item>
     

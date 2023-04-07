@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -159,7 +161,7 @@
   <meta property="og:description" content="Lecturer in Dynamics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
   <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2021-02-02T18:03:04&#43;00:00">
+    <meta property="og:updated_time" content="2023-03-02T17:43:29&#43;00:00">
   
 
   
@@ -631,6 +633,8 @@
           
           <li>Inverse methods</li>
           
+          <li>Julia Language</li>
+          
         </ul>
       </div>
       
@@ -781,7 +785,7 @@
                 
                 
                 
-                <a href="#" data-filter=".js-id-optimisation" class="btn btn-primary btn-lg">Optimisation</a>
+                <a href="#" data-filter=".js-id-hobby" class="btn btn-primary btn-lg">For fun</a>
               
             </div>
           </div>
@@ -856,19 +860,19 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-solid-mechanics js-id-waves js-id-surface-waves js-id-elasticity js-id-anisotropy js-id-instabilities">
+<div class="project-card project-item isotope-item js-id-solid-mechanics js-id-waves js-id-ultrasonics js-id-inverse-methods js-id-surface-waves js-id-industry">
   <div class="card">
     
     
-    <a href="/project/surface-solid/"  class="card-image hover-overlay">
-      <img src="/project/surface-solid/featured_hue953677eb978af2232768b344264c43d_179564_550x0_resize_q90_lanczos.jpeg" alt="" class="img-responsive">
+    <a href="/project/ultrasonics/"  class="card-image hover-overlay">
+      <img src="/project/ultrasonics/featured_hu5ce01c68ba3a118c7a2fd33366b3267a_97098_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="/project/surface-solid/" >Surface waves and instabilities</a></h4>
+      <h4><a href="/project/ultrasonics/" >Ultrasonics</a></h4>
       
       <div class="article-style">
-        <p>Surface waves and wrinkles can be used to characterise the underlying soft solid.</p>
+        <p>Using elastic waves, also known as ultrasonics, to measure materials or find defects</p>
       </div>
       
     </div>
@@ -902,7 +906,7 @@
 
 
 
-<div class="project-card project-item isotope-item js-id-optimisation">
+<div class="project-card project-item isotope-item js-id-optimisation js-id-hobby">
   <div class="card">
     
     
@@ -1035,12 +1039,12 @@
   <div class="card">
     
     
-    <a href="/project/initial-stress/"  class="card-image hover-overlay">
-      <img src="/project/initial-stress/featured_hua831dfd8188e47651d4ef3e40b143ae1_711524_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
+    <a href="/project/elasticity/"  class="card-image hover-overlay">
+      <img src="/project/elasticity/featured_hua831dfd8188e47651d4ef3e40b143ae1_711524_550x0_resize_q90_lanczos_2.png" alt="" class="img-responsive">
     </a>
     
     <div class="card-text">
-      <h4><a href="/project/initial-stress/" >The mechanics of soft solids</a></h4>
+      <h4><a href="/project/elasticity/" >The mechanics of soft solids</a></h4>
       
       <div class="article-style">
         <p>How do we mathematically describe the stresses and deformation of anisotropic soft solids.</p>
@@ -1131,6 +1135,422 @@
 </div>
 
 
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/zhaoyi-zhang/">Zhaoyi Zhang</a></span>, <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/yuxuan-jiang/">Yuxuan Jiang</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/yanping-cao/">Yanping Cao</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March 2023
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Science Advances
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/ultrasound-stress/">
+      <img src="/publication/ultrasound-stress/featured_hub1808e5686175e814bcfda4b8684576e_702689_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/ultrasound-stress/">Noninvasive measurement of local stress inside soft materials with programmed shear waves</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>Mechanical stresses across different length scales play a fundamental role in understanding biological systems&rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082_sm.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/add4082_Movie_S1.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.science.org/doi/full/10.1126/sciadv.add4082" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+<div class="card-simple">
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/seok-hyun-yun/">Seok-Hyun Yun</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    September 2022
+  </span>
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="pub-publication">
+    
+      Communications Physics
+    
+  </span>
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+  
+
+  
+  
+  
+  
+  <a href="/publication/thin-stress-2022/">
+      <img src="/publication/thin-stress-2022/featured_hu2208909e30b8e3cf984c593d72307826_258574_918x517_fill_q90_lanczos_smart1_2.png" class="article-banner" alt="">
+  </a>
+  
+
+  <h3 class="article-title mb-1 mt-3">
+    <a href="/publication/thin-stress-2022/">Non-destructive mapping of stress and strain in soft thin films through sound waves</a>
+  </h3>
+
+  
+  <div class="article-style">
+    <p>Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film, which we validate with optical coherence tomography.</p>
+  </div>
+  
+
+  
+  <div class="btn-links">
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022-supp.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/surface-wave-thin-stress.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s42005-022-01000-3" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+  </div>
+  
+
+</div>
+
+      
     
       
         
@@ -1410,13 +1830,7 @@
 
 
   
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/industry/">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
     Project
   </a>
   
@@ -1642,193 +2056,6 @@
     
   
   <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2019.0344" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-  </div>
-  
-
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-<div class="card-simple">
-
-  
-    
-
-
-<div class="article-metadata">
-
-  
-  
-  
-  
-  <div>
-    
-
-
-
-  
-  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
-
-  </div>
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    January 2019
-  </span>
-  
-
-  
-  <span class="middot-divider"></span>
-  <span class="pub-publication">
-    
-      SIAM Journal on Applied Mathematics
-    
-  </span>
-  
-
-  
-
-  
-  
-  
-
-  
-  
-
-</div>
-
-  
-
-  
-  
-  
-
-  <h3 class="article-title mb-1 mt-3">
-    <a href="/publication/multiple-waves/">Multiple Waves Propagate in Random Particulate Materials</a>
-  </h3>
-
-  
-  <div class="article-style">
-    <p>We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged particulate material. By particulate material we mean a medium filled with randomly placed particles and consider waves governed by the scalar wave equation. Although most of these waves decay rapidly, they make a significant contribution to reflection and transmission beyond the low-frequency regime. In two spatial dimensions, we develop an efficient method to calculate all these waves, which gives highly accurate predictions when compared to a finite-difference scheme. This method is, to the authors knowledge, the first of its kind to give accurate predictions across a broad frequency range and particle volume fraction.</p>
-  </div>
-  
-
-  
-  <div class="btn-links">
-    
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1810.10816" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/arturgower/EffectiveWaves.jl" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/wave-software/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/18m122306x.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://epubs.siam.org/doi/abs/10.1137/18M122306X" target="_blank" rel="noopener">
     
     Journal
   </a>
@@ -2140,6 +2367,638 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/ultrasound-stress/" >Noninvasive measurement of local stress inside soft materials with programmed shear waves</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Mechanical stresses across different length scales play a fundamental role in understanding biological systems&rsquo; functions and …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/zhaoyi-zhang/">Zhaoyi Zhang</a></span>, <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/yuxuan-jiang/">Yuxuan Jiang</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/yanping-cao/">Yanping Cao</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/sciadv.add4082_sm.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/add4082_Movie_S1.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.science.org/doi/full/10.1126/sciadv.add4082" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/ultrasound-stress/" >
+      <img src="/publication/ultrasound-stress/featured_hub1808e5686175e814bcfda4b8684576e_702689_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/anisotropic-initial-stress/" >Representing the stress and strain energy of elastic solids with initial stress and transverse texture anisotropy</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Real-world solids, such as rocks, soft tissues and engineering materials, are often under some form of stress. Most real materials are …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/soumya-mukherjee/">Soumya Mukherjee</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/and-artur-l.-gower/">and Artur L. Gower</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/elasticity/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2022.0255.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0255" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/anisotropic-initial-stress/" >
+      <img src="/publication/anisotropic-initial-stress/featured_hueb9005441c706c4a2bb536c7590a220b_2123572_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/thermo-visco-elastic/" >A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</a>
+    </h3>
+
+    
+    <div class="article-style">
+      We present a framework for linear wave propagation in thermo-visco-elastic materials. The framework includes classical cases, but its …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/erik-garcia-neefjes/">Erik García Neefjes</a></span>, <span><a href="/authors/david-nigro/">David Nigro</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/raphael-c-assier/">Raphaël C Assier</a></span>, <span><a href="/authors/valerie-j-pinfield/">Valerie J Pinfield</a></span>, <span><a href="/authors/william-j-parnell/">William J Parnell</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2022.0193.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2022.0193" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/thermo-visco-elastic/" >
+      <img src="/publication/thermo-visco-elastic/featured_huc4c19e6afcb5e742feda702e0744c54f_347056_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/thin-stress-2022/" >Non-destructive mapping of stress and strain in soft thin films through sound waves</a>
+    </h3>
+
+    
+    <div class="article-style">
+      Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>, <span><a href="/authors/seok-hyun-yun/">Seok-Hyun Yun</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/ultrasonics/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/thin-stress-2022-supp.pdf" >
+    
+    Supplementary
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/img/video/surface-wave-thin-stress.mp4" >
+    
+    Experimental video
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://www.nature.com/articles/s42005-022-01000-3" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/thin-stress-2022/" >
+      <img src="/publication/thin-stress-2022/featured_hu2208909e30b8e3cf984c593d72307826_258574_150x0_resize_lanczos_2.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+      
+    
+      
+        
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
       <a href="/publication/effective-waves-3d/" >Effective waves for random three-dimensional particulate materials</a>
     </h3>
 
@@ -2244,578 +3103,6 @@
     <a href="/publication/effective-waves-3d/" >
       <img src="/publication/effective-waves-3d/featured_huf6669ca4e4a7a370f2d942d24dbb4afe_330410_150x0_resize_lanczos_2.png" alt="">
     </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/angled-ultrasonic-stress/" >An ultrasonic method to measure stress without calibration: The angled shear wave method</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/guo-yang-li/">Guo-Yang Li</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/michel-destrade/">Michel Destrade</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/initial-stress/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/industry/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/angled-shear-wave-JASA.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://asa.scitation.org/doi/abs/10.1121/10.0002959" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-    
-    <a href="/publication/angled-ultrasonic-stress/" >
-      <img src="/publication/angled-ultrasonic-stress/featured_hu43e627a45e84e6fa52ab42e83a0d161f_39989_150x0_resize_lanczos_2.png" alt="">
-    </a>
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/prove-multiple-waves/" >A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</a>
-    </h3>
-
-    
-    <div class="article-style">
-      Materials comprising randomly distributed particles, or inclusions, occur frequently in the world around us. Common examples include …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>, <span><a href="/authors/i.-david-abrahams/">I. David Abrahams</a></span>, <span><a href="/authors/william-j.-parnell/">William J. Parnell</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1905.06996" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/arturgower/EffectiveWaves.jl" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2019.0344.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://royalsocietypublishing.org/doi/full/10.1098/rspa.2019.0344" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/multiple-waves/" >Multiple Waves Propagate in Random Particulate Materials</a>
-    </h3>
-
-    
-    <div class="article-style">
-      We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1810.10816" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/arturgower/EffectiveWaves.jl" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/wave-software/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/18m122306x.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://epubs.siam.org/doi/abs/10.1137/18M122306X" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-      
-    
-      
-        
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/scattering-software/" >MultipleScattering.jl</a>
-    </h3>
-
-    
-    <div class="article-style">
-      <a href="https://github.com/jondea/MultipleScattering.jl" target="_blank">MultipleScattering.jl</a>: a Julia library for simulating, processing, and plotting multiple scattering of acoustic waves.
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/j.-deakin/">J. Deakin</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/wave-software/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/jondea/MultipleScattering.jl" target="_blank" rel="noopener">
-    
-    Software
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
     
   </div>
 </div>
@@ -3829,7 +4116,7 @@
           
           
           
-          <a href="/tags/anisotropy/" style="font-size:1.3838045165405823rem">anisotropy</a>
+          <a href="/tags/anisotropy/" style="font-size:1.1rem">anisotropy</a>
         
           
           
@@ -3839,7 +4126,7 @@
           
           
           
-          <a href="/tags/elasticity/" style="font-size:2.183804516540583rem">elasticity</a>
+          <a href="/tags/elasticity/" style="font-size:2.0676090330811645rem">elasticity</a>
         
           
           
@@ -3859,22 +4146,22 @@
           
           
           
-          <a href="/tags/industry/" style="font-size:1.9358774586948417rem">industry</a>
+          <a href="/tags/industry/" style="font-size:2.0676090330811645rem">industry</a>
         
           
           
           
-          <a href="/tags/initial-stress/" style="font-size:1.6039404018258656rem">initial-stress</a>
+          <a href="/tags/initial-stress/" style="font-size:1.7838045165405823rem">initial-stress</a>
         
           
           
           
-          <a href="/tags/instabilities/" style="font-size:1.3838045165405823rem">instabilities</a>
+          <a href="/tags/instabilities/" style="font-size:1.1rem">instabilities</a>
         
           
           
           
-          <a href="/tags/inverse-methods/" style="font-size:1.3838045165405823rem">inverse-methods</a>
+          <a href="/tags/inverse-methods/" style="font-size:1.6039404018258656rem">inverse-methods</a>
         
           
           
@@ -3904,6 +4191,11 @@
           
           
           
+          <a href="/tags/sensing/" style="font-size:1.1rem">sensing</a>
+        
+          
+          
+          
           <a href="/tags/soft-matter/" style="font-size:0.7rem">soft matter</a>
         
           
@@ -3914,17 +4206,12 @@
           
           
           
-          <a href="/tags/surface-waves/" style="font-size:0.7rem">surface-waves</a>
+          <a href="/tags/ultrasonic-waves/" style="font-size:1.3838045165405823rem">ultrasonic waves</a>
         
           
           
           
           <a href="/tags/waves/" style="font-size:1.3838045165405823rem">waves</a>
-        
-          
-          
-          
-          <a href="/tags/wrinkles/" style="font-size:0.7rem">wrinkles</a>
         
       </div>
     

@@ -100,13 +100,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -116,7 +118,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
   }
 
   gtag('js', new Date());
@@ -861,9 +863,9 @@ techniques to measure and predict these particle properties are important in man
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/project/multiple-scattering/">Waves in Complex Materials</a></li>
+      <li><a href="/project/ultrasonics/">Ultrasonics</a></li>
       
-      <li><a href="/project/surface-solid/">Surface waves and instabilities</a></li>
+      <li><a href="/project/multiple-scattering/">Waves in Complex Materials</a></li>
       
       <li><a href="/publication/learning_backscattering/">Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</a></li>
       
@@ -1018,162 +1020,6 @@ techniques to measure and predict these particle properties are important in man
     <a href="/publication/effective-waves-3d/" >
       <img src="/publication/effective-waves-3d/featured_huf6669ca4e4a7a370f2d942d24dbb4afe_330410_150x0_resize_lanczos_2.png" alt="">
     </a>
-    
-  </div>
-</div>
-
-          
-        
-          
-            
-
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
-  
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <h3 class="article-title mb-0 mt-0">
-      <a href="/publication/multiple-waves/" >Multiple Waves Propagate in Random Particulate Materials</a>
-    </h3>
-
-    
-    <div class="article-style">
-      We show that in general there is not only one effective wave, but there is a series of effective waves in an ensemble averaged …
-    </div>
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-      <div>
-        
-
-
-
-  
-  <span><a href="/authors/a.-l.-gower/">A. L. Gower</a></span>, <span><a href="/authors/w.-j.-parnell/">W. J. Parnell</a></span>, <span><a href="/authors/i.-d.-abrahams/">I. D. Abrahams</a></span>
-
-      </div>
-      
-    </div>
-
-    
-    <div class="btn-links">
-      
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://arxiv.org/abs/1810.10816" target="_blank" rel="noopener">
-  Preprint
-</a>
-
-
-
-
-  
-
-
-
-
-
-
-  
-  
-    
-  
-<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/arturgower/EffectiveWaves.jl" target="_blank" rel="noopener">
-  Code
-</a>
-
-
-
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/multiple-scattering/">
-    Project
-  </a>
-  
-
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/wave-software/">
-    Project
-  </a>
-  
-
-
-
-
-
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/18m122306x.pdf" >
-    
-    Paper
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://epubs.siam.org/doi/abs/10.1137/18M122306X" target="_blank" rel="noopener">
-    
-    Journal
-  </a>
-
-
-    </div>
-    
-
-  </div>
-  <div class="ml-3">
-    
     
   </div>
 </div>

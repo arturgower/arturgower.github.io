@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hobby | Artur L Gower</title>
+    <link>https://arturgower.github.io/tags/hobby/</link>
+      <atom:link href="https://arturgower.github.io/tags/hobby/index.xml" rel="self" type="application/rss+xml" />
+    <description>hobby</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2023 Artur L Gower</copyright><lastBuildDate>Mon, 26 Feb 2018 21:47:27 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>hobby</title>
+      <link>https://arturgower.github.io/tags/hobby/</link>
+    </image>
+    
+    <item>
+      <title>Entropy GO</title>
+      <link>https://arturgower.github.io/project/entropy_go/</link>
+      <pubDate>Mon, 26 Feb 2018 21:47:27 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/entropy_go/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
