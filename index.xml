@@ -464,15 +464,6 @@ techniques to measure and predict these particle properties are important in man
     </item>
     
     <item>
-      <title>Links to recent talks</title>
-      <link>https://arturgower.github.io/talk/talk-links/</link>
-      <pubDate>Fri, 17 May 2019 19:12:22 +0100</pubDate>
-      <guid>https://arturgower.github.io/talk/talk-links/</guid>
-      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Multiple Waves Propagate in Random Particulate Materials</title>
       <link>https://arturgower.github.io/publication/multiple-waves/</link>
       <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
@@ -1835,6 +1826,15 @@ img {
 &lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing-publication-geometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 
 &lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links to recent talks</title>
+      <link>https://arturgower.github.io/talk/talk-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/talk-links/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
