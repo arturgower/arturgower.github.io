@@ -36,19 +36,11 @@
       <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/initial-mooney/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 </description>
     </item>
@@ -59,19 +51,11 @@
       <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/stress-objectivity/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 </description>
     </item>
@@ -82,19 +66,11 @@
       <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/homeostasis-stress/</guid>
       <description>&lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
 </description>
     </item>
@@ -104,52 +80,26 @@
       <link>https://arturgower.github.io/project/elasticity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/project/elasticity/</guid>
-      <description>
-
-&lt;p&gt;Our research focuses primarily on the study of elastic solids and the development of constitutive equations that describe the various components of these materials and their impact on forces and deformations. My work primarily centres on two main themes: stressed solids and fibre-reinforced solids.&lt;/p&gt;
-
+      <description>&lt;p&gt;Our research focuses primarily on the study of elastic solids and the development of constitutive equations that describe the various components of these materials and their impact on forces and deformations. My work primarily centres on two main themes: stressed solids and fibre-reinforced solids.&lt;/p&gt;
 &lt;p&gt;In addition to constitutive equations, we also explore the use of waves and instabilities to characterise elastic solids and understand the origin of patterns in soft tissues.&lt;/p&gt;
-
 &lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
-
 &lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses.&lt;/p&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;figure class=&#34;alignright&#34;&gt;
-
-
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/StressTube.png&#34; data-caption=&#34;The arrows indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/StressTube.png&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-
-
-  
-  
   &lt;figcaption&gt;
     The arrows indicate the direction of the residual stress of a thick tube. The material is in equilibrium.
   &lt;/figcaption&gt;
-
-
 &lt;/figure&gt;
-
 &lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
-
 &lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
-
 &lt;ul&gt;
 &lt;li&gt;will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
 &lt;li&gt;use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
