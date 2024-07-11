@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | Artur L Gower</title>
+    <link>https://arturgower.github.io/outreach/</link>
+      <atom:link href="https://arturgower.github.io/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2024 Artur L Gower</copyright>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://arturgower.github.io/outreach/</link>
+    </image>
+    
+    <item>
+      <title>Testing</title>
+      <link>https://arturgower.github.io/outreach/talk-links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/outreach/talk-links/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

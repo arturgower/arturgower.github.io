@@ -5,12 +5,30 @@
     <link>https://arturgower.github.io/</link>
       <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Artur L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2024 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2024 Artur L Gower</copyright><lastBuildDate>Thu, 11 Jul 2024 00:00:00 +0100</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Artur L Gower</title>
       <link>https://arturgower.github.io/</link>
     </image>
+    
+    <item>
+      <title>Links to recent outreach events</title>
+      <link>https://arturgower.github.io/talk/outreach/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0100</pubDate>
+      <guid>https://arturgower.github.io/talk/outreach/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links to recent research talks</title>
+      <link>https://arturgower.github.io/talk/talk-links/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0100</pubDate>
+      <guid>https://arturgower.github.io/talk/talk-links/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
@@ -1457,15 +1475,6 @@ img {
 &lt;/figure&gt;
 &lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wingpublicationgeometric-faults&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/geometric-faults&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Links to recent talks</title>
-      <link>https://arturgower.github.io/talk/talk-links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arturgower.github.io/talk/talk-links/</guid>
-      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
