@@ -678,7 +678,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Reliable Data Systems have developed a video-based odometry system that enables trains to measure velocities and distances travelled without the need for trackside infrastructure. The Study Group was asked to investigate ways of improving the accuracy of such a system, and to suggest any improvements that might be made. The work performed in the week followed along these strands: (a). Elimination of errors in video odometery induced by pitch and height; (b) Robust calculation of (i) the train velocity and (ii) the track curvature; (c). Accurate determination of the position of a train on a track by assimilating Curvature information; (d). Determining where on UK’s railway map a train journey takes place, based purely on video odometry and (e). Drawing a track map.</p>
+    <p class="pub-abstract">Reliable Data Systems have developed a video-based odometry system that enables trains to measure velocities and distances travelled without the need for trackside infrastructure. The Study Group was asked to investigate ways of improving the accuracy of such a system, and to suggest any improvements that might be made. The work performed in the week followed along these strands: (a). Elimination of errors in video odometery induced by pitch and height; (b) Robust calculation of (i) the train velocity and (ii) the track curvature; &copy;. Accurate determination of the position of a train on a track by assimilating Curvature information; (d). Determining where on UK’s railway map a train journey takes place, based purely on video odometry and (e). Drawing a track map.</p>
     
 
     
@@ -718,8 +718,11 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><h2 id="summary">Summary</h2>
+    <div class="article-style">
 
+<h2 id="summary">Summary</h2>
+
+<p>
 
 
 
@@ -751,12 +754,16 @@
 <!-- width="220" -->
   <!-- <img style="width: 400px; float: right;" alt="Track reconstruction" src="train.gif" hspace="2" /> -->
 <p>
-	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train's location.
-</p>
+    To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&rsquo;s location.
+</p></p>
+
 <p>
-	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what <span style="color: blue;">the camera sees</span>, the blue tracks, and returning the <span style="color: red;">real position of the tracks</span>, in red.  
+    At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what <span style="color: blue;">the camera sees</span>, the blue tracks, and returning the <span style="color: red;">real position of the tracks</span>, in red.  
+
 </p>
+
 <p>The figures below show how well our method <span style="color: black;">recovers</span> the track curvature compared with the  <span style="color: green;">real curvature</span>.</p>
+
 <p>
  <img src="/img/alpha_error.png">
  
@@ -791,8 +798,9 @@
 <!--
 On the right we see the estimated planar curvature &alpha; and vertical curvature &beta;, both in black, compared to the <span style="color: green;"> real curvatures</span> in green.
 -->
+
   <!-- <img style="width: 350px;  float: right;" alt="Curvature errors" src="Pictures/alpha_error.jpg" hspace="2" />
-	<img style="width: 350px;  float: right;" alt="Curvature errors" src="Pictures/beta_error.jpg" hspace="2" /> -->
+    <img style="width: 350px;  float: right;" alt="Curvature errors" src="Pictures/beta_error.jpg" hspace="2" /> -->
 </p>
 </div>
 
@@ -1078,7 +1086,7 @@ On the right we see the estimated planar curvature &alpha; and vertical curvatur
   
 
   <p class="powered-by">
-    © 2024 Artur L Gower &middot; 
+    &copy; 2024 Artur L Gower &middot; 
 
     Powered by the
     <a href="https://sourcethemes.com/academic/" target="_blank" rel="noopener">Academic theme</a> for
