@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Art L Gower</title>
+    <link>https://arturgower.github.io/publication_types/4/</link>
+      <atom:link href="https://arturgower.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 13 Apr 2016 20:25:45 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>4</title>
+      <link>https://arturgower.github.io/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/industry/umbilical-2/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/umbilical-2/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+#### Figure 1:
+ The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.  
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+#### Figure 2:
+On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/industry/umbilical/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/umbilical/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+#### Figure 1:
+ The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.  
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+#### Figure 2:
+On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
+      <link>https://arturgower.github.io/publication/industry/train/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/train/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting Geometric Faults from Measured Data</title>
+      <link>https://arturgower.github.io/publication/industry/geometric-faults/</link>
+      <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/geometric-faults/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</link>
+      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; alt=&#34;&#34; width=&#34;85%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).&lt;/p&gt;
+&lt;p&gt;The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0. As time progressing, we climb up through the vertical axis, and the wave splits into two: one heading to the centre of the earth of the other racing towards the surface. The wave that heads to the centre focuses its energy, as space becomes limited, and eventual &amp;ldquo;collides with the origin&amp;rdquo; and then reflects back towards the surface.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

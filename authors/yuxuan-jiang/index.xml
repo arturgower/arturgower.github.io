@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuxuan Jiang | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/yuxuan-jiang/</link>
+      <atom:link href="https://arturgower.github.io/authors/yuxuan-jiang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuxuan Jiang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Yuxuan Jiang</title>
+      <link>https://arturgower.github.io/authors/yuxuan-jiang/</link>
+    </image>
+    
+    <item>
+      <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</guid>
+      <description>&lt;p&gt;Mechanical stresses across different length scales play a fundamental role in understanding biological systems&amp;rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force. Using an ultrasound transducer to excite and track the shear waves remotely, we demonstrate the application of the method by imaging uniaxial and bending stresses in an isotropic hydrogel and the passive uniaxial stress in a skeletal muscle. These measurements were all done without the knowledge of the constitutive parameters of the materials. The experiments indicate that our method will find broad applications, ranging from health monitoring of soft structures and machines to diagnosing diseases that alter stresses in soft tissues.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

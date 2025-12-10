@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Nigro | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/david-nigro/</link>
+      <atom:link href="https://arturgower.github.io/authors/david-nigro/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Nigro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 02 Sep 2022 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>David Nigro</title>
+      <link>https://arturgower.github.io/authors/david-nigro/</link>
+    </image>
+    
+    <item>
+      <title>A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/thermo-visco-elastic/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/thermo-visco-elastic/</guid>
+      <description>&lt;p&gt;We present a unified framework for the study of wave propagation in homogeneous linear thermo-visco-elastic (TVE) continua, starting from conservation laws. In free-space such media admit two thermo-compressional modes and a shear mode. We provide asymptotic approximations to the corresponding wavenumbers which facilitate the understanding of dispersion of these modes, and consider common solids and fluids as well as soft materials where creep compliance and stress relaxation are important. We further illustrate how commonly used simpler acoustic/elastic dissipative theories can be derived via particular limits of this framework. Consequently, our framework allows us to: (i) simultaneously model interfaces involving both fluids and solids and (ii) easily quantify the influence of thermal or viscous losses in a given configuration of interest. As an example, the general framework is appliedto the canonical problem of scattering from an interface between two TVE half spaces in perfect contact. To illustrate, we provide results for fluid–solid interfaces involving air, water, steel and rubber, paying particular attention to the effects of stress relaxation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Waves | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/waves/</link>
+      <atom:link href="https://arturgower.github.io/tags/waves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Waves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 10 Dec 2025 10:01:38 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Waves</title>
+      <link>https://arturgower.github.io/tags/waves/</link>
+    </image>
+    
+    <item>
+      <title>Software &amp; Packages</title>
+      <link>https://arturgower.github.io/project/wave-software/</link>
+      <pubDate>Wed, 10 Dec 2025 10:01:38 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/wave-software/</guid>
+      <description>&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
+&lt;p&gt;We write high performing packages, mostly in &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;Julia&lt;/a&gt;, related to acoustics and elastic waves, and more generally inverse problems from boundary measurements, such as stress and thermal predictions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+    &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;Entropy GO&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34; style=&#34;margin-top: 1rem; display: block;&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;Star wall simulation&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+     &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; MultipleScattering.jl &lt;/a&gt;
+     &lt;p&gt;
+    Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. To measure these particles we need to predict the multiple scattering of waves between the particles.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient. --&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/effective-transmission.png&#34; alt=&#34;EffectiveWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/freq-splitter.png&#34; alt=&#34;EffectiveWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; EffectiveWaves.jl &lt;/a&gt;
+    &lt;p&gt; Calculates ensemble averaged waves in complex materials. A type of homogenisation method very useful for sensing. &lt;/p&gt; 
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/elastic-ultrasonic/bearings-with-prior-traction.gif&#34; alt=&#34;ElasticWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;!-- &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/elastic-ultrasonic/bearing-diffraction.png&#34; alt=&#34;ElasticWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt; --&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; ElasticWaves.jl &lt;/a&gt;
+    &lt;p&gt; A package to calculate propagation and scattering of elastic waves in bearings. A great setting for inverse problems! &lt;/p&gt; 
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+    &lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/entropy-go.jpg&#34; alt=&#34;Entropy GO&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; Entropy GO &lt;/a&gt;
+    &lt;p&gt;To calculate the current influence on a Go board we use entropy maximisation which is often used for intelligent decision-making.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse Problems</title>
+      <link>https://arturgower.github.io/project/inverse-problems/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/inverse-problems/</guid>
+      <description>&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;alignright&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;a surface wave or wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    a surface wave or wrinkle.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;h2 id=&#34;stress---strain&#34;&gt;Stress - strain&lt;/h2&gt;
+&lt;p&gt;See &amp;hellip; for predicting stress and strain from boundary measurements.&lt;/p&gt;
+&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waves in Complex Materials</title>
+      <link>https://arturgower.github.io/project/complex-materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/complex-materials/</guid>
+      <description>&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw  creates strong durable buildings, what we call today a composite material. Composites are far better than the sum of their parts, for example they can be stronger and cheaper. Hundreds of years of experimentation has led to similar discoveries when mixing fluids and gases, what we now call complex fluids/media.&lt;/p&gt;
+&lt;p&gt;Today composite materials and complex fluids have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A Nylon powder.&#34; href=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air.&#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click on images above. Metal matrix foams and fibre composites are examples of composites, while emulsions, suspensions, complex gases, and polymers are complex fluids.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My research focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Controlling waves&lt;/strong&gt; by designing the next generation of materials. These new materials can then improve telecommunications by controlling light and elastic waves, and mechanical engineering by controlling vibrations and even earthquakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing materials&lt;/strong&gt; with waves. We sense the world around us by using waves. Light and sound are reflected from all materials, and when they reach us, our brains can decode them to understand what objects are around us. In a similar way, waves are used to sense the microstructure materials. One use is to automate manufacturing, where we need to develop sensors that can detect changes in microstructure from reflected waves. Keeping track of the microstructure is essential to determine when the material has reached its optimally flexibility, strength, or capacity to transmit information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;mathematical-models&#34;&gt;Mathematical models&lt;/h2&gt;
+&lt;p&gt;In all these complex materials, it is impossible to know the exact position and shapes of all the microstructure. But the reflected wave does depend on the configuration of the microstructure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: one reflected wave from a complex material. What can we learn about this material from measuring the wave at the receiver?
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/moments.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Figures made with &lt;a href=&#34;../software-packages/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our goal is to develop mathematical models which predict the average reflected wave and its variance (or standard deviation), as these do not depend on the configuration of the microstructure. One of our discoveries [&lt;a href=&#34;https://arxiv.org/abs/1810.10816&#34;&gt;paper 1&lt;/a&gt;,&lt;a href=&#34;https://arxiv.org/abs/1905.06996&#34;&gt;paper 2&lt;/a&gt;] is that there exists many waves, with different speeds and characteristics, that can propagate
+(in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensemble_average_(statistical_mechanics)&#34;&gt;ensemble averaged&lt;/a&gt; sense) inside these complex materials.&lt;/p&gt;
+&lt;p&gt;Once we have accurate mathematical models, and &lt;a href=&#34;../software-packages/&#34;&gt;software&lt;/a&gt;, we can generate a large quantity of (average) reflected waves from different material, such as shown below. This large quantity of data is essential to learn how to &lt;strong&gt;sense materials&lt;/strong&gt; and &lt;strong&gt;design materials to control waves&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</link>
+      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; alt=&#34;&#34; width=&#34;85%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).&lt;/p&gt;
+&lt;p&gt;The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0. As time progressing, we climb up through the vertical axis, and the wave splits into two: one heading to the centre of the earth of the other racing towards the surface. The wave that heads to the centre focuses its energy, as space becomes limited, and eventual &amp;ldquo;collides with the origin&amp;rdquo; and then reflects back towards the surface.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

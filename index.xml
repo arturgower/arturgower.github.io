@@ -1,0 +1,1636 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art L Gower</title>
+    <link>https://arturgower.github.io/</link>
+      <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Art L Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 10 Dec 2025 10:01:38 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Art L Gower</title>
+      <link>https://arturgower.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Software &amp; Packages</title>
+      <link>https://arturgower.github.io/project/wave-software/</link>
+      <pubDate>Wed, 10 Dec 2025 10:01:38 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/wave-software/</guid>
+      <description>&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
+&lt;p&gt;We write high performing packages, mostly in &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;Julia&lt;/a&gt;, related to acoustics and elastic waves, and more generally inverse problems from boundary measurements, such as stress and thermal predictions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+    &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;Entropy GO&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34; style=&#34;margin-top: 1rem; display: block;&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;Star wall simulation&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+     &lt;a href=&#34;https://juliawavescattering.github.io/MultipleScattering.jl/dev/&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; MultipleScattering.jl &lt;/a&gt;
+     &lt;p&gt;
+    Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. To measure these particles we need to predict the multiple scattering of waves between the particles.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient. --&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/effective-transmission.png&#34; alt=&#34;EffectiveWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/freq-splitter.png&#34; alt=&#34;EffectiveWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; EffectiveWaves.jl &lt;/a&gt;
+    &lt;p&gt; Calculates ensemble averaged waves in complex materials. A type of homogenisation method very useful for sensing. &lt;/p&gt; 
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/elastic-ultrasonic/bearings-with-prior-traction.gif&#34; alt=&#34;ElasticWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+    &lt;!-- &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/elastic-ultrasonic/bearing-diffraction.png&#34; alt=&#34;ElasticWaves.jl&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt; --&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; ElasticWaves.jl &lt;/a&gt;
+    &lt;p&gt; A package to calculate propagation and scattering of elastic waves in bearings. A great setting for inverse problems! &lt;/p&gt; 
+    &lt;p&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style=&#34;display: flex; align-items: center; gap: 2rem; margin: 0rem 0;&#34;&gt;
+  &lt;div style=&#34;flex: 0 0 200px;&#34;&gt;
+    &lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34;&gt;
+      &lt;img src=&#34;https://arturgower.github.io/img/entropy-go.jpg&#34; alt=&#34;Entropy GO&#34; style=&#34;width: 100%; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);&#34;&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div style=&#34;flex: 1;&#34;&gt;
+  &lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt; Entropy GO &lt;/a&gt;
+    &lt;p&gt;To calculate the current influence on a Go board we use entropy maximisation which is often used for intelligent decision-making.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;View Project on GitHub →&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links to recent outreach events</title>
+      <link>https://arturgower.github.io/talk/outreach/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/outreach/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Links to recent research talks</title>
+      <link>https://arturgower.github.io/talk/talk-links/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/talk-links/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
+      <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
+      <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</guid>
+      <description>&lt;p&gt;Mechanical stresses across different length scales play a fundamental role in understanding biological systems&amp;rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force. Using an ultrasound transducer to excite and track the shear waves remotely, we demonstrate the application of the method by imaging uniaxial and bending stresses in an isotropic hydrogel and the passive uniaxial stress in a skeletal muscle. These measurements were all done without the knowledge of the constitutive parameters of the materials. The experiments indicate that our method will find broad applications, ranging from health monitoring of soft structures and machines to diagnosing diseases that alter stresses in soft tissues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Representing the stress and strain energy of elastic solids with initial stress and transverse texture anisotropy</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/anisotropic-initial-stress/</link>
+      <pubDate>Fri, 07 Oct 2022 19:23:19 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/anisotropic-initial-stress/</guid>
+      <description>&lt;p&gt;Real-world solids, such as rocks, soft tissues and engineering materials, are often under some form of stress. Most real materials are also, to some degree, anisotropic due to their microstructure, a characteristic often called the ‘texture anisotropy’. This anisotropy can stem from preferential grain alignment in polycrystalline materials, aligned micro-cracks or structural reinforcement, such as collagen bundles in biological tissues, steel rods in pre-stressed concrete and reinforcing fibres in composites. Here, we establish a framework for initially stressed solids with transverse texture anisotropy. We consider that the strain energy per unit mass of the reference is an explicit function of the elastic deformation gradient, the initial stress tensor and the texture anisotropy. We determine the corresponding constitutive relations and develop examples of nonlinear strain energies that depend explicitly on the initial stress and direction of texture anisotropy. As an application, we then employ these models to analyse the stress distribution of an inflated initially stressed cylinder with texture anisotropy and the tension of a welded metal plate. We also deduce the elastic moduli needed to describe linear elasticity from stress reference with transverse texture anisotropy. As an example, we show how to measure the stress with small-amplitude shear waves.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A unified framework for linear thermo-visco-elastic wave propagation including the effects of stress-relaxation</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/thermo-visco-elastic/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/thermo-visco-elastic/</guid>
+      <description>&lt;p&gt;We present a unified framework for the study of wave propagation in homogeneous linear thermo-visco-elastic (TVE) continua, starting from conservation laws. In free-space such media admit two thermo-compressional modes and a shear mode. We provide asymptotic approximations to the corresponding wavenumbers which facilitate the understanding of dispersion of these modes, and consider common solids and fluids as well as soft materials where creep compliance and stress relaxation are important. We further illustrate how commonly used simpler acoustic/elastic dissipative theories can be derived via particular limits of this framework. Consequently, our framework allows us to: (i) simultaneously model interfaces involving both fluids and solids and (ii) easily quantify the influence of thermal or viscous losses in a given configuration of interest. As an example, the general framework is appliedto the canonical problem of scattering from an interface between two TVE half spaces in perfect contact. To illustrate, we provide results for fluid–solid interfaces involving air, water, steel and rubber, paying particular attention to the effects of stress relaxation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-destructive mapping of stress and strain in soft thin films through sound waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective waves for random three-dimensional particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</guid>
+      <description>&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; data-caption=&#34;Shows the average scattering of a harmonic wave according to the effective waves theory.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Shows the average scattering of a harmonic wave according to the effective waves theory.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop on the Theory of Waves in Random Media</title>
+      <link>https://arturgower.github.io/post/random-waves-workshop/</link>
+      <pubDate>Mon, 04 Nov 2019 16:02:03 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/random-waves-workshop/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Waves propagating in random media are key to many areas of physics and engineering. These random media include gases, emulsions, powders, porous and polycrystalline materials, to name just a few. The theoretical tools to understand these waves can be applied to all linear waves, such as acoustics, light, and elastic. Yet, the community, and the tools used are quite disconnected.  This workshop aims to bridge the gaps between mathematicians, physicists, and engineers, to better understand our connections, and to share recent advances.&lt;/p&gt;
+&lt;h3 id=&#34;confirmed-speakers&#34;&gt;Confirmed Speakers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://luke-bennetts.com/&#34;&gt;Luke Bennetts&lt;/a&gt;, Associate Professor in Applied Mathematics, The University of Adelaide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/19970568_Adrian_Doicu&#34;&gt;Adrian Doicu&lt;/a&gt;, Senior Scientist at the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eit.lth.se/index.php?uhpuid=scd.gkr&amp;hpuid=152&amp;L=1&#34;&gt;Gerhard Kristensson&lt;/a&gt;, Professor in Electromagnetic Theory, Lund University.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inside.mines.edu/~pamartin/&#34;&gt;Paul A. Martin&lt;/a&gt;, Professor of Applied Mathematics, Colorado School of Mines.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.institut-langevin.espci.fr/romain_pierrat&#34;&gt;Romain Pierrat&lt;/a&gt;, CNRS Scientist, ESPCI Paris, Institut Langevin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rottergroup.itp.tuwien.ac.at/&#34;&gt;Stefan Rotter&lt;/a&gt;, Professor at the Institute of Theoretical Physics, Vienna University of Technology (TU Wien).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikerbasque.net/en/juan-jose-saenz&#34;&gt;Juan-José Saenz&lt;/a&gt;, Ikerbasque Research Professor, Donostia International Physics Center.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lpmmc.cnrs.fr/spip.php?article181&amp;lang=fr&#34;&gt; Sergey Skipetrov&lt;/a&gt;, CNRS Senior Scientist, Laboratoire de Physique et Modélisation des Milieux.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.uci.edu/~ksolna/&#34;&gt;Knut Solna&lt;/a&gt;, Professor of Mathematics, University of California at Irvine.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.damtp.cam.ac.uk/user/tsm/jrwbio.html&#34;&gt;John R. Willis&lt;/a&gt;, Professor of  Mathematics, University of Cambridge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
+&lt;p&gt;To register &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSelHPar1nUM5sknC4hgQ__71mbDqz6U5zEozrBeslNA_XlZyA/viewform&#34;&gt;submit your details here&lt;/a&gt;, where you can propose a talk and a poster. Note, space for talks is limited.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;deadline&lt;/strong&gt; to apply for a talk and/or a poster is &lt;strong&gt;29 Feb 2020&lt;/strong&gt;, whereas the deadline to just attend is &lt;strong&gt;1 Jun 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- To register follow the two steps below.  --&gt;
+&lt;!-- 1. &lt;a href=&#34;https://onlineshop.shef.ac.uk/product-catalogue/faculty-of-engineering/mechanical-engineering/workshop-on-waves-in-random-media&#34;&gt;Click here&lt;/a&gt; to pay for your registration. The fee is only £25, where coffees, snacks, lunches, and one dinner will be included in the workshop. --&gt;
+&lt;!-- 2. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSelHPar1nUM5sknC4hgQ__71mbDqz6U5zEozrBeslNA_XlZyA/viewform&#34;&gt;Submit your details here&lt;/a&gt; to finalise registration. There you can propose a talk and a poster. Note, space for talks is limited. --&gt;
+&lt;p&gt;We greatly appreciate the funding given by the &lt;a href=&#34;https://acoustics.ac.uk&#34;&gt;UK Acoustics Network&lt;/a&gt;, an &lt;a href=&#34;https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R005001/1&#34;&gt;EPSRC grant (EP/R005001/1)&lt;/a&gt;, for this workshop.&lt;/p&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme&lt;/h3&gt;
+&lt;p&gt;The workshop will run 24-25 of June 2020, starting 9am on the 24th and ending around 4pm on the 25th. More details will be available closer to the date.&lt;/p&gt;
+&lt;h3 id=&#34;travel&#34;&gt;Travel&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sheffield.ac.uk/visitors/mapsandtravel&#34;&gt;See here&lt;/a&gt; for details on travelling to Sheffield.&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;The workshop will be held in lecture theatre 4, &lt;a href=&#34;https://goo.gl/maps/TcAPFmY4mGoWZMzaA&#34;&gt;Hicks Building, Sheffield S3 7RH&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;center&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/hicks-entrance.jpg&#34; data-caption=&#34;The entrance to the Hicks Building.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/hicks-entrance.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The entrance to the Hicks Building.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;h3 id=&#34;accommodation&#34;&gt;Accommodation&lt;/h3&gt;
+&lt;p&gt;There are a number of hotels close to the venue, see the list below. We recommend everyone arrives on the 23rd of June, as we aim to start 9am on the 24th of June.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.premierinn.com/gb/en/hotels/england/south-yorkshire/sheffield/sheffield-city-centre-angel-street.html?cid=GLBC_SHECIT&#34;&gt; The Premier Inn&lt;/a&gt;, rate per night ~ £35.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bestwestern.co.uk/hotels/best-western-cutlers-hotel-83893?utm_source=google_places&amp;utm_medium=organic&amp;utm_campaign=Best_Western_Sheffield&#34;&gt; The Best Western Hotel&lt;/a&gt;, rate per night ~ £60.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.accorhotels.com/gb/hotel-6628-mercure-sheffield-st-paul-s-hotel-spa/index.shtml&#34;&gt; Mercure Sheffield St Paul&amp;rsquo;s Hotel &amp;amp; Spa&lt;/a&gt;, rate per night ~ £85.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - &lt;a href=&#34;https://leopoldhotel.co.uk/?utm_medium=organic&amp;utm_source=googlemybusiness&amp;utm_campaign=Google%20My%20Business&#34;&gt; The Leopold Hotel&lt;/a&gt;, rate per night ~ £110. --&gt;
+&lt;h3 id=&#34;dinner-and-social&#34;&gt;Dinner and Social&lt;/h3&gt;
+&lt;p&gt;On the evening on the 24th of June we will be upstairs in the &lt;a href=&#34;https://goo.gl/maps/6sXPUcimR8QP83xm6&#34;&gt;University Arms&lt;/a&gt; for food, discussion, and drinks (we might ask for a financial contribution).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;center&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/UniArms.jpg&#34; data-caption=&#34;An evening in a traditional UK pub.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/UniArms.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An evening in a traditional UK pub.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/#home&#34;&gt;Art Gower&lt;/a&gt;, Lecturer in Dyamics, University of Sheffield.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strath.ac.uk/staff/tantkatherinemargaretmarymiss/&#34;&gt; Katy Tant&lt;/a&gt;, Strathclyde Chancellor&amp;rsquo;s Fellow, University of Strathclyde.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lp2n.institutoptique.fr/light-complex-nanostructures&#34;&gt; Kevin Vynck&lt;/a&gt;, CNRS Scientist, Laboratory for Photonics, Numerics and Nanosciences.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; data-caption=&#34;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Work With Me</title>
+      <link>https://arturgower.github.io/post/work-with-me/</link>
+      <pubDate>Sun, 19 May 2019 13:58:32 +0100</pubDate>
+      <guid>https://arturgower.github.io/post/work-with-me/</guid>
+      <description>&lt;p&gt;Am always happy to discuss research and exchange ideas. Find my &lt;a href=&#34;https://arturgower.github.io/#contact&#34;&gt;contact details here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- See below for funded PhD opportunities. --&gt;
+&lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
+&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
+&lt;p&gt;There are currently three available funded PhD positions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/PhDStudentshipInWaveScattering.pdf&#34;&gt;Sensing particles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
+&lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#particulates&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;modelling-waves-in-complex-materials&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+&lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water. Makes up a large part of our food and oil industries.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classical mechanics&lt;/li&gt;
+&lt;li&gt;Signal processing&lt;/li&gt;
+&lt;li&gt;Multivariable calculus&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
+techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
+&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Harmonic wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Harmonic wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer programming&lt;/li&gt;
+&lt;li&gt;Signal processing&lt;/li&gt;
+&lt;li&gt;Classical mechanics&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&amp;rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
+&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;An elastic wave propagating on the surface of a solid under tension.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An elastic wave propagating on the surface of a solid under tension.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid mechanics&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;li&gt;Wave motion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Waves Propagate in Random Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/multiple-waves/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/multiple-waves/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;To the right of the dashed line are particles, whose position has been numerically ensemble averaged. To the left is just a homogenious medium. What is shown here (though faintly) is that more than one transmitted wave exists in an ensemble averaged medium. The paper shows this with much more clarity!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Inverse Problems</title>
+      <link>https://arturgower.github.io/project/inverse-problems/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/inverse-problems/</guid>
+      <description>&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;alignright&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;a surface wave or wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    a surface wave or wrinkle.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;h2 id=&#34;stress---strain&#34;&gt;Stress - strain&lt;/h2&gt;
+&lt;p&gt;See &amp;hellip; for predicting stress and strain from boundary measurements.&lt;/p&gt;
+&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultipleScattering.jl</title>
+      <link>https://arturgower.github.io/publication/scattering-software/</link>
+      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/scattering-software/</guid>
+      <description>&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
+&lt;p&gt;I develop simulations/software to calculate &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/&#34;&gt;wave scattering between particles&lt;/a&gt;. This software is very flexible: you can simulate waves reflected from any shape you can make out of spheres, such as reflected a wave off a &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/#star-wall&#34;&gt;starfish in a pipe&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a name=&#34;star-wall&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; data-caption=&#34;A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; data-caption=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; data-caption=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Similar to the figure above, here we show the absolute magnitude of the wave.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting faults on a wing</title>
+      <link>https://arturgower.github.io/post/wing-faults/</link>
+      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/wing-faults/</guid>
+      <description>&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking train tracks</title>
+      <link>https://arturgower.github.io/post/train/</link>
+      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/train/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The art of cable arranging</title>
+      <link>https://arturgower.github.io/post/cable-arranging/</link>
+      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cable-arranging/</guid>
+      <description>&lt;h2 id=&#34;how-to-design-a-collection-of-cables-to-be-both-robust-and-flexible&#34;&gt;How to design a collection of cables to be both robust and flexible?&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+&lt;!-- #### Figure 1: --&gt;
+&lt;p&gt;The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.&lt;/p&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+&lt;!-- #### Figure 2: --&gt;
+&lt;p&gt;On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).&lt;/p&gt;
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
+      <link>https://arturgower.github.io/publication/complex-materials/multi-species/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/multi-species/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Particulate materials (emulsions, powders, blood) have led to significant advances in foods science and healthcare. To automate the production of these materials or to monitor them in use, waves such as acoustics and light are essential. One open challenge has been to describe waves in particles with different sizes and properties (multi-species). These variations in particle properties are key indicators of performance. This paper is the first to derive a rigorous model, and demonstrates the deficiencies of current ad hoc models.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;p&gt;Quoting the British Standards (ISO 20998-3:2017): &amp;ldquo;Ultrasonic spectroscopy is widely used to measure particle size distribution (PSD) in colloids, dispersions, and emulsions&amp;rdquo;. Yet, despite the widespread use and importance of these methods, the ISO publication describes that there does not exist a rigorous model for acoustics in polydisperse particles (multi-species). This paper clearly fills this gap in the knowledge, and provides simply accessible formulas, as well a software package (&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl&#34;&gt;https://github.com/arturgower/EffectiveWaves.jl&lt;/a&gt;) for a vast range of different particle materials.&lt;/p&gt;
+&lt;!--
+Reviewers:
+- This extension to the multi-species case is non-trivial and leads to some counter-intuitive results.
+- This paper ... makes original and worthwhile extensions of knowledge.
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower drafted the manuscript, derived the mathematical expressions, and carried out all the numerical calculations. The other authors made contributions to the text, and helped conceive the study.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EffectiveWaves.jl</title>
+      <link>https://arturgower.github.io/publication/effective-wave-software/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
+      <description>&lt;p&gt;The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new restriction for initially stressed elastic solids</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oblique Wrinkles</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
+&lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output
+
+This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
+
+How wrinkles form underpins many techniques across science and engineering, see examples below. All these methods rely on an intuitive assumption: that wrinkles form orthogonal to the directions of greatest tension. Our work demonstrates that rigours theory does not confirm this assumption.
+
+ Examples include:
+- use surface wrinkles to tune surface wetting and adhesion.
+- to pattern microlens array (used in fibre optics and optical computing), to create wavy stretchable electronics which can undergo large strains without breaking.   
+- avoiding wrinkling in flexible displays and eletro-textiles.  
+
+Reviewers quotes:
+- I learned a number of new things from this paper ... The occurrence of wrinkles
+that are aligned obliquely as revealed by the authors was unexpected to me.
+- A very original paper, clearly written and containing pertinent informations.
+
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</link>
+      <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/tube-table.png&#34; data-caption=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&amp;rsquo;s mechanical function and properties to its pattern.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output
+
+This paper was the first to demonstrate how internals stress can be directly related to pattern formation (through instabilities). A range of papers on pattern formation in soft tissues have resulted from this work, including:
+- patterns formation on elastic spheres (like the early stage of an embryo) due to internal stresses.
+- wrinkles forming on stressed thin films (used in flexible electronics and surface patterning).
+- pattern formation on layered aorta (a large artery).
+- theoretical frameworks which connect tissue growth, internal stress, with pattern formation.
+
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waves in Complex Materials</title>
+      <link>https://arturgower.github.io/project/complex-materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/complex-materials/</guid>
+      <description>&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw  creates strong durable buildings, what we call today a composite material. Composites are far better than the sum of their parts, for example they can be stronger and cheaper. Hundreds of years of experimentation has led to similar discoveries when mixing fluids and gases, what we now call complex fluids/media.&lt;/p&gt;
+&lt;p&gt;Today composite materials and complex fluids have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A Nylon powder.&#34; href=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air.&#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click on images above. Metal matrix foams and fibre composites are examples of composites, while emulsions, suspensions, complex gases, and polymers are complex fluids.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My research focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Controlling waves&lt;/strong&gt; by designing the next generation of materials. These new materials can then improve telecommunications by controlling light and elastic waves, and mechanical engineering by controlling vibrations and even earthquakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing materials&lt;/strong&gt; with waves. We sense the world around us by using waves. Light and sound are reflected from all materials, and when they reach us, our brains can decode them to understand what objects are around us. In a similar way, waves are used to sense the microstructure materials. One use is to automate manufacturing, where we need to develop sensors that can detect changes in microstructure from reflected waves. Keeping track of the microstructure is essential to determine when the material has reached its optimally flexibility, strength, or capacity to transmit information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;mathematical-models&#34;&gt;Mathematical models&lt;/h2&gt;
+&lt;p&gt;In all these complex materials, it is impossible to know the exact position and shapes of all the microstructure. But the reflected wave does depend on the configuration of the microstructure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: one reflected wave from a complex material. What can we learn about this material from measuring the wave at the receiver?
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/moments.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Figures made with &lt;a href=&#34;../software-packages/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our goal is to develop mathematical models which predict the average reflected wave and its variance (or standard deviation), as these do not depend on the configuration of the microstructure. One of our discoveries [&lt;a href=&#34;https://arxiv.org/abs/1810.10816&#34;&gt;paper 1&lt;/a&gt;,&lt;a href=&#34;https://arxiv.org/abs/1905.06996&#34;&gt;paper 2&lt;/a&gt;] is that there exists many waves, with different speeds and characteristics, that can propagate
+(in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensemble_average_(statistical_mechanics)&#34;&gt;ensemble averaged&lt;/a&gt; sense) inside these complex materials.&lt;/p&gt;
+&lt;p&gt;Once we have accurate mathematical models, and &lt;a href=&#34;../software-packages/&#34;&gt;software&lt;/a&gt;, we can generate a large quantity of (average) reflected waves from different material, such as shown below. This large quantity of data is essential to learn how to &lt;strong&gt;sense materials&lt;/strong&gt; and &lt;strong&gt;design materials to control waves&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/industry/umbilical-2/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/umbilical-2/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+#### Figure 1:
+ The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.  
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+#### Figure 2:
+On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Cable Positioning</title>
+      <link>https://arturgower.github.io/publication/industry/umbilical/</link>
+      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/umbilical/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+#### Figure 1:
+ The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.  
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+#### Figure 2:
+On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</link>
+      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Higher-order reverse automatic differentiation with emphasis on the third-order</title>
+      <link>https://arturgower.github.io/publication/third-order-ad/</link>
+      <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/third-order-ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Initial stress symmetry and its applications in elasticity</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/stress-symmetry-2015/</link>
+      <pubDate>Wed, 07 Oct 2015 21:04:51 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/stress-symmetry-2015/</guid>
+      <description>&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Stresses in solids can arise due to an external load, or from internal changes such as thermal expansion and growth. Significant residual stress are present in biological tissues due to growth, in most metal due to cooling and rolling, and even in the earths crust due to gravity and active tectonics. These stresses greatly alter the elastic behaviour of a solid, which is the theme of this work. This paper demonstrated that a basic physical law (related to energy conservation) was missing from all the elastic models in the field. This physical law also allows elegant shortcuts to model in-vivo stress conditions, which we used to model the elastic behaviour of an artery under ideal in-vivo conditions. Previous studies needed to use heavy numerical implementations to achieve a similar non-optimal result.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;!--
+
+Anonymous reviewer:
+So far [there does not exist] in the literature a general non-destructive method or theory to compute [initial stresses]. The present paper [helps achieve this goal and] will have many applications in the future.
+
+So far this paper has directly led over 10 different studies and methods (mostly in the form of published papers).
+
+Main impact: this work changed the communities approach to modelling elastic solids under stress. Before, it was thought that pre-stresses (like a residual stress) could easily be accounted for in the elastic behaviour. The new law introduced in this paper changed that view. Since publication, there have been far fewer papers explicitly modelling the nonlinear elastic behaviour of solids under stress. Papers that have been published have almost all exclusively used a model introduced in this paper, which is one of the few known to satisfy the extra physical law.
+
+
+
+
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower conceived of the study, developed the theoretical framework, and produced the numerical results and graphs.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Connecting the material parameters of soft fibre-reinforced solids with the formation of surface wrinkles</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/fibre-wrinkle/</link>
+      <pubDate>Thu, 27 Nov 2014 19:21:07 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/fibre-wrinkle/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;When we compress a soft solid enough, it will form wrinkles on its surface, as shown by the figure below.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; data-caption=&#34;When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/Shearing.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    When a soft solid is sheared enough, it will form wrinkles on its surface. The black lines show the directions of reinforcing fibres.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres. Knowing how these wrinkles form&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;will give us greater control when creating textured surfaces.&lt;/li&gt;
+&lt;li&gt;helps us understand how wrinkled surfaces form in biology, like the lining of our gut.&lt;/li&gt;
+&lt;li&gt;allow us to use these wrinkles to learn about the material and its fibres.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This last item is the focus of this paper. I study carefully the link between all possible fibres and how they effect the formation of surface wrinkles. The figure below illustrates part of the mathematics.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; data-caption=&#34;At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/WrinkleMov.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    At each stage of the deformation, we check is there exists a wrinkle which will minimise the potential energy of the material. If such a wrinkle does exists, we know that it will form instantly.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A robust anisotropic hyperelastic formulation for the modelling of soft tissue</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/robust-anisotropy/</link>
+      <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/robust-anisotropy/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; data-caption=&#34;Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Modelling soft tissues has an immense potential to impact healthcare. It will enable a revolution of simulated surgeries, and long term predictions of prosthetics in the human body. Most soft tissues are reinforced by fibres (anisotropic). In this paper, we demonstrated how to implement, in finite element, robust models of anisotropic soft tissues. We were the first to correctly model volumetric changes in soft tissues, which, previously, were ignored by most finite element methods. To demonstrate the importance of our method, we simulated a stent deployed in an artery, and showed how the arterial forces were significantly under predicted with previous models.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;!-- This papers has influenced a wide community which models soft tissues with finite element.
+ By tracking the 80+ citations of this paper, some of the numerous  
+ Some
+ contributions that our method led to include
+- robust simulations of arteries walls in numerous papers including: studying passive and active behaviour, optimising stent deployment, modelling the mechanics of plaque formation, and models for vein reconstruction surgeries (from venous valve tissue).
+- improved models of tendons and ligaments in knees and other joints, which help optimise surgical methods, and avoid tears.
+- models of the elastic behaviour of skin tissues.
+- mechano-electrochemical models for smooth muscle contraction.
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed both the theoretical framework, mathematical examples, and custom elasticity tensors used by Abacus (finite element software. David Nolan developed and implemented the simulations examples in the paper. All authors helped draft the manuscript and conceive the study.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
+      <link>https://arturgower.github.io/publication/industry/train/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/train/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Counter-intuitive results in acousto-elasticity</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/acousto-elasticity/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/acousto-elasticity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A plane surface wave travelling on the top of a deformed soft solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A plane surface wave travelling on the top of a deformed soft solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We revisit the theory of acousto-elasticity in deformed isotropic solids.&lt;/li&gt;
+&lt;li&gt;Intuition suggests that slowest and the fastest waves should travel along the directions of least and greatest stretch.&lt;/li&gt;
+&lt;li&gt;We find examples where this is not the case, for body and for surface waves.&lt;/li&gt;
+&lt;li&gt;These results complicate accepted protocols for finding the directions of greatest strains.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shear instability in skin tissue</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/skin-shear/</link>
+      <pubDate>Mon, 27 May 2013 20:00:17 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/skin-shear/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; data-caption=&#34;On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/skin-shear.png&#34; alt=&#34;&#34; width=&#34;90%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    On the left the skin at rest, on the right we shear the skin until wrinkles form. What can these wrinkles tell us about the skin?
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We explore how the alignment of surface wrinkles relate to the directions of the reinforcing fibres in the skin. This technique is used to estimate the Langer lines (directions of greatest tension), which then indicates where incisions are best made for surgery.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting Geometric Faults from Measured Data</title>
+      <link>https://arturgower.github.io/publication/industry/geometric-faults/</link>
+      <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/geometric-faults/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</link>
+      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; alt=&#34;&#34; width=&#34;85%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).&lt;/p&gt;
+&lt;p&gt;The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0. As time progressing, we climb up through the vertical axis, and the wave splits into two: one heading to the centre of the earth of the other racing towards the surface. The wave that heads to the centre focuses its energy, as space becomes limited, and eventual &amp;ldquo;collides with the origin&amp;rdquo; and then reflects back towards the surface.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elastic materials</title>
+      <link>https://arturgower.github.io/project/elasticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/elasticity/</guid>
+      <description>&lt;p&gt;Our work covers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elastic waves, including vibration and ultrasonics&lt;/li&gt;
+&lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
+&lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;linear-elastic-waves&#34;&gt;Linear elastic waves&lt;/h2&gt;
+&lt;p&gt;Linear elastic waves cover ultrasonics, and are used to make measurements and assess materials. Work in this includes methods to measure stress through changes in wave-speed with applications in &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/&#34;&gt;steel and hard solids&lt;/a&gt;, &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/&#34;&gt;medical ultrasound&lt;/a&gt;, and measuring &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/&#34;&gt;extremely thin membranes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Another theme is use elastic waves in more complex geometries to measure shape changes as well as sources and stress. Our first paper on the theme &amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
+&lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;Use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A wrinkle instability on the surface of a solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A wrinkle instability on the surface of a solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Mathematics</title>
+      <link>https://arturgower.github.io/project/industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/industry/</guid>
+      <description>&lt;!-- &lt;style&gt;
+img {
+    float: right;
+}
+&lt;/style&gt; --&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;p&gt;The projects below come from commercial and industrial challenges.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;tracking-train-tracks&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/train/&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;designing-a-collection-of-cables&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/umbilical/&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to design a collection of cables to be both robust and flexible? The answer is to use continuous optimisation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/geometric-faults/&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

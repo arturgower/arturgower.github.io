@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William J. Parnell | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/william-j.-parnell/</link>
+      <atom:link href="https://arturgower.github.io/authors/william-j.-parnell/index.xml" rel="self" type="application/rss+xml" />
+    <description>William J. Parnell</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Mon, 03 Jun 2019 11:29:37 +0100</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>William J. Parnell</title>
+      <link>https://arturgower.github.io/authors/william-j.-parnell/</link>
+    </image>
+    
+    <item>
+      <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; data-caption=&#34;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

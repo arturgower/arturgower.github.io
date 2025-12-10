@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soft Tube | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/soft-tube/</link>
+      <atom:link href="https://arturgower.github.io/tags/soft-tube/index.xml" rel="self" type="application/rss+xml" />
+    <description>Soft Tube</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 27 May 2016 15:10:20 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Soft Tube</title>
+      <link>https://arturgower.github.io/tags/soft-tube/</link>
+    </image>
+    
+    <item>
+      <title>Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</link>
+      <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/tube-table.png&#34; data-caption=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&amp;rsquo;s mechanical function and properties to its pattern.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output
+
+This paper was the first to demonstrate how internals stress can be directly related to pattern formation (through instabilities). A range of papers on pattern formation in soft tissues have resulted from this work, including:
+- patterns formation on elastic spheres (like the early stage of an embryo) due to internal stresses.
+- wrinkles forming on stressed thin films (used in flexible electronics and surface patterning).
+- pattern formation on layered aorta (a large artery).
+- theoretical frameworks which connect tissue growth, internal stress, with pattern formation.
+
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert M. Gower | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/robert-m.-gower/</link>
+      <atom:link href="https://arturgower.github.io/authors/robert-m.-gower/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert M. Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 27 Jan 2016 16:14:45 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Robert M. Gower</title>
+      <link>https://arturgower.github.io/authors/robert-m.-gower/</link>
+    </image>
+    
+    <item>
+      <title>Higher-order reverse automatic differentiation with emphasis on the third-order</title>
+      <link>https://arturgower.github.io/publication/third-order-ad/</link>
+      <pubDate>Wed, 27 Jan 2016 16:14:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/third-order-ad/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D. R. Nolan | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/d.-r.-nolan/</link>
+      <atom:link href="https://arturgower.github.io/authors/d.-r.-nolan/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. R. Nolan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 27 Nov 2014 16:34:46 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>D. R. Nolan</title>
+      <link>https://arturgower.github.io/authors/d.-r.-nolan/</link>
+    </image>
+    
+    <item>
+      <title>A robust anisotropic hyperelastic formulation for the modelling of soft tissue</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/robust-anisotropy/</link>
+      <pubDate>Thu, 27 Nov 2014 16:34:46 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/robust-anisotropy/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; data-caption=&#34;Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/stent-arteries.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Contour plots illustrating the stresses computed for the standard arterial wall model (HGO-C) and our modified model (MA) after stent deployment. A) von Mises stress q, B) pressure stress -σ hyd, C) triaxiality, D) ratio of axial stress to the circumferential stress σ_zz /σ_θθ.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Modelling soft tissues has an immense potential to impact healthcare. It will enable a revolution of simulated surgeries, and long term predictions of prosthetics in the human body. Most soft tissues are reinforced by fibres (anisotropic). In this paper, we demonstrated how to implement, in finite element, robust models of anisotropic soft tissues. We were the first to correctly model volumetric changes in soft tissues, which, previously, were ignored by most finite element methods. To demonstrate the importance of our method, we simulated a stent deployed in an artery, and showed how the arterial forces were significantly under predicted with previous models.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;!-- This papers has influenced a wide community which models soft tissues with finite element.
+ By tracking the 80+ citations of this paper, some of the numerous  
+ Some
+ contributions that our method led to include
+- robust simulations of arteries walls in numerous papers including: studying passive and active behaviour, optimising stent deployment, modelling the mechanics of plaque formation, and models for vein reconstruction surgeries (from venous valve tissue).
+- improved models of tendons and ligaments in knees and other joints, which help optimise surgical methods, and avoid tears.
+- models of the elastic behaviour of skin tissues.
+- mechano-electrochemical models for smooth muscle contraction.
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed both the theoretical framework, mathematical examples, and custom elasticity tensors used by Abacus (finite element software. David Nolan developed and implemented the simulations examples in the paper. All authors helped draft the manuscript and conceive the study.
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

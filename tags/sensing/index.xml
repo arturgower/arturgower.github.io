@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensing | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/sensing/</link>
+      <atom:link href="https://arturgower.github.io/tags/sensing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sensing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Sensing</title>
+      <link>https://arturgower.github.io/tags/sensing/</link>
+    </image>
+    
+    <item>
+      <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</guid>
+      <description>&lt;p&gt;Mechanical stresses across different length scales play a fundamental role in understanding biological systems&amp;rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force. Using an ultrasound transducer to excite and track the shear waves remotely, we demonstrate the application of the method by imaging uniaxial and bending stresses in an isotropic hydrogel and the passive uniaxial stress in a skeletal muscle. These measurements were all done without the knowledge of the constitutive parameters of the materials. The experiments indicate that our method will find broad applications, ranging from health monitoring of soft structures and machines to diagnosing diseases that alter stresses in soft tissues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Non-destructive mapping of stress and strain in soft thin films through sound waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

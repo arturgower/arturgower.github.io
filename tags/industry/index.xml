@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Industry | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/industry/</link>
+      <atom:link href="https://arturgower.github.io/tags/industry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Industry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Industry</title>
+      <link>https://arturgower.github.io/tags/industry/</link>
+    </image>
+    
+    <item>
+      <title>Inverse Problems</title>
+      <link>https://arturgower.github.io/project/inverse-problems/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/inverse-problems/</guid>
+      <description>&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;alignright&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;a surface wave or wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    a surface wave or wrinkle.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;h2 id=&#34;stress---strain&#34;&gt;Stress - strain&lt;/h2&gt;
+&lt;p&gt;See &amp;hellip; for predicting stress and strain from boundary measurements.&lt;/p&gt;
+&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting faults on a wing</title>
+      <link>https://arturgower.github.io/post/wing-faults/</link>
+      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/wing-faults/</guid>
+      <description>&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking train tracks</title>
+      <link>https://arturgower.github.io/post/train/</link>
+      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/train/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The art of cable arranging</title>
+      <link>https://arturgower.github.io/post/cable-arranging/</link>
+      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cable-arranging/</guid>
+      <description>&lt;h2 id=&#34;how-to-design-a-collection-of-cables-to-be-both-robust-and-flexible&#34;&gt;How to design a collection of cables to be both robust and flexible?&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+&lt;!-- #### Figure 1: --&gt;
+&lt;p&gt;The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.&lt;/p&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+&lt;!-- #### Figure 2: --&gt;
+&lt;p&gt;On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).&lt;/p&gt;
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elimination of errors from track line detection, In: Train Positioning Using Video Odometry</title>
+      <link>https://arturgower.github.io/publication/industry/train/</link>
+      <pubDate>Sun, 13 Apr 2014 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/train/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting Geometric Faults from Measured Data</title>
+      <link>https://arturgower.github.io/publication/industry/geometric-faults/</link>
+      <pubDate>Fri, 27 Apr 2012 12:14:41 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/industry/geometric-faults/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Industrial Mathematics</title>
+      <link>https://arturgower.github.io/project/industry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/industry/</guid>
+      <description>&lt;!-- &lt;style&gt;
+img {
+    float: right;
+}
+&lt;/style&gt; --&gt;
+&lt;h2 id=&#34;examples&#34;&gt;Examples&lt;/h2&gt;
+&lt;p&gt;The projects below come from commercial and industrial challenges.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/train_tracks.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;tracking-train-tracks&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/train/&#34;&gt;Tracking train tracks&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to track a train using only a camera? We designed a method that extracts the curvature of the tracks and removes errors caused by the train jiggling.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    The blue is captured from a camera on-board a train. To eliminate the shaking, we formulated an optimization method that recovers the real position of the tracks, in red.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;hr&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/umbilical.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;designing-a-collection-of-cables&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/umbilical/&#34;&gt;Designing a collection of cables&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to design a collection of cables to be both robust and flexible? The answer is to use continuous optimisation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wing.jpg&#34; alt=&#34;&#34; width=&#34;40%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/geometric-faults/&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

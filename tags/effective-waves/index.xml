@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effective Waves | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/effective-waves/</link>
+      <atom:link href="https://arturgower.github.io/tags/effective-waves/index.xml" rel="self" type="application/rss+xml" />
+    <description>Effective Waves</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Effective Waves</title>
+      <link>https://arturgower.github.io/tags/effective-waves/</link>
+    </image>
+    
+    <item>
+      <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
+      <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
+      <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EffectiveWaves.jl</title>
+      <link>https://arturgower.github.io/publication/effective-wave-software/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
+      <description>&lt;p&gt;The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waves in Complex Materials</title>
+      <link>https://arturgower.github.io/project/complex-materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/complex-materials/</guid>
+      <description>&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw  creates strong durable buildings, what we call today a composite material. Composites are far better than the sum of their parts, for example they can be stronger and cheaper. Hundreds of years of experimentation has led to similar discoveries when mixing fluids and gases, what we now call complex fluids/media.&lt;/p&gt;
+&lt;p&gt;Today composite materials and complex fluids have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A Nylon powder.&#34; href=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air.&#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click on images above. Metal matrix foams and fibre composites are examples of composites, while emulsions, suspensions, complex gases, and polymers are complex fluids.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My research focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Controlling waves&lt;/strong&gt; by designing the next generation of materials. These new materials can then improve telecommunications by controlling light and elastic waves, and mechanical engineering by controlling vibrations and even earthquakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing materials&lt;/strong&gt; with waves. We sense the world around us by using waves. Light and sound are reflected from all materials, and when they reach us, our brains can decode them to understand what objects are around us. In a similar way, waves are used to sense the microstructure materials. One use is to automate manufacturing, where we need to develop sensors that can detect changes in microstructure from reflected waves. Keeping track of the microstructure is essential to determine when the material has reached its optimally flexibility, strength, or capacity to transmit information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;mathematical-models&#34;&gt;Mathematical models&lt;/h2&gt;
+&lt;p&gt;In all these complex materials, it is impossible to know the exact position and shapes of all the microstructure. But the reflected wave does depend on the configuration of the microstructure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: one reflected wave from a complex material. What can we learn about this material from measuring the wave at the receiver?
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/moments.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Figures made with &lt;a href=&#34;../software-packages/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our goal is to develop mathematical models which predict the average reflected wave and its variance (or standard deviation), as these do not depend on the configuration of the microstructure. One of our discoveries [&lt;a href=&#34;https://arxiv.org/abs/1810.10816&#34;&gt;paper 1&lt;/a&gt;,&lt;a href=&#34;https://arxiv.org/abs/1905.06996&#34;&gt;paper 2&lt;/a&gt;] is that there exists many waves, with different speeds and characteristics, that can propagate
+(in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensemble_average_(statistical_mechanics)&#34;&gt;ensemble averaged&lt;/a&gt; sense) inside these complex materials.&lt;/p&gt;
+&lt;p&gt;Once we have accurate mathematical models, and &lt;a href=&#34;../software-packages/&#34;&gt;software&lt;/a&gt;, we can generate a large quantity of (average) reflected waves from different material, such as shown below. This large quantity of data is essential to learn how to &lt;strong&gt;sense materials&lt;/strong&gt; and &lt;strong&gt;design materials to control waves&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

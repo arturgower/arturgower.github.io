@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Particulate | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/particulate/</link>
+      <atom:link href="https://arturgower.github.io/tags/particulate/index.xml" rel="self" type="application/rss+xml" />
+    <description>Particulate</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Particulate</title>
+      <link>https://arturgower.github.io/tags/particulate/</link>
+    </image>
+    
+    <item>
+      <title>Effective waves for random three-dimensional particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</guid>
+      <description>&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; data-caption=&#34;Shows the average scattering of a harmonic wave according to the effective waves theory.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Shows the average scattering of a harmonic wave according to the effective waves theory.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

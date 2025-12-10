@@ -1,0 +1,458 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Art L Gower</title>
+    <link>https://arturgower.github.io/post/</link>
+      <atom:link href="https://arturgower.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Mon, 04 Nov 2019 16:02:03 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>https://arturgower.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Workshop on the Theory of Waves in Random Media</title>
+      <link>https://arturgower.github.io/post/random-waves-workshop/</link>
+      <pubDate>Mon, 04 Nov 2019 16:02:03 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/random-waves-workshop/</guid>
+      <description>&lt;h3 id=&#34;summary&#34;&gt;Summary&lt;/h3&gt;
+&lt;p&gt;Waves propagating in random media are key to many areas of physics and engineering. These random media include gases, emulsions, powders, porous and polycrystalline materials, to name just a few. The theoretical tools to understand these waves can be applied to all linear waves, such as acoustics, light, and elastic. Yet, the community, and the tools used are quite disconnected.  This workshop aims to bridge the gaps between mathematicians, physicists, and engineers, to better understand our connections, and to share recent advances.&lt;/p&gt;
+&lt;h3 id=&#34;confirmed-speakers&#34;&gt;Confirmed Speakers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://luke-bennetts.com/&#34;&gt;Luke Bennetts&lt;/a&gt;, Associate Professor in Applied Mathematics, The University of Adelaide.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.researchgate.net/scientific-contributions/19970568_Adrian_Doicu&#34;&gt;Adrian Doicu&lt;/a&gt;, Senior Scientist at the Remote Sensing Technology Institute (IMF), German Aerospace Center (DLR).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.eit.lth.se/index.php?uhpuid=scd.gkr&amp;hpuid=152&amp;L=1&#34;&gt;Gerhard Kristensson&lt;/a&gt;, Professor in Electromagnetic Theory, Lund University.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://inside.mines.edu/~pamartin/&#34;&gt;Paul A. Martin&lt;/a&gt;, Professor of Applied Mathematics, Colorado School of Mines.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.institut-langevin.espci.fr/romain_pierrat&#34;&gt;Romain Pierrat&lt;/a&gt;, CNRS Scientist, ESPCI Paris, Institut Langevin.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://rottergroup.itp.tuwien.ac.at/&#34;&gt;Stefan Rotter&lt;/a&gt;, Professor at the Institute of Theoretical Physics, Vienna University of Technology (TU Wien).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.ikerbasque.net/en/juan-jose-saenz&#34;&gt;Juan-José Saenz&lt;/a&gt;, Ikerbasque Research Professor, Donostia International Physics Center.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://lpmmc.cnrs.fr/spip.php?article181&amp;lang=fr&#34;&gt; Sergey Skipetrov&lt;/a&gt;, CNRS Senior Scientist, Laboratoire de Physique et Modélisation des Milieux.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.math.uci.edu/~ksolna/&#34;&gt;Knut Solna&lt;/a&gt;, Professor of Mathematics, University of California at Irvine.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.damtp.cam.ac.uk/user/tsm/jrwbio.html&#34;&gt;John R. Willis&lt;/a&gt;, Professor of  Mathematics, University of Cambridge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;registration&#34;&gt;Registration&lt;/h3&gt;
+&lt;p&gt;To register &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSelHPar1nUM5sknC4hgQ__71mbDqz6U5zEozrBeslNA_XlZyA/viewform&#34;&gt;submit your details here&lt;/a&gt;, where you can propose a talk and a poster. Note, space for talks is limited.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;deadline&lt;/strong&gt; to apply for a talk and/or a poster is &lt;strong&gt;29 Feb 2020&lt;/strong&gt;, whereas the deadline to just attend is &lt;strong&gt;1 Jun 2020&lt;/strong&gt;.&lt;/p&gt;
+&lt;!-- To register follow the two steps below.  --&gt;
+&lt;!-- 1. &lt;a href=&#34;https://onlineshop.shef.ac.uk/product-catalogue/faculty-of-engineering/mechanical-engineering/workshop-on-waves-in-random-media&#34;&gt;Click here&lt;/a&gt; to pay for your registration. The fee is only £25, where coffees, snacks, lunches, and one dinner will be included in the workshop. --&gt;
+&lt;!-- 2. &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSelHPar1nUM5sknC4hgQ__71mbDqz6U5zEozrBeslNA_XlZyA/viewform&#34;&gt;Submit your details here&lt;/a&gt; to finalise registration. There you can propose a talk and a poster. Note, space for talks is limited. --&gt;
+&lt;p&gt;We greatly appreciate the funding given by the &lt;a href=&#34;https://acoustics.ac.uk&#34;&gt;UK Acoustics Network&lt;/a&gt;, an &lt;a href=&#34;https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/R005001/1&#34;&gt;EPSRC grant (EP/R005001/1)&lt;/a&gt;, for this workshop.&lt;/p&gt;
+&lt;h3 id=&#34;programme&#34;&gt;Programme&lt;/h3&gt;
+&lt;p&gt;The workshop will run 24-25 of June 2020, starting 9am on the 24th and ending around 4pm on the 25th. More details will be available closer to the date.&lt;/p&gt;
+&lt;h3 id=&#34;travel&#34;&gt;Travel&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sheffield.ac.uk/visitors/mapsandtravel&#34;&gt;See here&lt;/a&gt; for details on travelling to Sheffield.&lt;/p&gt;
+&lt;h3 id=&#34;venue&#34;&gt;Venue&lt;/h3&gt;
+&lt;p&gt;The workshop will be held in lecture theatre 4, &lt;a href=&#34;https://goo.gl/maps/TcAPFmY4mGoWZMzaA&#34;&gt;Hicks Building, Sheffield S3 7RH&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;center&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/hicks-entrance.jpg&#34; data-caption=&#34;The entrance to the Hicks Building.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/hicks-entrance.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    The entrance to the Hicks Building.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;h3 id=&#34;accommodation&#34;&gt;Accommodation&lt;/h3&gt;
+&lt;p&gt;There are a number of hotels close to the venue, see the list below. We recommend everyone arrives on the 23rd of June, as we aim to start 9am on the 24th of June.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.premierinn.com/gb/en/hotels/england/south-yorkshire/sheffield/sheffield-city-centre-angel-street.html?cid=GLBC_SHECIT&#34;&gt; The Premier Inn&lt;/a&gt;, rate per night ~ £35.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.bestwestern.co.uk/hotels/best-western-cutlers-hotel-83893?utm_source=google_places&amp;utm_medium=organic&amp;utm_campaign=Best_Western_Sheffield&#34;&gt; The Best Western Hotel&lt;/a&gt;, rate per night ~ £60.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.accorhotels.com/gb/hotel-6628-mercure-sheffield-st-paul-s-hotel-spa/index.shtml&#34;&gt; Mercure Sheffield St Paul&amp;rsquo;s Hotel &amp;amp; Spa&lt;/a&gt;, rate per night ~ £85.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - &lt;a href=&#34;https://leopoldhotel.co.uk/?utm_medium=organic&amp;utm_source=googlemybusiness&amp;utm_campaign=Google%20My%20Business&#34;&gt; The Leopold Hotel&lt;/a&gt;, rate per night ~ £110. --&gt;
+&lt;h3 id=&#34;dinner-and-social&#34;&gt;Dinner and Social&lt;/h3&gt;
+&lt;p&gt;On the evening on the 24th of June we will be upstairs in the &lt;a href=&#34;https://goo.gl/maps/6sXPUcimR8QP83xm6&#34;&gt;University Arms&lt;/a&gt; for food, discussion, and drinks (we might ask for a financial contribution).&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;center&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/UniArms.jpg&#34; data-caption=&#34;An evening in a traditional UK pub.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/UniArms.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An evening in a traditional UK pub.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h3 id=&#34;organisers&#34;&gt;Organisers&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/#home&#34;&gt;Art Gower&lt;/a&gt;, Lecturer in Dyamics, University of Sheffield.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strath.ac.uk/staff/tantkatherinemargaretmarymiss/&#34;&gt; Katy Tant&lt;/a&gt;, Strathclyde Chancellor&amp;rsquo;s Fellow, University of Strathclyde.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lp2n.institutoptique.fr/light-complex-nanostructures&#34;&gt; Kevin Vynck&lt;/a&gt;, CNRS Scientist, Laboratory for Photonics, Numerics and Nanosciences.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Work With Me</title>
+      <link>https://arturgower.github.io/post/work-with-me/</link>
+      <pubDate>Sun, 19 May 2019 13:58:32 +0100</pubDate>
+      <guid>https://arturgower.github.io/post/work-with-me/</guid>
+      <description>&lt;p&gt;Am always happy to discuss research and exchange ideas. Find my &lt;a href=&#34;https://arturgower.github.io/#contact&#34;&gt;contact details here&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- See below for funded PhD opportunities. --&gt;
+&lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
+&lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
+&lt;p&gt;There are currently three available funded PhD positions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/PhDStudentshipInWaveScattering.pdf&#34;&gt;Sensing particles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
+&lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#particulates&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;modelling-waves-in-complex-materials&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+&lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water. Makes up a large part of our food and oil industries.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;&lt;/p&gt;
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Classical mechanics&lt;/li&gt;
+&lt;li&gt;Signal processing&lt;/li&gt;
+&lt;li&gt;Multivariable calculus&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
+techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
+&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Harmonic wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Harmonic wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Computer programming&lt;/li&gt;
+&lt;li&gt;Signal processing&lt;/li&gt;
+&lt;li&gt;Classical mechanics&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&amp;rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
+&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;An elastic wave propagating on the surface of a solid under tension.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    An elastic wave propagating on the surface of a solid under tension.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;Main skills:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid mechanics&lt;/li&gt;
+&lt;li&gt;Mathematical modelling&lt;/li&gt;
+&lt;li&gt;Wave motion&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detecting faults on a wing</title>
+      <link>https://arturgower.github.io/post/wing-faults/</link>
+      <pubDate>Sat, 13 Jan 2018 20:57:07 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/wing-faults/</guid>
+      <description>&lt;p&gt;Below is the outline of a wing with a bolt and two plates (&lt;span style=&#34;color: green;&#34;&gt;green&lt;/span&gt;) that were not fitted together correctly (may require zooming in). The method we devised takes an imprecise measurement of this wing (&lt;span style=&#34;color: blue;&#34;&gt;blue&lt;/span&gt;) and returns an approximation of the wing (&lt;span style=&#34;color: red;&#34;&gt;red&lt;/span&gt;), see Figure 1. The method also identifies the location and type of features (i.e. the bolt and misaligned plates).&lt;/p&gt;
+&lt;img alt=&#34;Reconstructed fault 1&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal.png&#34;/&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; &gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/ReconstructedReal2.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;p&gt;The figures bellow (The spiky light blue image) illustrates how the method decomposes the measured data into a feature basis, much like a frequency decomposition. For more details click on &lt;a href=&#34;https://arturgower.github.io/pdf/ArturAirbusReport.pdf&#34;&gt;this report &lt;/a&gt;.&lt;/p&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Fault frequency decomposition&#34; src=&#34;https://arturgower.github.io/img/CoefficientsWithErrors.png&#34;/&gt;
+&lt;img style=&#34;float: right;&#34; alt=&#34;Reconstructed fault 3&#34; src=&#34;https://arturgower.github.io/img/ReconstructedReal3.png&#34;/&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tracking train tracks</title>
+      <link>https://arturgower.github.io/post/train/</link>
+      <pubDate>Sat, 13 Jan 2018 20:40:02 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/train/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; data-caption=&#34;Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/train.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Estimated track in red compared with the camera image in blue. As the train shakes, so does the camera.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;!-- width=&#34;220&#34; --&gt;
+  &lt;!-- &lt;img style=&#34;width: 400px; float: right;&#34; alt=&#34;Track reconstruction&#34; src=&#34;train.gif&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;p&gt;
+	To increase the number of trains running on each track we have to be able to accurately locate every train, at each moment. GPS can be unreliable because of the multitude of tunnels, so we looked at using a camera mounted on top of the train pointed down at the tracks. From the image of this camera an on-board computer can locate the train&#39;s location.
+&lt;/p&gt;
+&lt;p&gt;
+	At least that is the theory. One major difficulty is that the train shakes unpredictably, which the camera sees as the track moving and changing shape unpredictably. To eliminate these errors we formulated an optimisation method for each frame. This method attempts to separate the errors due to shaking from the tracks real curvature. On the right is the result of the method taking what &lt;span style=&#34;color: blue;&#34;&gt;the camera sees&lt;/span&gt;, the blue tracks, and returning the &lt;span style=&#34;color: red;&#34;&gt;real position of the tracks&lt;/span&gt;, in red.  
+&lt;/p&gt;
+&lt;p&gt;The figures below show how well our method &lt;span style=&#34;color: black;&#34;&gt;recovers&lt;/span&gt; the track curvature compared with the  &lt;span style=&#34;color: green;&#34;&gt;real curvature&lt;/span&gt;.&lt;/p&gt;
+&lt;p&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/alpha_error.png&#34;&gt;
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;figure&gt;
+ 
+ 
+   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/beta_error.png&#34; data-caption=&#34;Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.&#34;&gt;
+ &lt;img src=&#34;https://arturgower.github.io/img/beta_error.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+ 
+ 
+   
+   
+   &lt;figcaption&gt;
+     Above we see the estimated planar curvature $\alpha$ and vertical curvature $\beta$, both in black, compared to the real curvatures $\alpha^* $ and $\beta^* $ in green.
+   &lt;/figcaption&gt;
+ 
+ 
+ &lt;/figure&gt;
+
+&lt;!--
+On the right we see the estimated planar curvature &amp;alpha; and vertical curvature &amp;beta;, both in black, compared to the &lt;span style=&#34;color: green;&#34;&gt; real curvatures&lt;/span&gt; in green.
+--&gt;
+  &lt;!-- &lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/alpha_error.jpg&#34; hspace=&#34;2&#34; /&gt;
+	&lt;img style=&#34;width: 350px;  float: right;&#34; alt=&#34;Curvature errors&#34; src=&#34;Pictures/beta_error.jpg&#34; hspace=&#34;2&#34; /&gt; --&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The art of cable arranging</title>
+      <link>https://arturgower.github.io/post/cable-arranging/</link>
+      <pubDate>Sat, 13 Jan 2018 20:25:45 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cable-arranging/</guid>
+      <description>&lt;h2 id=&#34;how-to-design-a-collection-of-cables-to-be-both-robust-and-flexible&#34;&gt;How to design a collection of cables to be both robust and flexible?&lt;/h2&gt;
+&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
+&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
+placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
+&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
+&lt;!-- #### Figure 1: --&gt;
+&lt;p&gt;The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.&lt;/p&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
+&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
+&lt;!-- #### Figure 2: --&gt;
+&lt;p&gt;On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).&lt;/p&gt;
+&lt;!--
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
+$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
+\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
+$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
+} --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

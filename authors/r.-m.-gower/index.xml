@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. M. Gower | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/r.-m.-gower/</link>
+      <atom:link href="https://arturgower.github.io/authors/r.-m.-gower/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. M. Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Sat, 13 Jan 2018 20:08:40 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>R. M. Gower</title>
+      <link>https://arturgower.github.io/authors/r.-m.-gower/</link>
+    </image>
+    
+    <item>
+      <title>Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polydisperse | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/polydisperse/</link>
+      <atom:link href="https://arturgower.github.io/tags/polydisperse/index.xml" rel="self" type="application/rss+xml" />
+    <description>Polydisperse</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Sat, 13 Jan 2018 19:53:40 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Polydisperse</title>
+      <link>https://arturgower.github.io/tags/polydisperse/</link>
+    </image>
+    
+    <item>
+      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
+      <link>https://arturgower.github.io/publication/complex-materials/multi-species/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/multi-species/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Particulate materials (emulsions, powders, blood) have led to significant advances in foods science and healthcare. To automate the production of these materials or to monitor them in use, waves such as acoustics and light are essential. One open challenge has been to describe waves in particles with different sizes and properties (multi-species). These variations in particle properties are key indicators of performance. This paper is the first to derive a rigorous model, and demonstrates the deficiencies of current ad hoc models.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;p&gt;Quoting the British Standards (ISO 20998-3:2017): &amp;ldquo;Ultrasonic spectroscopy is widely used to measure particle size distribution (PSD) in colloids, dispersions, and emulsions&amp;rdquo;. Yet, despite the widespread use and importance of these methods, the ISO publication describes that there does not exist a rigorous model for acoustics in polydisperse particles (multi-species). This paper clearly fills this gap in the knowledge, and provides simply accessible formulas, as well a software package (&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl&#34;&gt;https://github.com/arturgower/EffectiveWaves.jl&lt;/a&gt;) for a vast range of different particle materials.&lt;/p&gt;
+&lt;!--
+Reviewers:
+- This extension to the multi-species case is non-trivial and leads to some counter-intuitive results.
+- This paper ... makes original and worthwhile extensions of knowledge.
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower drafted the manuscript, derived the mathematical expressions, and carried out all the numerical calculations. The other authors made contributions to the text, and helped conceive the study.
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

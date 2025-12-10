@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Initial Stress | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/initial-stress/</link>
+      <atom:link href="https://arturgower.github.io/tags/initial-stress/index.xml" rel="self" type="application/rss+xml" />
+    <description>Initial Stress</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Mar 2023 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Initial Stress</title>
+      <link>https://arturgower.github.io/tags/initial-stress/</link>
+    </image>
+    
+    <item>
+      <title>Noninvasive measurement of local stress inside soft materials with programmed shear waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</link>
+      <pubDate>Thu, 02 Mar 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</guid>
+      <description>&lt;p&gt;Mechanical stresses across different length scales play a fundamental role in understanding biological systems&amp;rsquo; functions and engineering soft machines and devices. However, it is challenging to noninvasively probe local mechanical stresses in situ, particularly when the mechanical properties are unknown. We propose an acoustoelastic imaging-based method to infer the local stresses in soft materials by measuring the speeds of shear waves induced by custom-programmed acoustic radiation force. Using an ultrasound transducer to excite and track the shear waves remotely, we demonstrate the application of the method by imaging uniaxial and bending stresses in an isotropic hydrogel and the passive uniaxial stress in a skeletal muscle. These measurements were all done without the knowledge of the constitutive parameters of the materials. The experiments indicate that our method will find broad applications, ranging from health monitoring of soft structures and machines to diagnosing diseases that alter stresses in soft tissues.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</link>
+      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</guid>
+      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new restriction for initially stressed elastic solids</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</link>
+      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Elastic materials</title>
+      <link>https://arturgower.github.io/project/elasticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/elasticity/</guid>
+      <description>&lt;p&gt;Our work covers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elastic waves, including vibration and ultrasonics&lt;/li&gt;
+&lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
+&lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;linear-elastic-waves&#34;&gt;Linear elastic waves&lt;/h2&gt;
+&lt;p&gt;Linear elastic waves cover ultrasonics, and are used to make measurements and assess materials. Work in this includes methods to measure stress through changes in wave-speed with applications in &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/&#34;&gt;steel and hard solids&lt;/a&gt;, &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/&#34;&gt;medical ultrasound&lt;/a&gt;, and measuring &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/&#34;&gt;extremely thin membranes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Another theme is use elastic waves in more complex geometries to measure shape changes as well as sources and stress. Our first paper on the theme &amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
+&lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;Use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A wrinkle instability on the surface of a solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A wrinkle instability on the surface of a solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

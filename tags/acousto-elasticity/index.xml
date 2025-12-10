@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acousto-Elasticity | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
+      <atom:link href="https://arturgower.github.io/tags/acousto-elasticity/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acousto-Elasticity</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 27 Dec 2013 19:51:12 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Acousto-Elasticity</title>
+      <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
+    </image>
+    
+    <item>
+      <title>Counter-intuitive results in acousto-elasticity</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/acousto-elasticity/</link>
+      <pubDate>Fri, 27 Dec 2013 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/acousto-elasticity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A plane surface wave travelling on the top of a deformed soft solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A plane surface wave travelling on the top of a deformed soft solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Highlights:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We revisit the theory of acousto-elasticity in deformed isotropic solids.&lt;/li&gt;
+&lt;li&gt;Intuition suggests that slowest and the fastest waves should travel along the directions of least and greatest stretch.&lt;/li&gt;
+&lt;li&gt;We find examples where this is not the case, for body and for surface waves.&lt;/li&gt;
+&lt;li&gt;These results complicate accepted protocols for finding the directions of greatest strains.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

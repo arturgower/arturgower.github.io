@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seok-Hyun Yun | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/seok-hyun-yun/</link>
+      <atom:link href="https://arturgower.github.io/authors/seok-hyun-yun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Seok-Hyun Yun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 02 Sep 2022 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Seok-Hyun Yun</title>
+      <link>https://arturgower.github.io/authors/seok-hyun-yun/</link>
+    </image>
+    
+    <item>
+      <title>Non-destructive mapping of stress and strain in soft thin films through sound waves</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</link>
+      <pubDate>Fri, 02 Sep 2022 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

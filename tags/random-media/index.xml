@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Random Media | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/random-media/</link>
+      <atom:link href="https://arturgower.github.io/tags/random-media/index.xml" rel="self" type="application/rss+xml" />
+    <description>Random Media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Random Media</title>
+      <link>https://arturgower.github.io/tags/random-media/</link>
+    </image>
+    
+    <item>
+      <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
+      <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
+      <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
+      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective waves for random three-dimensional particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</link>
+      <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</guid>
+      <description>&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; data-caption=&#34;Shows the average scattering of a harmonic wave according to the effective waves theory.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Shows the average scattering of a harmonic wave according to the effective waves theory.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Proof that Multiple Waves Propagate in Ensemble-Averaged Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</link>
+      <pubDate>Mon, 03 Jun 2019 11:29:37 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/prove-multiple-waves/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; data-caption=&#34;Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multiple-waves-diagram.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Caption: When an incident plane wave $\mathrm e^{i \mathbf k \cdot (x,y)}$ with $\mathbf k = k(\cos \theta, \sin \theta)$, encounters an (ensemble-averaged) particulate material, it excites many transmitted plane waves and one reflected plane wave. The transmitted waves are of the form $\mathrm e^{i \mathbf s_p \cdot (x,y)}$ with wavenumbers $\mathbf s_p = S_p (\cos \theta_p, \sin \theta_p)$ (details in paper) where both $S_p$ and $\theta_p$ are complex numbers. The larger Im $\mathbf s_p$, the more quickly the wave attenuates as it propagates into the half-space and the smaller the drawn vector for that wave above.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; data-caption=&#34;These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/ComplexKernel.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    These are the kind of complex phase plot you need to deal with to use the Wiener-Hopf method.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple Waves Propagate in Random Particulate Materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/multiple-waves/</link>
+      <pubDate>Thu, 31 Jan 2019 11:59:32 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/multiple-waves/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/average_scat_harmonic.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;p&gt;To the right of the dashed line are particles, whose position has been numerically ensemble averaged. To the left is just a homogenious medium. What is shown here (though faintly) is that more than one transmitted wave exists in an ensemble averaged medium. The paper shows this with much more clarity!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MultipleScattering.jl</title>
+      <link>https://arturgower.github.io/publication/scattering-software/</link>
+      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/scattering-software/</guid>
+      <description>&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
+&lt;p&gt;I develop simulations/software to calculate &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/&#34;&gt;wave scattering between particles&lt;/a&gt;. This software is very flexible: you can simulate waves reflected from any shape you can make out of spheres, such as reflected a wave off a &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/#star-wall&#34;&gt;starfish in a pipe&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a name=&#34;star-wall&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; data-caption=&#34;A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; data-caption=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; data-caption=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Similar to the figure above, here we show the absolute magnitude of the wave.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Characterising particulate random media from near-surface backscattering: A machine learning approach to predict particle size and concentration</title>
+      <link>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</link>
+      <pubDate>Sat, 13 Jan 2018 20:08:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/backscatter.jpg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflection from a multi-species material and its transmitted effective wavenumber</title>
+      <link>https://arturgower.github.io/publication/complex-materials/multi-species/</link>
+      <pubDate>Sat, 13 Jan 2018 19:53:40 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/multi-species/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/multispecies.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Particulate materials (emulsions, powders, blood) have led to significant advances in foods science and healthcare. To automate the production of these materials or to monitor them in use, waves such as acoustics and light are essential. One open challenge has been to describe waves in particles with different sizes and properties (multi-species). These variations in particle properties are key indicators of performance. This paper is the first to derive a rigorous model, and demonstrates the deficiencies of current ad hoc models.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output --&gt;
+&lt;p&gt;Quoting the British Standards (ISO 20998-3:2017): &amp;ldquo;Ultrasonic spectroscopy is widely used to measure particle size distribution (PSD) in colloids, dispersions, and emulsions&amp;rdquo;. Yet, despite the widespread use and importance of these methods, the ISO publication describes that there does not exist a rigorous model for acoustics in polydisperse particles (multi-species). This paper clearly fills this gap in the knowledge, and provides simply accessible formulas, as well a software package (&lt;a href=&#34;https://github.com/arturgower/EffectiveWaves.jl&#34;&gt;https://github.com/arturgower/EffectiveWaves.jl&lt;/a&gt;) for a vast range of different particle materials.&lt;/p&gt;
+&lt;!--
+Reviewers:
+- This extension to the multi-species case is non-trivial and leads to some counter-intuitive results.
+- This paper ... makes original and worthwhile extensions of knowledge.
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower drafted the manuscript, derived the mathematical expressions, and carried out all the numerical calculations. The other authors made contributions to the text, and helped conceive the study.
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Waves in Complex Materials</title>
+      <link>https://arturgower.github.io/project/complex-materials/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/complex-materials/</guid>
+      <description>&lt;h2 id=&#34;complex-materials&#34;&gt;Complex materials&lt;/h2&gt;
+&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw  creates strong durable buildings, what we call today a composite material. Composites are far better than the sum of their parts, for example they can be stronger and cheaper. Hundreds of years of experimentation has led to similar discoveries when mixing fluids and gases, what we now call complex fluids/media.&lt;/p&gt;
+&lt;p&gt;Today composite materials and complex fluids have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+  
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+
+  
+  
+  
+  
+
+  
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A Nylon powder.&#34; href=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/nylon-powder.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An emulsion made of oil particles in water.&#34; href=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/emulsion.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;An suspension of gases bubbles in air.&#34; href=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/bubbles.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-1&#34; data-caption=&#34;A porous material, in this case the particles are pockets of air.&#34; href=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34;&gt;
+    &lt;img src=&#34;https://arturgower.github.io/img/pics/porous.jpg&#34; alt=&#34;&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+&lt;/div&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Click on images above. Metal matrix foams and fibre composites are examples of composites, while emulsions, suspensions, complex gases, and polymers are complex fluids.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;My research focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Controlling waves&lt;/strong&gt; by designing the next generation of materials. These new materials can then improve telecommunications by controlling light and elastic waves, and mechanical engineering by controlling vibrations and even earthquakes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sensing materials&lt;/strong&gt; with waves. We sense the world around us by using waves. Light and sound are reflected from all materials, and when they reach us, our brains can decode them to understand what objects are around us. In a similar way, waves are used to sense the microstructure materials. One use is to automate manufacturing, where we need to develop sensors that can detect changes in microstructure from reflected waves. Keeping track of the microstructure is essential to determine when the material has reached its optimally flexibility, strength, or capacity to transmit information.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;mathematical-models&#34;&gt;Mathematical models&lt;/h2&gt;
+&lt;p&gt;In all these complex materials, it is impossible to know the exact position and shapes of all the microstructure. But the reflected wave does depend on the configuration of the microstructure.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_complex.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: one reflected wave from a complex material. What can we learn about this material from measuring the wave at the receiver?
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/moments.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/moments.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+Caption: the wave reflected from the same complex material can be different each time if its microstructure moves, or if the position of the receiver moves. For example the grey curves above are all different reflected waves from the same material. To make sense of these curves, we investigate the average (mean: black curve) reflected wave, and the variation of the reflected waves (std: green region).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Figures made with &lt;a href=&#34;../software-packages/&#34;&gt;wave scattering software&lt;/a&gt; I develop)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Our goal is to develop mathematical models which predict the average reflected wave and its variance (or standard deviation), as these do not depend on the configuration of the microstructure. One of our discoveries [&lt;a href=&#34;https://arxiv.org/abs/1810.10816&#34;&gt;paper 1&lt;/a&gt;,&lt;a href=&#34;https://arxiv.org/abs/1905.06996&#34;&gt;paper 2&lt;/a&gt;] is that there exists many waves, with different speeds and characteristics, that can propagate
+(in an &lt;a href=&#34;https://en.wikipedia.org/wiki/Ensemble_average_(statistical_mechanics)&#34;&gt;ensemble averaged&lt;/a&gt; sense) inside these complex materials.&lt;/p&gt;
+&lt;p&gt;Once we have accurate mathematical models, and &lt;a href=&#34;../software-packages/&#34;&gt;software&lt;/a&gt;, we can generate a large quantity of (average) reflected waves from different material, such as shown below. This large quantity of data is essential to learn how to &lt;strong&gt;sense materials&lt;/strong&gt; and &lt;strong&gt;design materials to control waves&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/reflected_moments.jpg&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

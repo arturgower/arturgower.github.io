@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>And Artur L. Gower | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/and-artur-l.-gower/</link>
+      <atom:link href="https://arturgower.github.io/authors/and-artur-l.-gower/index.xml" rel="self" type="application/rss+xml" />
+    <description>And Artur L. Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 07 Oct 2022 19:23:19 +0100</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>And Artur L. Gower</title>
+      <link>https://arturgower.github.io/authors/and-artur-l.-gower/</link>
+    </image>
+    
+    <item>
+      <title>Representing the stress and strain energy of elastic solids with initial stress and transverse texture anisotropy</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/anisotropic-initial-stress/</link>
+      <pubDate>Fri, 07 Oct 2022 19:23:19 +0100</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/anisotropic-initial-stress/</guid>
+      <description>&lt;p&gt;Real-world solids, such as rocks, soft tissues and engineering materials, are often under some form of stress. Most real materials are also, to some degree, anisotropic due to their microstructure, a characteristic often called the ‘texture anisotropy’. This anisotropy can stem from preferential grain alignment in polycrystalline materials, aligned micro-cracks or structural reinforcement, such as collagen bundles in biological tissues, steel rods in pre-stressed concrete and reinforcing fibres in composites. Here, we establish a framework for initially stressed solids with transverse texture anisotropy. We consider that the strain energy per unit mass of the reference is an explicit function of the elastic deformation gradient, the initial stress tensor and the texture anisotropy. We determine the corresponding constitutive relations and develop examples of nonlinear strain energies that depend explicitly on the initial stress and direction of texture anisotropy. As an application, we then employ these models to analyse the stress distribution of an inflated initially stressed cylinder with texture anisotropy and the tension of a welded metal plate. We also deduce the elastic moduli needed to describe linear elasticity from stress reference with transverse texture anisotropy. As an example, we show how to measure the stress with small-amplitude shear waves.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
