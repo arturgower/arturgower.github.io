@@ -5,12 +5,243 @@
     <link>https://arturgower.github.io/</link>
       <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Art L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 10 Dec 2025 10:01:38 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Art L Gower</title>
       <link>https://arturgower.github.io/</link>
     </image>
+    
+    <item>
+      <title>Curriculum Vitae (CV)</title>
+      <link>https://arturgower.github.io/post/cv/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cv/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Senior Lecturer in Engineering Mathematics&lt;/strong&gt;&lt;br&gt;
+University of Sheffield&lt;/p&gt;
+&lt;div style=&#34;background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 20px 0; color: #000;&#34;&gt;
+&lt;p&gt;📧 arturgower [at] gmail&lt;br&gt;
+🌐 &lt;a href=&#34;https://arturgower.github.io&#34;&gt;arturgower.github.io&lt;/a&gt;&lt;br&gt;
+📍 Mechanical Engineering, University of Sheffield, Mappin Street, Sheffield, UK&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;professional-summary&#34;&gt;Professional Summary&lt;/h2&gt;
+&lt;p&gt;Senior academic researcher specializing in wave propagation and scattering, solid mechanics, and industrial mathematics with &lt;strong&gt;£1M+ in research funding&lt;/strong&gt; and &lt;strong&gt;488 citations&lt;/strong&gt;. Expert in developing numerical and mathematical methods for sensing and measurement applications with industrial partners. Proven track record in teaching (87% student satisfaction), open-source software development, and cross-sector collaboration.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-expertise&#34;&gt;Research Expertise&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Core Areas:&lt;/strong&gt; Wave propagation &amp;amp; scattering • Soft solids • Industrial mathematics • Solid mechanics • Optimization • Random media&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Skills:&lt;/strong&gt; Julia • Mathematica • Python • Matlab • C • LaTeX (BibTeX, TikZ)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-appointments&#34;&gt;Academic Appointments&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;University of Sheffield, UK&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Senior Lecturer in Dynamics, Mechanical Engineering&lt;/em&gt; | 2019—Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Leading research in wave propagation and solid mechanics&lt;/li&gt;
+&lt;li&gt;Module leader for Dynamics I &amp;amp; II (125+ students, 82–87% satisfaction)&lt;/li&gt;
+&lt;li&gt;Outreach Officer and Transition Tutor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;University of Manchester, UK&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;Research Associate, Applied Mathematics&lt;/em&gt; | 2015—2018&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EPSRC-funded research on ultrasonic propagation in complex media (EP/M026205/1)&lt;/li&gt;
+&lt;li&gt;Mathematical modelling and numerical implementation&lt;/li&gt;
+&lt;li&gt;Collaborative work with experimental (EP/M026310/1) and simulation teams (EP/M026302/1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PhD, Applied Mathematics&lt;/strong&gt; | University of Galway, Ireland | 2011—2015&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Incremental elastic surface waves and static wrinkles&lt;br&gt;
+&lt;em&gt;Supervisor:&lt;/em&gt; Prof. Michel Destrade&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2009—2011 | Grade: 96%&lt;br&gt;
+&lt;em&gt;Computational Geophysics Group&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Nonlinear Elasticity with Radial Symmetry&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2005—2008 | Grade: 83%&lt;br&gt;
+&lt;em&gt;Emphasis:&lt;/em&gt; Mechanics • &lt;em&gt;Minor:&lt;/em&gt; Computer Science&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching--educational-leadership&#34;&gt;Teaching &amp;amp; Educational Leadership&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fellow of the Higher Education Academy (FHEA) | 2022&lt;/li&gt;
+&lt;li&gt;Teaching &amp;amp; Learning Course | University of Galway | 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-sheffield--2019present&#34;&gt;University of Sheffield | 2019—Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Module Leadership&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics I&lt;/strong&gt; — 87% teaching score | Cohort: 70 students | 2022—2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics II&lt;/strong&gt; — 82% teaching score | Cohort: 125 students | 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matlab for Engineers&lt;/strong&gt; | Cohort: 150—215 students | 2020—2023
+&lt;ul&gt;
+&lt;li&gt;Developed flipped-learning structure with interactive problem sets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Leadership Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transition Tutor&lt;/strong&gt; (2021—2023): Cohort induction, teamwork facilitation, inclusivity initiatives&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outreach Officer&lt;/strong&gt; (2020—2023): Public engagement and STEM promotion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics Pathway Coordinator&lt;/strong&gt; (2019—2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-manchester--20152018&#34;&gt;University of Manchester | 2015—2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervised 3 final-year projects and 1 PhD student&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Calculus, Linear Algebra, Complex Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-galway--20112015&#34;&gt;University of Galway | 2011—2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Substitute lectures: Fluid Mechanics, Nonlinear Elasticity (2014—2015)&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Vector Calculus, Mathematical Modelling, Algebra, Complex Analysis (2011—2014)&lt;/li&gt;
+&lt;li&gt;Drop-in centre tutor (2012—2014)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-campinas--20092010&#34;&gt;University of Campinas | 2009—2010&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecturer: Linear Algebra (2010)&lt;/li&gt;
+&lt;li&gt;Charity teaching: Basic personal finance (2009)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-funding&#34;&gt;Research Funding&lt;/h2&gt;
+&lt;div style=&#34;background-color: #e8f4f8; padding: 15px; border-left: 4px solid #2196F3; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Funding Obtained: £1,028,000&lt;/strong&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;major-grants&#34;&gt;Major Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Sensing Dense Particulate Materials&lt;/strong&gt; | 2021—2024&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£232,000&lt;/strong&gt; | EPSRC EP/V012436/1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST2 — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2021—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£174,000&lt;/strong&gt; | Shift2Rail &amp;amp; Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound 2&lt;/strong&gt; | 2022—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£148,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Determination of Particle Attributes via Active Acoustics&lt;/strong&gt; | 2021—2025&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£120,000&lt;/strong&gt; | EPSRC ICASE, Johnson Matthey&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound&lt;/strong&gt; | 2019—2021&lt;br&gt;
+&lt;strong&gt;£115,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2020—2021&lt;br&gt;
+&lt;strong&gt;£86,000&lt;/strong&gt; | H2020 In2Track2, Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Odometry to Report Rough Rides&lt;/strong&gt; | 2021—2022&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£70,000&lt;/strong&gt; | Network Rail&lt;/p&gt;
+&lt;h3 id=&#34;early-career-grants&#34;&gt;Early Career Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Nonlinear Modelling of Soft Matter&lt;/strong&gt; | 2013—2015&lt;br&gt;
+&lt;strong&gt;€46,000&lt;/strong&gt; | Irish Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Skin Deep: Mechanics of Skin&lt;/strong&gt; | 2011—2013&lt;br&gt;
+&lt;strong&gt;€42,000&lt;/strong&gt; | Hardiman Scholarship&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nonlinear Elastodynamics with Radial Symmetry&lt;/strong&gt; | 2009—2011&lt;br&gt;
+&lt;strong&gt;R$29,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acoustic Diffraction with Kirchhoff Modelling&lt;/strong&gt; | 2007—2008&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discrete Chaotic Dynamics&lt;/strong&gt; | 2006—2007&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;open-source-software&#34;&gt;Open-Source Software&lt;/h2&gt;
+&lt;p&gt;All packages released under MIT License and available on GitHub.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Package&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;TrainView.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Camera-on-train odometry modelling&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;ElasticWaves.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Elastic wave propagation &amp;amp; scattering simulation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;MultipleScattering.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Multiple scattering simulation and processing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;EffectiveWaves.jl&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Effective wave reflection &amp;amp; transmission&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;EntropyGO&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Go influence modelling using entropy maximization&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;div style=&#34;background-color: #fff3e0; padding: 15px; border-left: 4px solid #ff9800; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Citations: 488&lt;/strong&gt; (Google Scholar)
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;21 refereed journal papers&lt;/strong&gt; published in leading journals including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proceedings of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Journal of the Acoustical Society of America&lt;/li&gt;
+&lt;li&gt;Wave Motion&lt;/li&gt;
+&lt;li&gt;Journal of Elasticity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;For a complete publication list, see the &lt;a href=&#34;https://arturgower.github.io/publication/&#34;&gt;Publications&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;technical-reports&#34;&gt;Technical Reports&lt;/h3&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-service--leadership&#34;&gt;Academic Service &amp;amp; Leadership&lt;/h2&gt;
+&lt;h3 id=&#34;peer-review&#34;&gt;Peer Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Journal Reviewer:&lt;/strong&gt; Proceedings of the Royal Society A • IMA Journal of Applied Mathematics • SIAM Journal on Applied Mathematics • Journal of Elasticity • Wave Motion • Journal of the Acoustical Society of America • Acta Acustica • ZAMP • Ultrasonics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grant Reviewer:&lt;/strong&gt; EPSRC • Royal Society&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editorial Board:&lt;/strong&gt; Guest Editor, Wave Motion (Special Issue on Ultrasonic Measurements, 2022)&lt;/p&gt;
+&lt;h3 id=&#34;leadership--organization&#34;&gt;Leadership &amp;amp; Organization&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute Workshop on Wave Scattering&lt;/strong&gt; | Organizer | 2023&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beam Challenge Hackathon, INI Winter School&lt;/strong&gt; | Lead | 2023&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Metamaterials Network Early Career Group&lt;/strong&gt; | Coordinator | 2021—2022&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Graduate Modelling Camp&lt;/strong&gt; | Mentor | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mini-Symposium on Ultrasonic Waves in Solids&lt;/strong&gt; | Organizer | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Acoustics Network Early Career Group&lt;/strong&gt; | Coordinator | 2018—2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Workshops and Symposia on Elasticity &amp;amp; Mechanics&lt;/strong&gt; | Co-organizer | 2014—2016&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;selected-invited-talks&#34;&gt;Selected Invited Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2023&lt;/strong&gt; | &lt;em&gt;Changing references in non-linear elasticity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute, Multiple Scattering Workshop&lt;/strong&gt; | 2023&lt;br&gt;
+&lt;em&gt;Numerically validating effective waves&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2022&lt;/strong&gt; | &lt;em&gt;Ultrasonic measurement of stress without material constants&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICMS Wavinar&lt;/strong&gt; | 2021 | &lt;em&gt;Ensemble average waves in random materials&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acoustical Society of America, Polydisperse Materials Session&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMAT Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warwick Applied Mathematics Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UCL Applied Mathematics Seminar&lt;/strong&gt; | 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICIAM 2019&lt;/strong&gt; | &lt;em&gt;Waves in multiple-scattering media&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;!-- &lt;div style=&#34;text-align: center; margin-top: 40px; padding: 20px; background-color: #f9f9f9; border-radius: 5px;&#34;&gt;
+&lt;p&gt;&lt;em&gt;Last updated: December 2025&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;For the most current information, visit &lt;a href=&#34;https://arturgower.github.io&#34;&gt;arturgower.github.io&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;023) --&gt;
+&lt;ul&gt;
+&lt;li&gt;New Scientist Live (30,000+ visitors) — 2019, 2022&lt;/li&gt;
+&lt;li&gt;STEM for Girls (2022)&lt;/li&gt;
+&lt;li&gt;Bradford Science Festival (2021)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;24hr Inspire for Life&lt;/em&gt; (2020)&lt;/li&gt;
+&lt;li&gt;Pint of Science (2019)&lt;/li&gt;
+&lt;li&gt;Numerous university open-day &amp;amp; community science engagements (2011–2018)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-leadership&#34;&gt;Academic Leadership&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Organiser&lt;/strong&gt;, Isaac Newton Institute workshop on Wave Scattering (2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hackathon Lead&lt;/strong&gt;, Beam Challenge, INI Winter School (2023)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coordinator&lt;/strong&gt;, UK Metamaterials Network Early Career Group (2021–2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mentor&lt;/strong&gt;, UK Graduate Modelling Camp (2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Organiser&lt;/strong&gt;, mini-symposium on Ultrasonic Waves in Solids (2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coordinator&lt;/strong&gt;, UK Acoustics Network Early Career Group (2018–2020)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Co-organiser&lt;/strong&gt;, workshops and symposia on elasticity &amp;amp; mechanics (2014–2016)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;recent-invited-talks-selected&#34;&gt;Recent Invited Talks (Selected)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;BAMC 2023 – &lt;em&gt;Changing references in non-linear elasticity&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;INI Multiple Scattering (2023) – &lt;em&gt;Numerically validating effective waves&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;BAMC 2022 – &lt;em&gt;Ultrasonic measurement of stress without material constants&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ICMS Wavinar (2021) – &lt;em&gt;Ensemble average waves in random materials&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;ASA Session on Polydisperse Materials (2021)&lt;/li&gt;
+&lt;li&gt;EMAT Seminar (2021)&lt;/li&gt;
+&lt;li&gt;Warwick Applied Maths Seminar (2021)&lt;/li&gt;
+&lt;li&gt;UCL Applied Maths Seminar (2020)&lt;/li&gt;
+&lt;li&gt;ICIAM 2019 – &lt;em&gt;Waves in multiple-scattering media&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Software &amp; Packages</title>
