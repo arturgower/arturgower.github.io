@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>8 | Art L Gower</title>
+    <link>https://arturgower.github.io/publication_types/8/</link>
+      <atom:link href="https://arturgower.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
+    <description>8</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Sun, 28 Jan 2018 09:56:28 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>8</title>
+      <link>https://arturgower.github.io/publication_types/8/</link>
+    </image>
+    
+    <item>
+      <title>MultipleScattering.jl</title>
+      <link>https://arturgower.github.io/publication/scattering-software/</link>
+      <pubDate>Sun, 28 Jan 2018 09:56:28 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/scattering-software/</guid>
+      <description>&lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
+&lt;p&gt;I develop simulations/software to calculate &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/&#34;&gt;wave scattering between particles&lt;/a&gt;. This software is very flexible: you can simulate waves reflected from any shape you can make out of spheres, such as reflected a wave off a &lt;a href=&#34;https://arturgower.github.io/publication/scattering-software/#star-wall&#34;&gt;starfish in a pipe&lt;/a&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; data-caption=&#34;Wave reflected from a random arrangement of particles.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/backscatter_time2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    Wave reflected from a random arrangement of particles.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a name=&#34;star-wall&#34;&gt;&lt;/a&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; data-caption=&#34;A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/star-wall.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A simulation of a wave sent down a sewer that gets reflected from a starfish. Many odds thing live in the UK&amp;rsquo;s sewers.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; data-caption=&#34;Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-re.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Placing impenetrable particles side-by-side creates the same effect as a solid wall. In this case I left two gaps in the wall, so that as this wave squeezes through two gaps, it interacts with itself, creating a unique diffraction pattern on the right. This figure is a snapshot of this wave for a fixed time.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; data-caption=&#34;Similar to the figure above, here we show the absolute magnitude of the wave.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/diffraction-slit-abs.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Similar to the figure above, here we show the absolute magnitude of the wave.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>EffectiveWaves.jl</title>
+      <link>https://arturgower.github.io/publication/effective-wave-software/</link>
+      <pubDate>Sat, 28 Oct 2017 10:29:53 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/effective-wave-software/</guid>
+      <description>&lt;p&gt;The software is designed to calculate effective waves propagating, and scattering from, random materials filled with particles.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/compare_concrete.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A. Grillo | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/a.-grillo/</link>
+      <atom:link href="https://arturgower.github.io/authors/a.-grillo/index.xml" rel="self" type="application/rss+xml" />
+    <description>A. Grillo</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Mon, 27 Feb 2017 14:41:12 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>A. Grillo</title>
+      <link>https://arturgower.github.io/authors/a.-grillo/</link>
+    </image>
+    
+    <item>
+      <title>Oblique Wrinkles</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</link>
+      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;!--
+Justification Statement: the originality, significance and rigour of this output (up to 100 words).
+--&gt;
+&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
+&lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
+&lt;!-- Factual information about the significance of the output
+
+This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
+
+How wrinkles form underpins many techniques across science and engineering, see examples below. All these methods rely on an intuitive assumption: that wrinkles form orthogonal to the directions of greatest tension. Our work demonstrates that rigours theory does not confirm this assumption.
+
+ Examples include:
+- use surface wrinkles to tune surface wetting and adhesion.
+- to pattern microlens array (used in fibre optics and optical computing), to create wavy stretchable electronics which can undergo large strains without breaking.   
+- avoiding wrinkling in flexible displays and eletro-textiles.  
+
+Reviewers quotes:
+- I learned a number of new things from this paper ... The occurrence of wrinkles
+that are aligned obliquely as revealed by the authors was unexpected to me.
+- A very original paper, clearly written and containing pertinent informations.
+
+--&gt;
+&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
+
+Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ultrasonics | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/ultrasonics/</link>
+      <atom:link href="https://arturgower.github.io/tags/ultrasonics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ultrasonics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Tue, 27 Feb 2018 14:28:52 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Ultrasonics</title>
+      <link>https://arturgower.github.io/tags/ultrasonics/</link>
+    </image>
+    
+    <item>
+      <title>Inverse Problems</title>
+      <link>https://arturgower.github.io/project/inverse-problems/</link>
+      <pubDate>Tue, 27 Feb 2018 14:28:52 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/inverse-problems/</guid>
+      <description>&lt;!-- 
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure class=&#34;alignright&#34;&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;a surface wave or wrinkle.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;50%&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    a surface wave or wrinkle.
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+ --&gt;
+&lt;p&gt;Using both classical inverse methods and regularisation, as well as Bayesian methods to quantify the certainty.&lt;/p&gt;
+&lt;h2 id=&#34;boundary-measurements&#34;&gt;Boundary measurements&lt;/h2&gt;
+&lt;p&gt;Limited amount of information or measurements on the boundary of an object, what is inside?&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/one-load-bearing-time-pressure.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/one-load-bearing-time-pressure.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/time-point-pressure-2.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/time-point-pressure-2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/bearings-with-prior-traction.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/bearings-with-prior-traction.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;method-of-fundamental-solutions&#34;&gt;Method of Fundamental Solutions&lt;/h2&gt;
+&lt;p&gt;See &amp;hellip; for predicting stress and strain from boundary measurements.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constitutive Equations | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/constitutive-equations/</link>
+      <atom:link href="https://arturgower.github.io/tags/constitutive-equations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Constitutive Equations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Mon, 27 Nov 2017 15:02:35 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Constitutive Equations</title>
+      <link>https://arturgower.github.io/tags/constitutive-equations/</link>
+    </image>
+    
+    <item>
+      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</link>
+      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A new restriction for initially stressed elastic solids</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</link>
+      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</guid>
+      <description>&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
