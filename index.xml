@@ -17,7 +17,11 @@
       <link>https://arturgower.github.io/post/cv/</link>
       <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/post/cv/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Senior Lecturer in Engineering Mathematics&lt;/strong&gt;&lt;br&gt;
+      <description>&lt;style&gt;
+/* CV-only: widen content area */
+.article-container { max-width: 1000px !important; }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Senior Lecturer in Engineering Mathematics&lt;/strong&gt;&lt;br&gt;
 University of Sheffield, UK&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;research-expertise&#34;&gt;Research Expertise&lt;/h2&gt;
@@ -110,11 +114,11 @@ University of Sheffield, UK&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Determination of Particle Attributes via Active Acoustics&lt;/strong&gt; | 2021—2025&lt;br&gt;
 &lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£120,000&lt;/strong&gt; | EPSRC ICASE, Johnson Matthey&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound&lt;/strong&gt; | 2019—2021&lt;br&gt;
-&lt;strong&gt;£115,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£115,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;FAST — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2020—2021&lt;br&gt;
-&lt;strong&gt;£86,000&lt;/strong&gt; | H2020 In2Track2, Network Rail&lt;/p&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£86,000&lt;/strong&gt; | H2020 In2Track2, Network Rail&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Video Odometry to Report Rough Rides&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; | 2021—2022&lt;br&gt;
-&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£70,000&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt;  | &lt;strong&gt;£70,000&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
 &lt;h3 id=&#34;consultancy&#34;&gt;Consultancy&lt;/h3&gt;
 &lt;p&gt;&lt;strong&gt;Predicting stresses on spine after breast surgery&lt;/strong&gt; | 2025
 &lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£1,250&lt;/strong&gt; | BodyScan LTD&lt;/p&gt;
