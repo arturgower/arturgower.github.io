@@ -2,8 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://arturgower.github.io/tags/about/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://arturgower.github.io/</loc>
-    <lastmod>2025-12-10T10:01:38+00:00</lastmod>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/post/cv/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/cv/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/post/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/</loc>
+    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/inverse-problems/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
@@ -11,79 +26,169 @@
     <loc>https://arturgower.github.io/project/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/project/wave-software/</loc>
+    <loc>https://arturgower.github.io/project/software-packages/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/solid-mechanics/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/tags/</loc>
-    <lastmod>2025-12-10T10:01:38+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/tags/waves/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
   </url><url>
+    <loc>https://arturgower.github.io/publication_types/2/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/artur-l-gower/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/elastic-waves/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/jessica-j-kent/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/matheus-de-c-loures/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication_types/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/ultrasonic-waves/</loc>
+    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
+  </url><url>
     <loc>https://arturgower.github.io/talk/outreach/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/talk/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/talk/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/acousto-elasticity/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/initial-stress/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/michel-destrade/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/pasquale-ciarletta/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/tom-shearer/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/visco-elasticity/</loc>
+    <lastmod>2025-02-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/complex-materials/xqca/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/complex-materials/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/effective-waves/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/homogenisation/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/kevish-k-napal/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/monte-carlo/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/particulates/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/paulo-s-piva/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/quasi-crystalline-approximation/</loc>
+    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/talk/intro/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/talk/talk-links/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/talk/</loc>
+    <loc>https://arturgower.github.io/talk/ini-effective-waves/</loc>
     <lastmod>2024-07-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/-stuart-c.-hawkins/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
+    <loc>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</loc>
+    <lastmod>2024-06-30T19:51:12+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/publication_types/2/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
+    <loc>https://arturgower.github.io/authors/aristeidis-karnezis/</loc>
+    <lastmod>2024-06-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/extinction-theorem/</loc>
+    <lastmod>2024-06-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/complex-materials/average-transmitted/</loc>
+    <lastmod>2024-06-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/artur-l.-gower/</loc>
+    <lastmod>2024-05-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/harold-berjamin/</loc>
+    <lastmod>2024-05-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/nonlinear-elasticity/universal-angled-shear/</loc>
+    <lastmod>2024-05-27T19:51:12+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication_types/4/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/aris-karnezis/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/art-l.-gower/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/complex-materials/pair-correlations/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/particulate/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/random-media/</loc>
+    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/complex-materials/radial-effective/</loc>
     <lastmod>2023-11-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/artur-l-gower/</loc>
+    <loc>https://arturgower.github.io/authors/gerhard-kristensson/</loc>
     <lastmod>2023-11-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/effective-waves/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/authors/gerhard-kristensson-/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/homogenisation/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication_types/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication/</loc>
-    <lastmod>2023-11-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/random-media/</loc>
+    <loc>https://arturgower.github.io/authors/stuart-c.-hawkins/</loc>
     <lastmod>2023-11-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/authors/guo-yang-li/</loc>
     <lastmod>2023-03-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/tags/initial-stress/</loc>
-    <lastmod>2023-03-02T17:43:29+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/tags/medical/</loc>
-    <lastmod>2023-03-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/authors/michel-destrade/</loc>
     <lastmod>2023-03-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/</loc>
     <lastmod>2023-03-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/sensing/</loc>
-    <lastmod>2023-03-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/ultrasonic-waves/</loc>
     <lastmod>2023-03-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/ultrasound/</loc>
@@ -140,32 +245,17 @@
     <loc>https://arturgower.github.io/authors/william-j-parnell/</loc>
     <lastmod>2022-09-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/artur-l.-gower/</loc>
-    <lastmod>2021-02-02T18:03:04+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</loc>
-    <lastmod>2021-02-02T18:03:04+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/authors/gerhard-kristensson/</loc>
     <lastmod>2021-02-02T18:03:04+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/multiple-scattering/</loc>
     <lastmod>2021-02-02T18:03:04+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/particulate/</loc>
-    <lastmod>2021-02-02T18:03:04+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication/angled-ultrasonic-stress/</loc>
-    <lastmod>2021-02-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</loc>
     <lastmod>2021-02-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/elasticity/</loc>
     <lastmod>2021-02-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/post/</loc>
-    <lastmod>2019-11-04T16:02:03+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/post/random-waves-workshop/</loc>
     <lastmod>2019-11-04T16:02:03+00:00</lastmod>
@@ -245,9 +335,6 @@
     <loc>https://arturgower.github.io/publication/complex-materials/learning_backscattering/</loc>
     <lastmod>2018-01-13T20:08:40+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/tags/complex-materials/</loc>
-    <lastmod>2018-01-13T20:08:40+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/authors/r.-m.-gower/</loc>
     <lastmod>2018-01-13T20:08:40+00:00</lastmod>
   </url><url>
@@ -272,7 +359,7 @@
     <loc>https://arturgower.github.io/tags/mooney-rivlin-material/</loc>
     <lastmod>2017-11-27T15:02:35+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/pasquale-ciarletta/</loc>
+    <loc>https://arturgower.github.io/tags/nonlinear-elasticity/</loc>
     <lastmod>2017-11-27T15:02:35+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/residual-stress/</loc>
@@ -337,9 +424,6 @@
   </url><url>
     <loc>https://arturgower.github.io/project/complex-materials/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication_types/4/</loc>
-    <lastmod>2016-04-13T20:25:45+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/industry/umbilical-2/</loc>
     <lastmod>2016-04-13T20:25:45+00:00</lastmod>
@@ -407,9 +491,6 @@
     <loc>https://arturgower.github.io/publication/industry/train/</loc>
     <lastmod>2014-04-13T20:40:02+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/tags/acousto-elasticity/</loc>
-    <lastmod>2013-12-27T19:51:12+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/publication/nonlinear-elasticity/acousto-elasticity/</loc>
     <lastmod>2013-12-27T19:51:12+00:00</lastmod>
   </url><url>
@@ -427,10 +508,22 @@
   </url><url>
     <loc>https://arturgower.github.io/authors/admin/</loc>
   </url><url>
+    <loc>https://arturgower.github.io/tags/acoustics/</loc>
+  </url><url>
     <loc>https://arturgower.github.io/categories/</loc>
   </url><url>
-    <loc>https://arturgower.github.io/project/elasticity/</loc>
+    <loc>https://arturgower.github.io/tags/constitutive-theory/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/project/acoustic-elastic/</loc>
   </url><url>
     <loc>https://arturgower.github.io/project/industry/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/talk/shearwave-identity/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/talk/robots-sewers/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/project/nonlinear-elasticity/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/talk/qca-summary/</loc>
   </url>
 </urlset>

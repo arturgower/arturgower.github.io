@@ -5,21 +5,12 @@
     <link>https://arturgower.github.io/tags/elasticity/</link>
       <atom:link href="https://arturgower.github.io/tags/elasticity/index.xml" rel="self" type="application/rss+xml" />
     <description>Elasticity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Elasticity</title>
       <link>https://arturgower.github.io/tags/elasticity/</link>
     </image>
-    
-    <item>
-      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
-      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
-      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
@@ -31,154 +22,15 @@
     </item>
     
     <item>
-      <title>The constitutive relations of initially stressed incompressible Mooney-Rivlin materials</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</link>
-      <pubDate>Mon, 27 Nov 2017 15:02:35 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/initial-mooney/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/virtual.jpg&#34; data-caption=&#34;Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/virtual.jpg&#34; alt=&#34;&#34; width=&#34;80%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    Illustrates how the virtual stress-free state relates to a formulation purely in terms of stress tensors. B0 is virtual stress-free state, B1 is the initially stressed configuration with internal stress τ, and  B2 is the current configuration with Cauchy stress σ.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>A new restriction for initially stressed elastic solids</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</link>
-      <pubDate>Tue, 27 Jun 2017 10:23:51 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/stress-objectivity/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/uniaxial.png&#34; data-caption=&#34;This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/uniaxial.png&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    This is from an example that illustrates that even uniaxial deformations lead to unphysical results, if our restriction is not satisfied.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Oblique Wrinkles</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</link>
-      <pubDate>Mon, 27 Feb 2017 14:41:12 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/oblique-wrinkles/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; data-caption=&#34;The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/FiberBucklingSolution.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    The wrinkles do not always align in the direction of greatest stress or aligned with the fibres.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!--
-Justification Statement: the originality, significance and rigour of this output (up to 100 words).
---&gt;
-&lt;p&gt;Soft solids, such as silicon, rubber, soft tissues, can undergo large strains and compression. During compression, a wrinkle can form on the material&amp;rsquo;s surface. These wrinkles are used to, for example: create microlens arrays, tune surface wetting and adhesion. Alternatively, they can be undesirable.&lt;/p&gt;
-&lt;p&gt;Guided by physical intuition, it was thought that wrinkles always form orthogonal to the direction of greatest compression. In this paper, we demonstrate that wrinkles at different angles (oblique) can supersede all other wrinkles, according to the theory of nonlinear elasticity. This affects both how early wrinkles form and their pattern. However, our table top experiments with gelatin do not confirm these findings. We go to show that a non-oblique creases may supersede our oblique wrinkles. Till today, the competition between creases and wrinkles is still an unresolved issue.&lt;/p&gt;
-&lt;!-- Factual information about the significance of the output
-
-This oblique wrinkle work led to this paper and to an Irish Research Council Postgraduate Scholarship (GOIPG/2013/260) - 46k euro.
-
-How wrinkles form underpins many techniques across science and engineering, see examples below. All these methods rely on an intuitive assumption: that wrinkles form orthogonal to the directions of greatest tension. Our work demonstrates that rigours theory does not confirm this assumption.
-
- Examples include:
-- use surface wrinkles to tune surface wetting and adhesion.
-- to pattern microlens array (used in fibre optics and optical computing), to create wavy stretchable electronics which can undergo large strains without breaking.   
-- avoiding wrinkling in flexible displays and eletro-textiles.  
-
-Reviewers quotes:
-- I learned a number of new things from this paper ... The occurrence of wrinkles
-that are aligned obliquely as revealed by the authors was unexpected to me.
-- A very original paper, clearly written and containing pertinent informations.
-
---&gt;
-&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
-
-Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
-
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Morphology of residually stressed tubular tissues: Beyond the elastic multiplicative decomposition</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</link>
-      <pubDate>Fri, 27 May 2016 15:10:20 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/tube-morphology/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/tube-table.png&#34; data-caption=&#34;Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/tube-table.png&#34; alt=&#34;&#34; width=&#34;100%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    Illustrates the kind of wrinkling instabilities that appear for different distributions of residual stress. These studies can help explain the morphology of tubular structures. For a growing tissue, like our intestine, to form a specific type of wrinkle, it need only generate the right kind of stress, then the tube will spontaneously wrinkle.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;!--
-Justification Statement: the originality, significance and rigour of this output (up to 100 words).
---&gt;
-&lt;p&gt;Mammal physiology has an incredible range of patterns, from the folded structure of brains, to the wrinkles along intestines. How do these patterns emerge, and what do they tell us about the mechanics of these tissues? These patterns often result from mechanical instabilities, and previous studies were able to predict a variety of patterns from simple scenarios, such as increasing pressure in a tube. However, these previous studies needed to make use of an abstract construct, a virtual state that the material never occupies. In this paper, we our the first to show that a large variety of tissue patterns can be predicted by simply altering the internal stresses. This clear connection between internal stresses and patterning allows us to clearly connect the tissue&amp;rsquo;s mechanical function and properties to its pattern.&lt;/p&gt;
-&lt;!-- Factual information about the significance of the output
-
-This paper was the first to demonstrate how internals stress can be directly related to pattern formation (through instabilities). A range of papers on pattern formation in soft tissues have resulted from this work, including:
-- patterns formation on elastic spheres (like the early stage of an embryo) due to internal stresses.
-- wrinkles forming on stressed thin films (used in flexible electronics and surface patterning).
-- pattern formation on layered aorta (a large artery).
-- theoretical frameworks which connect tissue growth, internal stress, with pattern formation.
-
---&gt;
-&lt;!-- For co-authored or co-produced outputs, details of the contribution of the individual submitted researcher
-
-Artur Gower developed much of the mathematical framework, constitutive models, and linear stability analysis, and the graphs resulting from these. All authors helped draft the manuscript, and P.C conceived of the study.
-
---&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</link>
-      <pubDate>Sun, 27 Mar 2016 15:56:01 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/homeostasis-stress/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; data-caption=&#34;Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/pics/wapa.jpg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    Illustrates a Wapa tree that explodes when cut, because it is releasing a tremendous amount of residual stress.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</title>
-      <link>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</link>
-      <pubDate>Sun, 27 Feb 2011 13:01:01 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/radial-elasticity/</guid>
-      <description>&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/SpaceTime.jpg&#34; alt=&#34;&#34; width=&#34;85%&#34; &gt;&lt;/a&gt;
-&lt;/figure&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;The image above shows the story of a wave propagating in a sphere, like a planet, travelling through both time t and space R (distance from origin).&lt;/p&gt;
-&lt;p&gt;The wave is an elastic wave with radial symmetry, so we can imagine this as a wave created from the centre of the earth. The colour indicates the amplitude of the wave, with yellow-ish corresponding to no wave. In this image the wave begins at 1km from the centre of the earth, R=1, at time t=0. As time progressing, we climb up through the vertical axis, and the wave splits into two: one heading to the centre of the earth of the other racing towards the surface. The wave that heads to the centre focuses its energy, as space becomes limited, and eventual &amp;ldquo;collides with the origin&amp;rdquo; and then reflects back towards the surface.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Elastic materials</title>
-      <link>https://arturgower.github.io/project/elasticity/</link>
+      <title>Nonlinear Elasticity</title>
+      <link>https://arturgower.github.io/project/nonlinear-elasticity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/elasticity/</guid>
+      <guid>https://arturgower.github.io/project/nonlinear-elasticity/</guid>
       <description>&lt;p&gt;Our work covers&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Elastic waves, including vibration and ultrasonics&lt;/li&gt;
 &lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
 &lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;linear-elastic-waves&#34;&gt;Linear elastic waves&lt;/h2&gt;
-&lt;p&gt;Linear elastic waves cover ultrasonics, and are used to make measurements and assess materials. Work in this includes methods to measure stress through changes in wave-speed with applications in &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/&#34;&gt;steel and hard solids&lt;/a&gt;, &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/&#34;&gt;medical ultrasound&lt;/a&gt;, and measuring &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/&#34;&gt;extremely thin membranes&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Another theme is use elastic waves in more complex geometries to measure shape changes as well as sources and stress. Our first paper on the theme &amp;hellip;&lt;/p&gt;
 &lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
 &lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
 &lt;figure class=&#34;alignright&#34;&gt;
@@ -188,7 +40,7 @@ Artur Gower developed much of the mathematical framework, constitutive models, a
     This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
+&lt;h2 id=&#34;instability-patterns&#34;&gt;Instability patterns&lt;/h2&gt;
 &lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;

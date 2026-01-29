@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talk | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/talk/</link>
+      <atom:link href="https://arturgower.github.io/tags/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Talk</title>
+      <link>https://arturgower.github.io/tags/talk/</link>
+    </image>
+    
+    <item>
+      <title>Outreach talks</title>
+      <link>https://arturgower.github.io/talk/outreach/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/outreach/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introductory talks</title>
+      <link>https://arturgower.github.io/talk/intro/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/intro/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research talks</title>
+      <link>https://arturgower.github.io/talk/talk-links/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/talk-links/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

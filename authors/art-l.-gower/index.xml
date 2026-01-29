@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Art L. Gower | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/art-l.-gower/</link>
+      <atom:link href="https://arturgower.github.io/authors/art-l.-gower/index.xml" rel="self" type="application/rss+xml" />
+    <description>Art L. Gower</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Jan 2024 17:43:29 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Art L. Gower</title>
+      <link>https://arturgower.github.io/authors/art-l.-gower/</link>
+    </image>
+    
+    <item>
+      <title>Calculating pair-correlations from random particle configurations</title>
+      <link>https://arturgower.github.io/publication/complex-materials/pair-correlations/</link>
+      <pubDate>Tue, 02 Jan 2024 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/pair-correlations/</guid>
+      <description>&lt;p&gt;Particle pair-correlations are broadly used to describe particle distributions in chemistry, physics, and material science. Many theoretical methods require the pair-correlation to predict material properties such as fluid flow, thermal properties, or wave propagation. In all these applications it is either important to calculate a pair-correlation from specific particle configurations, or vice-versa: determine the likely particle configurations from a pair-correlation which is needed to fabricate a particulate material. Most available methods to calculate the pair-correlation from a particle configuration require that the configuration be very large to avoid effects from the boundary. Here we show how to avoid boundary effects even for small particle configurations. Having small particle configurations leads to far more efficient numerical methods. We also demonstrate how to use techniques from smooth nonlinear optimisation to quickly recover a particle configuration from a pair-correlation.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

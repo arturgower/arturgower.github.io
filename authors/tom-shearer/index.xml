@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Shearer | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/tom-shearer/</link>
+      <atom:link href="https://arturgower.github.io/authors/tom-shearer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tom Shearer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Thu, 27 Feb 2025 19:51:12 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Tom Shearer</title>
+      <link>https://arturgower.github.io/authors/tom-shearer/</link>
+    </image>
+    
+    <item>
+      <title>The elastic stored energy of initially strained, or stressed, materials: restrictions and third-order expansions</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</link>
+      <pubDate>Thu, 27 Feb 2025 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

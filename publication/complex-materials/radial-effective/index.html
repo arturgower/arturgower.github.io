@@ -221,10 +221,38 @@
   
 
 
-  
+  <style>
+ 
+.fullwidth-widget .row {
+  display: block;
+}
 
+.fullwidth-widget .col-12.col-lg-4 {
+  display: none;
+}
 
+.fullwidth-widget .col-12.col-lg-8 {
+  width: 100%;
+  max-width: 100%;
+}
 
+ 
+section#publications.pub-img-large .media.stream-item img {
+  max-width: 280px;
+  width: 280px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  section#publications.pub-img-large .media.stream-item img {
+    max-width: 180px;
+    width: 180px;
+  }
+}
+
+ 
+</style>
 
 
   <title>A model to validate effective waves in random particulate media: spherical symmetry | Art L Gower</title>
@@ -396,36 +424,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#talks-portfolio"><span>Talks</span></a>
         </li>
 
         
@@ -559,7 +558,7 @@
 
 
   
-  <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span>; Stuart C. Hawkins</span>, <span><a href="/authors/gerhard-kristensson/">Gerhard Kristensson</a></span>
+  <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>, <span><a href="/authors/stuart-c.-hawkins/">Stuart C. Hawkins</a></span>, <span><a href="/authors/gerhard-kristensson/">Gerhard Kristensson</a></span>
 
   </div>
   
@@ -624,7 +623,9 @@
 
 
   
-    
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/complex-materials/">
+    Project
+  </a>
   
 
 
@@ -650,7 +651,7 @@
       
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="/pdf/thin-stress-2022.pdf" >
+  <a class="btn btn-outline-primary my-1 mr-1" href="/pdf/rspa.2023.0444.pdf" >
     
     Paper
   </a>
@@ -665,32 +666,10 @@
   
   
     
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://eprints.whiterose.ac.uk/id/eprint/206164/1/gower-et-al-2023-a-model-to-validate-effective-waves-in-random-particulate-media-spherical-symmetry.pdf" target="_blank" rel="noopener">
     
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/pdf/thin-stress-2022-supp.pdf" >
-    
-    Supplementary
-  </a>
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-    
-      
-    
-  
-  <a class="btn btn-outline-primary my-1 mr-1" href="/img/video/surface-wave-thin-stress.mp4" >
-    
-    Experimental video
+    EPrint
   </a>
 
   
@@ -704,7 +683,7 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://www.nature.com/articles/s42005-022-01000-3" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1098/rspa.2023.0444" target="_blank" rel="noopener">
     
     Journal
   </a>
@@ -719,7 +698,7 @@
 <div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 700px;">
   <div style="position: relative">
     <img src="/publication/complex-materials/radial-effective/featured_hu_13de145923e388c8.png" alt="" class="featured-image">
-    <span class="article-header-caption">Compares the results from a tensile test with the predictions from the theory together with optical coherence tomography. The method can be adapted for any thin film with the surface wave speeds can be measured.</span>
+    <span class="article-header-caption">A sphere filled with a particulate. We compare numerical simulations using Monte-Carlo with simpler theoretical formulas.</span>
   </div>
 </div>
 
@@ -766,7 +745,7 @@
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p>Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.</p>
+    <div class="article-style"><p>There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.</p>
 </div>
 
     
@@ -1055,7 +1034,7 @@
   
 
   <p class="powered-by">
-    © 2025 Artur L Gower &middot; 
+    © 2026 Artur L Gower &middot; 
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
     
 

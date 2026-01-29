@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/tags/homogenisation/</link>
       <atom:link href="https://arturgower.github.io/tags/homogenisation/index.xml" rel="self" type="application/rss+xml" />
     <description>Homogenisation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Sun, 01 Dec 2024 19:51:12 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Homogenisation</title>
@@ -13,11 +13,29 @@
     </image>
     
     <item>
+      <title>Acoustic waves in a halfspace material filled with random particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/xqca/</link>
+      <pubDate>Sun, 01 Dec 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/xqca/</guid>
+      <description>&lt;p&gt;Particulate materials include powders, emulsions, composites, and many others. This is why measuring these has become important for both industry and scientific applications. For industrial applications, the greatest need is to measure dense particulates, in-situ, and non-destructively. In theory, this could be achieved with acoustics: the standard method is to send an acoustic wave through the particulate and then attempt to measure the effective wave speed and attenuation. A major obstacle here is that it is not clear how to relate the effective wave speed and attenuation to the reflection and transmission coefficients, which are far easier to measure. This is because it has been very difficult to mathematically account for different background mediums. In this paper, we resolve this obstacle. To help comprehension, we present how to account for different background mediums for a simple case: a halfspace filled with a random particulate, where the background of the halfspace is different from the exterior medium. The key to solving this problem was to derive a systematic extension of a widely used closure approximation: the quasi-crystalline approximation. We present some numerical results to demonstrate that the reflection coefficient can be easily calculated for a broad range of frequencies and particle properties.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RMgwe3wfVgQ?si=YtZUbB_HHbrnc5m0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effective T-matrix of a cylinder filled with a random two-dimensional particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</link>
+      <pubDate>Sun, 30 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</guid>
+      <description>&lt;p&gt;When a wave, such as sound or light, scatters within a densely packed particulate, it can be rescattered many times between the particles, which is called multiple scattering. Multiple scattering can be unavoidable when trying to use sound waves to measure a dense particulate, such as a composite with reinforcing fibres. Here, we solve from first principles multiple scattering of scalar waves, including acoustic, for any frequency from a set of two-dimensional particles confined in a circular area. This case has not been solved yet, and its solution is important to perform numerical validation, as particles within a cylinder require only a finite number of particles to perform direct numerical simulations. The method we use involves ensemble averaging over particle configurations, which leads us to deduce an effective T-matrix for the whole cylinder, which can be used to easily describe the scattering from any incident wave. In the specific case when the particles are monopole scatterers, the expression of this effective T-matrix simplifies and reduces to the T-matrix of a homogeneous cylinder with an effective wavenumber⁠. To validate our theoretical predictions, we develop an efficient Monte Carlo method and conclude that our theoretical predictions are highly accurate for a broad range of frequencies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
       <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
       <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
-      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+      <description>&lt;p&gt;There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.&lt;/p&gt;
 </description>
     </item>
     

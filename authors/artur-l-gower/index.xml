@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/authors/artur-l-gower/</link>
       <atom:link href="https://arturgower.github.io/authors/artur-l-gower/index.xml" rel="self" type="application/rss+xml" />
     <description>Artur L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Sep 2025 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Artur L Gower</title>
@@ -13,11 +13,55 @@
     </image>
     
     <item>
+      <title>Elastic waves in bearing raceways: the forward and inverse problem</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</link>
+      <pubDate>Tue, 02 Sep 2025 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</guid>
+      <description>&lt;p&gt;Turbines are crucial to our energy infrastructure, and ensuring their bearings function with minimal friction while often supporting heavy loads is vital. Vibrations within a bearing can signal the presence of defects, friction or misalignment. However, current detection methods are neither robust nor easy to automate. We propose a more quantitative approach by modelling the elastic waves within bearing raceways. By approximating the raceway as a hollow cylinder, we derive straightforward 4 × 4 systems for its vibrational modes, enabling both forward and inverse problem-solving. We also demonstrate how to significantly reduce the number of required sensors by using a simple prior: the known number of rollers and their angular speed. We present numerical examples showcasing the full recovery of contact traction between bearings and the raceway, as well as the detection of elastic emissions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The elastic stored energy of initially strained, or stressed, materials: restrictions and third-order expansions</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</link>
+      <pubDate>Thu, 27 Feb 2025 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic waves in a halfspace material filled with random particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/xqca/</link>
+      <pubDate>Sun, 01 Dec 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/xqca/</guid>
+      <description>&lt;p&gt;Particulate materials include powders, emulsions, composites, and many others. This is why measuring these has become important for both industry and scientific applications. For industrial applications, the greatest need is to measure dense particulates, in-situ, and non-destructively. In theory, this could be achieved with acoustics: the standard method is to send an acoustic wave through the particulate and then attempt to measure the effective wave speed and attenuation. A major obstacle here is that it is not clear how to relate the effective wave speed and attenuation to the reflection and transmission coefficients, which are far easier to measure. This is because it has been very difficult to mathematically account for different background mediums. In this paper, we resolve this obstacle. To help comprehension, we present how to account for different background mediums for a simple case: a halfspace filled with a random particulate, where the background of the halfspace is different from the exterior medium. The key to solving this problem was to derive a systematic extension of a widely used closure approximation: the quasi-crystalline approximation. We present some numerical results to demonstrate that the reflection coefficient can be easily calculated for a broad range of frequencies and particle properties.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RMgwe3wfVgQ?si=YtZUbB_HHbrnc5m0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effective T-matrix of a cylinder filled with a random two-dimensional particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</link>
+      <pubDate>Sun, 30 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</guid>
+      <description>&lt;p&gt;When a wave, such as sound or light, scatters within a densely packed particulate, it can be rescattered many times between the particles, which is called multiple scattering. Multiple scattering can be unavoidable when trying to use sound waves to measure a dense particulate, such as a composite with reinforcing fibres. Here, we solve from first principles multiple scattering of scalar waves, including acoustic, for any frequency from a set of two-dimensional particles confined in a circular area. This case has not been solved yet, and its solution is important to perform numerical validation, as particles within a cylinder require only a finite number of particles to perform direct numerical simulations. The method we use involves ensemble averaging over particle configurations, which leads us to deduce an effective T-matrix for the whole cylinder, which can be used to easily describe the scattering from any incident wave. In the specific case when the particles are monopole scatterers, the expression of this effective T-matrix simplifies and reduces to the T-matrix of a homogeneous cylinder with an effective wavenumber⁠. To validate our theoretical predictions, we develop an efficient Monte Carlo method and conclude that our theoretical predictions are highly accurate for a broad range of frequencies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The average transmitted wave in random particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/average-transmitted/</link>
+      <pubDate>Thu, 27 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/average-transmitted/</guid>
+      <description>&lt;p&gt;Microwave remote sensing is significantly altered when passing through clouds or dense ice. This phenomenon is not unique to microwaves; for instance, ultrasound is also disrupted when traversing through heterogeneous tissues. Understanding the average transmission in particle-filled environments is central to improve data extraction or even to create materials that can selectively block or absorb certain wave frequencies. Most methods that calculate the average transmitted field assume that it satisfies a wave equation with a complex effective wavenumber. However, recent theoretical work has predicted more than one effective wave propagating even in a material which is statistically isotropic and for scalar waves. In this work we provide the first clear evidence of these predicted multiple effective waves by using high-fidelity Monte-Carlo simulations that do not make any statistical assumptions. To achieve this, it was necessary to fill in a missing link in the theory for particulate materials: we prove that the incident wave does not propagate within the material, which is usually taken as an assumption called the Ewald–Oseen extinction theorem. By proving this we conclude that the extinction length—the distance it takes for the incident wave to be extinct—is equal to the correlation length between the particles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
       <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
       <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
-      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+      <description>&lt;p&gt;There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.&lt;/p&gt;
 </description>
     </item>
     
@@ -50,15 +94,6 @@
     
     <item>
       <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
-      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
-      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
       <link>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</link>
       <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</guid>
@@ -75,23 +110,25 @@
 &lt;!-- See below for funded PhD opportunities. --&gt;
 &lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
 &lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
-&lt;p&gt;There are currently three available funded PhD positions:&lt;/p&gt;
+&lt;p&gt;When there are funded positions they will be made availabe on
+&lt;a href=&#34;https://sheffield.ac.uk/mac/phd/projects&#34;&gt;sheffield.ac.uk/mac/phd/projects&lt;/a&gt;, which includes projects from the whole school of Mechanical, Aerospace and Civil engineering. My projects are also advertised on &lt;a href=&#34;https://www.jobs.ac.uk/&#34;&gt;jobs.ac.uk&lt;/a&gt; and &lt;a href=&#34;https://www.findaphd.com/&#34;&gt;FindAPhd&lt;/a&gt;. Some example PhD projects from the past are shown below.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/PhDStudentshipInWaveScattering.pdf&#34;&gt;Sensing particles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
 &lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;!-- - [Modelling Waves in Complex Materials](#modelling) --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/project/inverse-problems/&#34;&gt;Inverse Problems&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#particulates&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;modelling-waves-in-complex-materials&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
-&lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
+&lt;!-- &lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt; --&gt;
+&lt;!-- ### [Modelling Waves in Complex Materials](../../project/complex-materials/)
+
+Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.
+
+This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to **control waves**, and use waves to **sense and monitor complex material**. See [Waves in Complex Materials](../../project/complex-materials/) for more details.
 
 
 
@@ -137,19 +174,19 @@
   
   
   
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Main skills:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Classical mechanics&lt;/li&gt;
-&lt;li&gt;Signal processing&lt;/li&gt;
-&lt;li&gt;Multivariable calculus&lt;/li&gt;
-&lt;li&gt;Mathematical modelling&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+
+Main skills:
+
+- Classical mechanics
+- Signal processing   
+- Multivariable calculus
+- Mathematical modelling --&gt;
 &lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
-&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
 
 
 
@@ -187,9 +224,9 @@ techniques to measure and predict these particle properties are important in man
 &lt;li&gt;Mathematical modelling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&amp;rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
-&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;../../project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
 
 
 

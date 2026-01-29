@@ -5,12 +5,21 @@
     <link>https://arturgower.github.io/authors/gerhard-kristensson/</link>
       <atom:link href="https://arturgower.github.io/authors/gerhard-kristensson/index.xml" rel="self" type="application/rss+xml" />
     <description>Gerhard Kristensson</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Tue, 02 Feb 2021 18:03:04 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Gerhard Kristensson</title>
       <link>https://arturgower.github.io/authors/gerhard-kristensson/</link>
     </image>
+    
+    <item>
+      <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
+      <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
+      <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
+      <description>&lt;p&gt;There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Effective waves for random three-dimensional particulate materials</title>

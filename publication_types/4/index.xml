@@ -5,12 +5,21 @@
     <link>https://arturgower.github.io/publication_types/4/</link>
       <atom:link href="https://arturgower.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     <description>4</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 13 Apr 2016 20:25:45 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Jan 2024 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>4</title>
       <link>https://arturgower.github.io/publication_types/4/</link>
     </image>
+    
+    <item>
+      <title>Calculating pair-correlations from random particle configurations</title>
+      <link>https://arturgower.github.io/publication/complex-materials/pair-correlations/</link>
+      <pubDate>Tue, 02 Jan 2024 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/pair-correlations/</guid>
+      <description>&lt;p&gt;Particle pair-correlations are broadly used to describe particle distributions in chemistry, physics, and material science. Many theoretical methods require the pair-correlation to predict material properties such as fluid flow, thermal properties, or wave propagation. In all these applications it is either important to calculate a pair-correlation from specific particle configurations, or vice-versa: determine the likely particle configurations from a pair-correlation which is needed to fabricate a particulate material. Most available methods to calculate the pair-correlation from a particle configuration require that the configuration be very large to avoid effects from the boundary. Here we show how to avoid boundary effects even for small particle configurations. Having small particle configurations leads to far more efficient numerical methods. We also demonstrate how to use techniques from smooth nonlinear optimisation to quickly recover a particle configuration from a pair-correlation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Optimal Cable Positioning</title>

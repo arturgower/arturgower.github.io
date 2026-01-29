@@ -5,12 +5,281 @@
     <link>https://arturgower.github.io/post/</link>
       <atom:link href="https://arturgower.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Mon, 04 Nov 2019 16:02:03 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>https://arturgower.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Curriculum Vitae (CV)</title>
+      <link>https://arturgower.github.io/post/cv/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cv/</guid>
+      <description>&lt;style&gt;
+/* CV-only: widen content area */
+.article-container { max-width: 1000px !important; }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Senior Lecturer in Engineering Mathematics&lt;/strong&gt;&lt;br&gt;
+University of Sheffield, UK&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-expertise&#34;&gt;Research Expertise&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Core Areas:&lt;/strong&gt; Wave propagation &amp;amp; scattering • Inverse problems • Soft solids • Industrial mathematics • Solid mechanics • Optimization • Random media&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Skills:&lt;/strong&gt; Julia • Mathematica • Python • Matlab • C • LaTeX (BibTeX, TikZ)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-appointments&#34;&gt;Academic Appointments&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;University of Sheffield, UK&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;School of Mechanical, Aerospace and Civil Engineering,&lt;/strong&gt;
+&lt;em&gt;Senior Lecturer in Engineering Mathematics&lt;/em&gt; | 2019—Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Module leader for Dynamics I &amp;amp; II (125+ students, 82–87% satisfaction)&lt;/li&gt;
+&lt;li&gt;Outreach Officer and Transition Tutor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;University of Manchester, UK&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;School of Mathematics,&lt;/strong&gt;
+&lt;em&gt;Research Associate in Applied Mathematics&lt;/em&gt; | 2015—2018&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EPSRC-funded research on ultrasonic propagation in complex media (EP/M026205/1)&lt;/li&gt;
+&lt;li&gt;Mathematical modelling and numerical implementation&lt;/li&gt;
+&lt;li&gt;Collaborative work with experimental (EP/M026310/1) and simulation teams (EP/M026302/1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PhD, Applied Mathematics&lt;/strong&gt; | University of Galway, Ireland | 2011—2015&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Incremental elastic surface waves and static wrinkles&lt;br&gt;
+&lt;em&gt;Supervisor:&lt;/em&gt; Prof. Michel Destrade&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2009—2011 | Grade: 96%&lt;br&gt;
+&lt;em&gt;Computational Geophysics Group&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Nonlinear Elasticity with Radial Symmetry&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2005—2008 | Grade: 83%&lt;br&gt;
+&lt;em&gt;Emphasis:&lt;/em&gt; Mechanics • &lt;em&gt;Minor:&lt;/em&gt; Computer Science&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fellow of the Higher Education Academy (FHEA) | 2022&lt;/li&gt;
+&lt;li&gt;Teaching &amp;amp; Learning Course | University of Galway | 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-sheffield--2019present&#34;&gt;University of Sheffield | 2019—Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Module Leadership&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics I&lt;/strong&gt; — 87% teaching score | Cohort: 70 students | 2022—2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics II&lt;/strong&gt; — 82% teaching score | Cohort: 125 students | 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matlab for Engineers&lt;/strong&gt; | Cohort: 150—215 students | 2020—2023
+&lt;ul&gt;
+&lt;li&gt;Developed flipped-learning structure with interactive problem sets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Leadership Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transition Tutor&lt;/strong&gt; (2021—2023): Cohort induction, teamwork facilitation, inclusivity initiatives&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outreach Officer&lt;/strong&gt; (2020—2023): Public engagement and STEM promotion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics Pathway Coordinator&lt;/strong&gt; (2019—2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-manchester--20152018&#34;&gt;University of Manchester | 2015—2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervised 3 final-year projects and 1 PhD student&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Calculus, Linear Algebra, Complex Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-galway--20112015&#34;&gt;University of Galway | 2011—2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Substitute lectures: Fluid Mechanics, Nonlinear Elasticity (2014—2015)&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Vector Calculus, Mathematical Modelling, Algebra, Complex Analysis (2011—2014)&lt;/li&gt;
+&lt;li&gt;Drop-in centre tutor (2012—2014)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-campinas--20092010&#34;&gt;University of Campinas | 2009—2010&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecturer: Linear Algebra (2010)&lt;/li&gt;
+&lt;li&gt;Charity teaching: Basic personal finance (2009)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-funding&#34;&gt;Research Funding&lt;/h2&gt;
+&lt;div style=&#34;background-color: #e8f4f8; padding: 15px; border-left: 4px solid #2196F3; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Funding Obtained: £1,233,935&lt;/strong&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;major-grants&#34;&gt;Major Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KTP - Ultrasonic In-line Particle Sizer&lt;/strong&gt; | 2025—2028&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£301,379&lt;/strong&gt; | Johnson Matthey &amp;amp; Innovate UK&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sensing Dense Particulate Materials&lt;/strong&gt; | 2021—2024&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£232,000&lt;/strong&gt; | EPSRC EP/V012436/1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST2 — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2021—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£174,000&lt;/strong&gt; | Shift2Rail &amp;amp; Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound 2&lt;/strong&gt; | 2022—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£148,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Determination of Particle Attributes via Active Acoustics&lt;/strong&gt; | 2021—2025&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£120,000&lt;/strong&gt; | EPSRC ICASE, Johnson Matthey&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound&lt;/strong&gt; | 2019—2021&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£115,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2020—2021&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£86,000&lt;/strong&gt; | H2020 In2Track2, Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Odometry to Report Rough Rides&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; | 2021—2022&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt;  | &lt;strong&gt;£70,000&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
+&lt;h3 id=&#34;consultancy&#34;&gt;Consultancy&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Predicting stresses on spine after breast surgery&lt;/strong&gt; | 2025&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£1,250&lt;/strong&gt; | BodyScan LTD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TrainView — Train motion from security camera&lt;/strong&gt; | 2021—2023&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£4,608&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
+&lt;h3 id=&#34;early-career-grants&#34;&gt;Early Career Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;PhD - Nonlinear Modelling of Soft Matter&lt;/strong&gt; | 2013—2015&lt;br&gt;
+&lt;strong&gt;€46,000&lt;/strong&gt; | Irish Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PhD - Skin Deep: Mechanics of Skin&lt;/strong&gt; | 2011—2013&lt;br&gt;
+&lt;strong&gt;€42,000&lt;/strong&gt; | Hardiman Scholarship&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MSc - Nonlinear Elastodynamics with Radial Symmetry&lt;/strong&gt; | 2009—2011&lt;br&gt;
+&lt;strong&gt;R$29,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc - Acoustic Diffraction with Kirchhoff Modelling&lt;/strong&gt; | 2007—2008&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc - Discrete Chaotic Dynamics&lt;/strong&gt; | 2006—2007&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;open-source-software&#34;&gt;Open-Source Software&lt;/h2&gt;
+&lt;p&gt;All packages released under MIT License and available on GitHub.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Package&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/TrainView.jl&#34;&gt;TrainView.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Camera-on-train odometry modelling&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34;&gt;ElasticWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Elastic wave propagation &amp;amp; scattering simulation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Multiple scattering simulation and processing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34;&gt;EffectiveWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Effective wave reflection &amp;amp; transmission&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34;&gt;EntropyGO&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Go influence modelling using entropy maximization&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;div style=&#34;background-color: #fff3e0; padding: 15px; border-left: 4px solid #ff9800; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Citations: 790&lt;/strong&gt; (Google Scholar)
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;26 refereed journal papers&lt;/strong&gt; published in leading journals including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Science Advances&lt;/li&gt;
+&lt;li&gt;Communications Physics&lt;/li&gt;
+&lt;li&gt;New Journal of Physics&lt;/li&gt;
+&lt;li&gt;Philosophical Transactions of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Proceedings of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Journal of the Mechanics and Physics of Solids&lt;/li&gt;
+&lt;li&gt;Journal of the Acoustical Society of America&lt;/li&gt;
+&lt;li&gt;SIAM Journal on Applied Mathematics&lt;/li&gt;
+&lt;li&gt;Wave Motion&lt;/li&gt;
+&lt;li&gt;Journal of Elasticity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;For a complete publication list, see the &lt;a href=&#34;https://arturgower.github.io/publication/&#34;&gt;Publications&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;technical-reports&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/#4&#34;&gt;Technical Reports&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Reports usually written to solve a problem from an industrial partner.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-service--leadership&#34;&gt;Academic Service &amp;amp; Leadership&lt;/h2&gt;
+&lt;h3 id=&#34;peer-review&#34;&gt;Peer Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Journal Reviewer:&lt;/strong&gt; Proceedings of the Royal Society A • IMA Journal of Applied Mathematics • SIAM Journal on Applied Mathematics • Journal of Elasticity • Wave Motion • Journal of the Acoustical Society of America • Acta Acustica • ZAMP • Ultrasonics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grant Reviewer:&lt;/strong&gt; EPSRC • Royal Society&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editorial Board:&lt;/strong&gt; Guest Editor, Wave Motion (Special Issue on Ultrasonic Measurements, 2022)&lt;/p&gt;
+&lt;h3 id=&#34;leadership--organization&#34;&gt;Leadership &amp;amp; Organization&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Institut Henri Poincaré Workshop on Waves in Complex Media&lt;/strong&gt; | Organizer | 2025&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute Workshop on Wave Scattering&lt;/strong&gt; | Organizer | 2023&lt;br&gt;
+An international workshop bringing together physicists, mathematicians, and engineers working on the Theory of Wave Scattering in Complex and Random Media.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beam Challenge Hackathon, INI Winter School&lt;/strong&gt; | Organizer | 2023&lt;br&gt;
+Prepared and ran a hackathon for 30 PhD students called the Beam Challenge at the Multiple Scattering Winter School.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Metamaterials Network Early Career Group&lt;/strong&gt; | Coordinator | 2021—2022&lt;br&gt;
+Organised a grant writing workshop, and selected and funded early career researchers to join the Metamaterials workshop CISM 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Graduate Modelling Camp&lt;/strong&gt; | Mentor | 2021&lt;br&gt;
+Set an industrial mathematics problem for a group of students from across the UK and Ireland and acted as their mentor for 4 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mini-Symposium on Ultrasonic Waves in Solids&lt;/strong&gt; | Organizer | 2021&lt;br&gt;
+This mini-symposium was part of the BAMC.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Acoustics Network Early Career Group&lt;/strong&gt; | Coordinator | 2018—2020&lt;br&gt;
+Main accomplishments: two summer schools to train early career acousticians and a workshop on academic-industrial collaboration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stokes Modelling Workshop&lt;/strong&gt; | Mentor | 2020&lt;br&gt;
+Set an industrial mathematics problem for a group of students from across Ireland and acted as their mentor for 4 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constitutive Behaviour of Soft Tissues&lt;/strong&gt; | Co-organiser | September 2016&lt;br&gt;
+A workshop on the state-of-the-art in constitutive modelling of soft tissues.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joint Symposium: Irish Mechanics Society and Irish Society for Scientific Engineering &amp;amp; Computation&lt;/strong&gt; | Co-organiser | November 2014&lt;br&gt;
+An annual international mechanics conference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Irish Applied Maths Research Students&amp;rsquo; Meeting&lt;/strong&gt; | Co-organiser | October 2014&lt;br&gt;
+Organized by the SIAM student chapter, this was the first meeting of postgraduates working in applied mathematics across Ireland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stokes Modelling Workshop&lt;/strong&gt; | Co-organiser | June 2014&lt;br&gt;
+A modelling workshop to solve problems brought by industry, in the same style as the European Study Groups with Industry.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;selected-invited-talks&#34;&gt;Selected Invited Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2023&lt;/strong&gt; | &lt;em&gt;Changing references in non-linear elasticity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute, Multiple Scattering Workshop&lt;/strong&gt; | 2023&lt;br&gt;
+&lt;em&gt;Numerically validating effective waves&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2022&lt;/strong&gt; | &lt;em&gt;Ultrasonic measurement of stress without material constants&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICMS Wavinar&lt;/strong&gt; | 2021 | &lt;em&gt;Ensemble average waves in random materials&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acoustical Society of America, Polydisperse Materials Session&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMAT Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warwick Applied Mathematics Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UCL Applied Mathematics Seminar&lt;/strong&gt; | 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICIAM 2019&lt;/strong&gt; | &lt;em&gt;Waves in multiple-scattering media&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;public-engagement--outreach&#34;&gt;Public Engagement &amp;amp; Outreach&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Online Talks to Schools&lt;/strong&gt; | 2020—2025&lt;br&gt;
+Developed and delivered interactive talks to schools across the UK&lt;br&gt;
+&lt;em&gt;Reach: ∼2,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | November 2022&lt;br&gt;
+Helped run stand and provided equipment (ExCeL London)&lt;br&gt;
+&lt;em&gt;Reach: &amp;gt;30,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STEM for Girls&lt;/strong&gt; | March 2022&lt;br&gt;
+Organised and ran stand with equipment and team (Octagon Centre, Sheffield)&lt;br&gt;
+&lt;em&gt;Reach: 300 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bradford Science Festival&lt;/strong&gt; | October 2021&lt;br&gt;
+Organised and ran stand with equipment and team (Bradford Science Museum)&lt;br&gt;
+&lt;em&gt;Reach: 10,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24hr Inspire for Life&lt;/strong&gt; | March 2020&lt;br&gt;
+Talk: &amp;ldquo;Sensing the world with sound&amp;rdquo; — science talks raising money for cancer charities&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | October 2019&lt;br&gt;
+Ran and organised multiple acoustics stands including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acoustic levitation demonstration&lt;/li&gt;
+&lt;li&gt;Earthquake machine structures&lt;/li&gt;
+&lt;li&gt;Ultrahaptics device&lt;/li&gt;
+&lt;li&gt;Medical ultrasound device&lt;br&gt;
+&lt;em&gt;Reach: 30,000+ visitors&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pint of Science — Sheffield&lt;/strong&gt; | May 2019&lt;br&gt;
+Talk on science to the general public&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | September 2018&lt;br&gt;
+Demonstrated acoustic levitation and related phenomena over a weekend&lt;br&gt;
+&lt;em&gt;Reach: 30,000+ visitors&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Science Showdown!&lt;/strong&gt; | March 2017&lt;br&gt;
+Talk: &amp;ldquo;How can we measure the invisible: the mathematics of jiggly waves&amp;rdquo;&lt;br&gt;
+Promoted mathematics to wider audience (Manchester)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Science Experience Workshop&lt;/strong&gt; | 2011—2014&lt;br&gt;
+Ran stand on maths and physics puzzles for potential students at university open days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maths Enrichment&lt;/strong&gt; | 2014&lt;br&gt;
+Taught two morning sessions preparing students for Irish and International Mathematics Olympiad&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;School Presentation for the School of Science&lt;/strong&gt; | 2011&lt;br&gt;
+Two school visits to engage students about studying science at university&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This funding is not added to the total as it was paid to the company. The company then used a small portion to pay me as a consultant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop on the Theory of Waves in Random Media</title>
@@ -131,23 +400,25 @@
 &lt;!-- See below for funded PhD opportunities. --&gt;
 &lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
 &lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
-&lt;p&gt;There are currently three available funded PhD positions:&lt;/p&gt;
+&lt;p&gt;When there are funded positions they will be made availabe on
+&lt;a href=&#34;https://sheffield.ac.uk/mac/phd/projects&#34;&gt;sheffield.ac.uk/mac/phd/projects&lt;/a&gt;, which includes projects from the whole school of Mechanical, Aerospace and Civil engineering. My projects are also advertised on &lt;a href=&#34;https://www.jobs.ac.uk/&#34;&gt;jobs.ac.uk&lt;/a&gt; and &lt;a href=&#34;https://www.findaphd.com/&#34;&gt;FindAPhd&lt;/a&gt;. Some example PhD projects from the past are shown below.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/PhDStudentshipInWaveScattering.pdf&#34;&gt;Sensing particles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
 &lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;!-- - [Modelling Waves in Complex Materials](#modelling) --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/project/inverse-problems/&#34;&gt;Inverse Problems&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#particulates&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;modelling-waves-in-complex-materials&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
-&lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
+&lt;!-- &lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt; --&gt;
+&lt;!-- ### [Modelling Waves in Complex Materials](../../project/complex-materials/)
+
+Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.
+
+This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to **control waves**, and use waves to **sense and monitor complex material**. See [Waves in Complex Materials](../../project/complex-materials/) for more details.
 
 
 
@@ -193,19 +464,19 @@
   
   
   
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Main skills:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Classical mechanics&lt;/li&gt;
-&lt;li&gt;Signal processing&lt;/li&gt;
-&lt;li&gt;Multivariable calculus&lt;/li&gt;
-&lt;li&gt;Mathematical modelling&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+
+Main skills:
+
+- Classical mechanics
+- Signal processing   
+- Multivariable calculus
+- Mathematical modelling --&gt;
 &lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
-&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
 
 
 
@@ -243,9 +514,9 @@ techniques to measure and predict these particle properties are important in man
 &lt;li&gt;Mathematical modelling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&amp;rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
-&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;../../project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
 
 
 

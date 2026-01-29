@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aristeidis Karnezis | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/aristeidis-karnezis/</link>
+      <atom:link href="https://arturgower.github.io/authors/aristeidis-karnezis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aristeidis Karnezis</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Thu, 27 Jun 2024 19:51:12 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Aristeidis Karnezis</title>
+      <link>https://arturgower.github.io/authors/aristeidis-karnezis/</link>
+    </image>
+    
+    <item>
+      <title>The average transmitted wave in random particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/average-transmitted/</link>
+      <pubDate>Thu, 27 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/average-transmitted/</guid>
+      <description>&lt;p&gt;Microwave remote sensing is significantly altered when passing through clouds or dense ice. This phenomenon is not unique to microwaves; for instance, ultrasound is also disrupted when traversing through heterogeneous tissues. Understanding the average transmission in particle-filled environments is central to improve data extraction or even to create materials that can selectively block or absorb certain wave frequencies. Most methods that calculate the average transmitted field assume that it satisfies a wave equation with a complex effective wavenumber. However, recent theoretical work has predicted more than one effective wave propagating even in a material which is statistically isotropic and for scalar waves. In this work we provide the first clear evidence of these predicted multiple effective waves by using high-fidelity Monte-Carlo simulations that do not make any statistical assumptions. To achieve this, it was necessary to fill in a missing link in the theory for particulate materials: we prove that the incident wave does not propagate within the material, which is usually taken as an assumption called the Ewald–Oseen extinction theorem. By proving this we conclude that the extinction length—the distance it takes for the incident wave to be extinct—is equal to the correlation length between the particles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

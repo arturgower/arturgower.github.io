@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acoustics | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/acoustics/</link>
+      <atom:link href="https://arturgower.github.io/tags/acoustics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acoustics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Acoustics</title>
+      <link>https://arturgower.github.io/tags/acoustics/</link>
+    </image>
+    
+    <item>
+      <title>Elastic &amp; acoustic waves</title>
+      <link>https://arturgower.github.io/project/acoustic-elastic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/acoustic-elastic/</guid>
+      <description>&lt;p&gt;Our work covers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Elastic waves, including vibration and ultrasonics&lt;/li&gt;
+&lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
+&lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;linear-elastic-waves&#34;&gt;Linear elastic waves&lt;/h2&gt;
+&lt;p&gt;Linear elastic waves cover ultrasonics, and are used to make measurements and assess materials. Work in this includes methods to measure stress through changes in wave-speed with applications in &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/&#34;&gt;steel and hard solids&lt;/a&gt;, &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/&#34;&gt;medical ultrasound&lt;/a&gt;, and measuring &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/&#34;&gt;extremely thin membranes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Another theme is use elastic waves in more complex geometries to measure shape changes as well as sources and stress. Our first paper on the theme &amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

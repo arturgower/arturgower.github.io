@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/tags/random-media/</link>
       <atom:link href="https://arturgower.github.io/tags/random-media/index.xml" rel="self" type="application/rss+xml" />
     <description>Random Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Thu, 02 Nov 2023 17:43:29 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Jan 2024 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Random Media</title>
@@ -13,11 +13,20 @@
     </image>
     
     <item>
+      <title>Calculating pair-correlations from random particle configurations</title>
+      <link>https://arturgower.github.io/publication/complex-materials/pair-correlations/</link>
+      <pubDate>Tue, 02 Jan 2024 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/pair-correlations/</guid>
+      <description>&lt;p&gt;Particle pair-correlations are broadly used to describe particle distributions in chemistry, physics, and material science. Many theoretical methods require the pair-correlation to predict material properties such as fluid flow, thermal properties, or wave propagation. In all these applications it is either important to calculate a pair-correlation from specific particle configurations, or vice-versa: determine the likely particle configurations from a pair-correlation which is needed to fabricate a particulate material. Most available methods to calculate the pair-correlation from a particle configuration require that the configuration be very large to avoid effects from the boundary. Here we show how to avoid boundary effects even for small particle configurations. Having small particle configurations leads to far more efficient numerical methods. We also demonstrate how to use techniques from smooth nonlinear optimisation to quickly recover a particle configuration from a pair-correlation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
       <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
       <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
-      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+      <description>&lt;p&gt;There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.&lt;/p&gt;
 </description>
     </item>
     

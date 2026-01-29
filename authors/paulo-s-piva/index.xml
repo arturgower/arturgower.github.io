@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paulo S Piva | Art L Gower</title>
+    <link>https://arturgower.github.io/authors/paulo-s-piva/</link>
+      <atom:link href="https://arturgower.github.io/authors/paulo-s-piva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paulo S Piva</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Sun, 01 Dec 2024 19:51:12 +0000</lastBuildDate>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Paulo S Piva</title>
+      <link>https://arturgower.github.io/authors/paulo-s-piva/</link>
+    </image>
+    
+    <item>
+      <title>Acoustic waves in a halfspace material filled with random particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/xqca/</link>
+      <pubDate>Sun, 01 Dec 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/xqca/</guid>
+      <description>&lt;p&gt;Particulate materials include powders, emulsions, composites, and many others. This is why measuring these has become important for both industry and scientific applications. For industrial applications, the greatest need is to measure dense particulates, in-situ, and non-destructively. In theory, this could be achieved with acoustics: the standard method is to send an acoustic wave through the particulate and then attempt to measure the effective wave speed and attenuation. A major obstacle here is that it is not clear how to relate the effective wave speed and attenuation to the reflection and transmission coefficients, which are far easier to measure. This is because it has been very difficult to mathematically account for different background mediums. In this paper, we resolve this obstacle. To help comprehension, we present how to account for different background mediums for a simple case: a halfspace filled with a random particulate, where the background of the halfspace is different from the exterior medium. The key to solving this problem was to derive a systematic extension of a widely used closure approximation: the quasi-crystalline approximation. We present some numerical results to demonstrate that the reflection coefficient can be easily calculated for a broad range of frequencies and particle properties.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RMgwe3wfVgQ?si=YtZUbB_HHbrnc5m0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Effective T-matrix of a cylinder filled with a random two-dimensional particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</link>
+      <pubDate>Sun, 30 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</guid>
+      <description>&lt;p&gt;When a wave, such as sound or light, scatters within a densely packed particulate, it can be rescattered many times between the particles, which is called multiple scattering. Multiple scattering can be unavoidable when trying to use sound waves to measure a dense particulate, such as a composite with reinforcing fibres. Here, we solve from first principles multiple scattering of scalar waves, including acoustic, for any frequency from a set of two-dimensional particles confined in a circular area. This case has not been solved yet, and its solution is important to perform numerical validation, as particles within a cylinder require only a finite number of particles to perform direct numerical simulations. The method we use involves ensemble averaging over particle configurations, which leads us to deduce an effective T-matrix for the whole cylinder, which can be used to easily describe the scattering from any incident wave. In the specific case when the particles are monopole scatterers, the expression of this effective T-matrix simplifies and reduces to the T-matrix of a homogeneous cylinder with an effective wavenumber⁠. To validate our theoretical predictions, we develop an efficient Monte Carlo method and conclude that our theoretical predictions are highly accurate for a broad range of frequencies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The average transmitted wave in random particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/average-transmitted/</link>
+      <pubDate>Thu, 27 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/average-transmitted/</guid>
+      <description>&lt;p&gt;Microwave remote sensing is significantly altered when passing through clouds or dense ice. This phenomenon is not unique to microwaves; for instance, ultrasound is also disrupted when traversing through heterogeneous tissues. Understanding the average transmission in particle-filled environments is central to improve data extraction or even to create materials that can selectively block or absorb certain wave frequencies. Most methods that calculate the average transmitted field assume that it satisfies a wave equation with a complex effective wavenumber. However, recent theoretical work has predicted more than one effective wave propagating even in a material which is statistically isotropic and for scalar waves. In this work we provide the first clear evidence of these predicted multiple effective waves by using high-fidelity Monte-Carlo simulations that do not make any statistical assumptions. To achieve this, it was necessary to fill in a missing link in the theory for particulate materials: we prove that the incident wave does not propagate within the material, which is usually taken as an assumption called the Ewald–Oseen extinction theorem. By proving this we conclude that the extinction length—the distance it takes for the incident wave to be extinct—is equal to the correlation length between the particles.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

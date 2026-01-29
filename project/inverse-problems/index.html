@@ -221,10 +221,38 @@
   
 
 
-  
+  <style>
+ 
+.fullwidth-widget .row {
+  display: block;
+}
 
+.fullwidth-widget .col-12.col-lg-4 {
+  display: none;
+}
 
+.fullwidth-widget .col-12.col-lg-8 {
+  width: 100%;
+  max-width: 100%;
+}
 
+ 
+section#publications.pub-img-large .media.stream-item img {
+  max-width: 280px;
+  width: 280px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  section#publications.pub-img-large .media.stream-item img {
+    max-width: 180px;
+    width: 180px;
+  }
+}
+
+ 
+</style>
 
 
   <title>Inverse Problems | Art L Gower</title>
@@ -396,36 +424,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#talks-portfolio"><span>Talks</span></a>
         </li>
 
         
@@ -535,6 +534,8 @@
 
   
   
+    
+  
 
 
 <div class="article-container pt-3">
@@ -591,9 +592,9 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 399px; max-height: 400px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 422px;">
   <div style="position: relative">
-    <img src="/project/inverse-problems/featured.png" alt="" class="featured-image">
+    <img src="/project/inverse-problems/featured_hu_7645c68940ceaf75.png" alt="" class="featured-image">
     
   </div>
 </div>
@@ -632,35 +633,80 @@
 
 </figure>
  -->
-<h2 id="stress---strain">Stress - strain</h2>
+<p>Using both classical inverse methods and regularisation, as well as Bayesian methods to quantify the certainty.</p>
+<h2 id="boundary-measurements">Boundary measurements</h2>
+<p>Limited amount of information or measurements on the boundary of an object, what is inside?</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="/img/gifs/one-load-bearing-time-pressure.gif" >
+<img src="/img/gifs/one-load-bearing-time-pressure.gif" alt="" ></a>
+
+
+
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="/img/gifs/time-point-pressure-2.gif" >
+<img src="/img/gifs/time-point-pressure-2.gif" alt="" ></a>
+
+
+
+</figure>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure>
+
+
+  <a data-fancybox="" href="/img/gifs/bearings-with-prior-traction.gif" >
+<img src="/img/gifs/bearings-with-prior-traction.gif" alt="" ></a>
+
+
+
+</figure>
+
+<h2 id="method-of-fundamental-solutions">Method of Fundamental Solutions</h2>
 <p>See &hellip; for predicting stress and strain from boundary measurements.</p>
-<h2 id="ultrasonics">Ultrasonics</h2>
-<p>Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.</p>
-<ul>
-<li>Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.</li>
-<li>Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.</li>
-</ul>
-<p>The motivations to work on ultrasonics include:</p>
-<p><em>Non-destructive testing</em>. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.</p>
-<p><em>Medical applications</em>. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.</p>
-<p>Below we discuss some examples.</p>
-<h2 id="point-impact-on-a-surface">Point impact on a surface</h2>
-<p>When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.</p>
-<figure class="alignright">
-  <a data-fancybox="" href="/img/WaveFront.jpeg" data-caption="illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.">
-<img src="/img/WaveFront.jpeg" alt="" width="70%" ></a>
-  <figcaption>
-    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
-  </figcaption>
-</figure>
-<figure class="alignright">
-  <a data-fancybox="" href="/img/gifs/BodyWaveFrontTrack.gif" data-caption="illustrates how overlapping body waves (blue) creates the resulting wave front (red).">
-<img src="/img/gifs/BodyWaveFrontTrack.gif" alt="" width="70%" ></a>
-  <figcaption>
-    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
-  </figcaption>
-</figure>
-<p>The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.</p>
 
     </div>
 
@@ -669,8 +715,6 @@
 
 
 <div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/solid-mechanics/">solid-mechanics</a>
   
   <a class="badge badge-light" href="/tags/waves/">waves</a>
   
@@ -804,13 +848,13 @@
       
       <li><a href="/project/complex-materials/">Waves in Complex Materials</a></li>
       
-      <li><a href="/publication/nonlinear-elasticity/radial-elasticity/">Nonlinear Elastodynamics with Radial Symmetry (Elasticidade nao linear com simetria radial)</a></li>
-      
       <li><a href="/project/industry/">Industrial Mathematics</a></li>
       
       <li><a href="/post/wing-faults/">Detecting faults on a wing</a></li>
       
       <li><a href="/post/train/">Tracking train tracks</a></li>
+      
+      <li><a href="/post/cable-arranging/">The art of cable arranging</a></li>
       
     </ul>
   </div>
@@ -828,6 +872,170 @@
 
       
       
+      
+        <h2>Publications</h2>
+        
+          
+            
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0">
+      <a href="/publication/elastic-waves/bearings-inverse/" >Elastic waves in bearing raceways: the forward and inverse problem</a>
+    </h3>
+
+    
+    <div class="article-style">
+      We model elastic waves in bearing raceways to detect defects and friction. By treating raceways as hollow cylinders, we derive 4×4 …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+      <div>
+        
+
+
+
+  
+  <span><a href="/authors/jessica-j-kent/">Jessica J Kent</a></span>, <span><a href="/authors/matheus-de-c-loures/">Matheus de C Loures</a></span>, <span><a href="/authors/artur-l-gower/">Artur L Gower</a></span>
+
+      </div>
+      
+    </div>
+
+    
+    <div class="btn-links">
+      
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/2412.14928v1.pdf" target="_blank" rel="noopener">
+  Preprint
+</a>
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/JuliaWaveScattering/ElasticWaves.jl" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/acoustic-elastic/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/inverse-problems/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+    
+      
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/pdf/rspa.2024.0972.pdf" >
+    
+    Paper
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1098/rspa.2024.0972" target="_blank" rel="noopener">
+    
+    Journal
+  </a>
+
+
+    </div>
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+    
+    <a href="/publication/elastic-waves/bearings-inverse/" >
+      <img src="/publication/elastic-waves/bearings-inverse/featured_hu_5325f240110d15c1.png" alt="">
+    </a>
+    
+  </div>
+</div>
+
+          
+        
       
 
       
@@ -952,7 +1160,7 @@
   
 
   <p class="powered-by">
-    © 2025 Artur L Gower &middot; 
+    © 2026 Artur L Gower &middot; 
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
     
 

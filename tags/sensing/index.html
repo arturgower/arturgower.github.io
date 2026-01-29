@@ -172,10 +172,38 @@
   
 
 
-  
+  <style>
+ 
+.fullwidth-widget .row {
+  display: block;
+}
 
+.fullwidth-widget .col-12.col-lg-4 {
+  display: none;
+}
 
+.fullwidth-widget .col-12.col-lg-8 {
+  width: 100%;
+  max-width: 100%;
+}
 
+ 
+section#publications.pub-img-large .media.stream-item img {
+  max-width: 280px;
+  width: 280px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  section#publications.pub-img-large .media.stream-item img {
+    max-width: 180px;
+    width: 180px;
+  }
+}
+
+ 
+</style>
 
 
   <title>Sensing | Art L Gower</title>
@@ -347,36 +375,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#talks-portfolio"><span>Talks</span></a>
         </li>
 
         
@@ -515,15 +514,6 @@
   </div>
   
   <div>
-    <h2><a href="/publication/angled-ultrasonic-stress/">An ultrasonic method to measure stress without calibration: The angled shear wave method</a></h2>
-    <div class="article-style">
-      
-      Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves.
-      
-    </div>
-  </div>
-  
-  <div>
     <h2><a href="/publication/elastic-waves/angled-ultrasonic-stress/">An ultrasonic method to measure stress without calibration: The angled shear wave method</a></h2>
     <div class="article-style">
       
@@ -652,7 +642,7 @@
   
 
   <p class="powered-by">
-    © 2025 Artur L Gower &middot; 
+    © 2026 Artur L Gower &middot; 
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
     
 

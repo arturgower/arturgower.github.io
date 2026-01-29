@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Constitutive-Theory | Art L Gower</title>
+    <link>https://arturgower.github.io/tags/constitutive-theory/</link>
+      <atom:link href="https://arturgower.github.io/tags/constitutive-theory/index.xml" rel="self" type="application/rss+xml" />
+    <description>Constitutive-Theory</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright>
+    <image>
+      <url>https://arturgower.github.io/img/icon-192.png</url>
+      <title>Constitutive-Theory</title>
+      <link>https://arturgower.github.io/tags/constitutive-theory/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear Elasticity</title>
+      <link>https://arturgower.github.io/project/nonlinear-elasticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/nonlinear-elasticity/</guid>
+      <description>&lt;p&gt;Our work covers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
+&lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
+&lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;instability-patterns&#34;&gt;Instability patterns&lt;/h2&gt;
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;Use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A wrinkle instability on the surface of a solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A wrinkle instability on the surface of a solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

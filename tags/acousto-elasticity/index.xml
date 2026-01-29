@@ -5,12 +5,29 @@
     <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
       <atom:link href="https://arturgower.github.io/tags/acousto-elasticity/index.xml" rel="self" type="application/rss+xml" />
     <description>Acousto-Elasticity</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Fri, 27 Dec 2013 19:51:12 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Thu, 27 Feb 2025 19:51:12 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Acousto-Elasticity</title>
       <link>https://arturgower.github.io/tags/acousto-elasticity/</link>
     </image>
+    
+    <item>
+      <title>The elastic stored energy of initially strained, or stressed, materials: restrictions and third-order expansions</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</link>
+      <pubDate>Thu, 27 Feb 2025 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universality of the angled shear wave identity in soft viscous solids</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/universal-angled-shear/</link>
+      <pubDate>Mon, 27 May 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/universal-angled-shear/</guid>
+      <description>&lt;p&gt;Mechanical stress within biological tissue can indicate an anomaly, or can be vital of its function, such as stresses in arteries. Measuring these stresses in tissue is challenging due to the complex, and often unknown, nature of the material properties. Recently, a method called the angled shear wave identity was proposed to predict the stress by measuring the speed of two small amplitude shear waves. The method does not require prior knowledge of the material’s constitutive law, making it ideal for complex biological tissues. We extend this method, and the underlying identity, to include viscous dissipation, which can be significant for biological tissues. To generalise the identity, we consider soft viscoelastic solids described by a generalised Newtonian viscous stress, and account for transverse isotropy, a feature that is common in muscle tissue, for instance. We then derive the dispersion relationship for small-amplitude shear waves superimposed on a large static deformation. Similarly to the elastic case, the identity is recovered when the stress in the material is coaxial with the transverse anisotropy. A key result in this paper is that to predict the stress in a viscous material one would need to measure the wave attenuation as well as the wave speed. The case of viscoelastic materials with memory is also discussed.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Counter-intuitive results in acousto-elasticity</title>

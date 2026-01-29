@@ -5,7 +5,7 @@
     <link>https://arturgower.github.io/</link>
       <atom:link href="https://arturgower.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Art L Gower</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2025 Artur L Gower</copyright><lastBuildDate>Wed, 10 Dec 2025 10:01:38 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Art L Gower</title>
@@ -13,10 +13,279 @@
     </image>
     
     <item>
+      <title>Curriculum Vitae (CV)</title>
+      <link>https://arturgower.github.io/post/cv/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/post/cv/</guid>
+      <description>&lt;style&gt;
+/* CV-only: widen content area */
+.article-container { max-width: 1000px !important; }
+&lt;/style&gt;
+&lt;p&gt;&lt;strong&gt;Senior Lecturer in Engineering Mathematics&lt;/strong&gt;&lt;br&gt;
+University of Sheffield, UK&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-expertise&#34;&gt;Research Expertise&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Core Areas:&lt;/strong&gt; Wave propagation &amp;amp; scattering • Inverse problems • Soft solids • Industrial mathematics • Solid mechanics • Optimization • Random media&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Technical Skills:&lt;/strong&gt; Julia • Mathematica • Python • Matlab • C • LaTeX (BibTeX, TikZ)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-appointments&#34;&gt;Academic Appointments&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;University of Sheffield, UK&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;School of Mechanical, Aerospace and Civil Engineering,&lt;/strong&gt;
+&lt;em&gt;Senior Lecturer in Engineering Mathematics&lt;/em&gt; | 2019—Present&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Module leader for Dynamics I &amp;amp; II (125+ students, 82–87% satisfaction)&lt;/li&gt;
+&lt;li&gt;Outreach Officer and Transition Tutor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;University of Manchester, UK&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;School of Mathematics,&lt;/strong&gt;
+&lt;em&gt;Research Associate in Applied Mathematics&lt;/em&gt; | 2015—2018&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;EPSRC-funded research on ultrasonic propagation in complex media (EP/M026205/1)&lt;/li&gt;
+&lt;li&gt;Mathematical modelling and numerical implementation&lt;/li&gt;
+&lt;li&gt;Collaborative work with experimental (EP/M026310/1) and simulation teams (EP/M026302/1)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;PhD, Applied Mathematics&lt;/strong&gt; | University of Galway, Ireland | 2011—2015&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Incremental elastic surface waves and static wrinkles&lt;br&gt;
+&lt;em&gt;Supervisor:&lt;/em&gt; Prof. Michel Destrade&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2009—2011 | Grade: 96%&lt;br&gt;
+&lt;em&gt;Computational Geophysics Group&lt;/em&gt;&lt;br&gt;
+&lt;em&gt;Thesis:&lt;/em&gt; Nonlinear Elasticity with Radial Symmetry&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc, Applied Mathematics&lt;/strong&gt; | University of Campinas, Brazil | 2005—2008 | Grade: 83%&lt;br&gt;
+&lt;em&gt;Emphasis:&lt;/em&gt; Mechanics • &lt;em&gt;Minor:&lt;/em&gt; Computer Science&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;teaching&#34;&gt;Teaching&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fellow of the Higher Education Academy (FHEA) | 2022&lt;/li&gt;
+&lt;li&gt;Teaching &amp;amp; Learning Course | University of Galway | 2013&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-sheffield--2019present&#34;&gt;University of Sheffield | 2019—Present&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Module Leadership&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics I&lt;/strong&gt; — 87% teaching score | Cohort: 70 students | 2022—2023&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dynamics II&lt;/strong&gt; — 82% teaching score | Cohort: 125 students | 2020&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Course Contributions&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Matlab for Engineers&lt;/strong&gt; | Cohort: 150—215 students | 2020—2023
+&lt;ul&gt;
+&lt;li&gt;Developed flipped-learning structure with interactive problem sets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Leadership Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transition Tutor&lt;/strong&gt; (2021—2023): Cohort induction, teamwork facilitation, inclusivity initiatives&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Outreach Officer&lt;/strong&gt; (2020—2023): Public engagement and STEM promotion&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Physics Pathway Coordinator&lt;/strong&gt; (2019—2020)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-manchester--20152018&#34;&gt;University of Manchester | 2015—2018&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Supervised 3 final-year projects and 1 PhD student&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Calculus, Linear Algebra, Complex Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-galway--20112015&#34;&gt;University of Galway | 2011—2015&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Substitute lectures: Fluid Mechanics, Nonlinear Elasticity (2014—2015)&lt;/li&gt;
+&lt;li&gt;Tutorial instruction: Vector Calculus, Mathematical Modelling, Algebra, Complex Analysis (2011—2014)&lt;/li&gt;
+&lt;li&gt;Drop-in centre tutor (2012—2014)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;university-of-campinas--20092010&#34;&gt;University of Campinas | 2009—2010&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Lecturer: Linear Algebra (2010)&lt;/li&gt;
+&lt;li&gt;Charity teaching: Basic personal finance (2009)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;research-funding&#34;&gt;Research Funding&lt;/h2&gt;
+&lt;div style=&#34;background-color: #e8f4f8; padding: 15px; border-left: 4px solid #2196F3; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Funding Obtained: £1,233,935&lt;/strong&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;major-grants&#34;&gt;Major Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;KTP - Ultrasonic In-line Particle Sizer&lt;/strong&gt; | 2025—2028&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£301,379&lt;/strong&gt; | Johnson Matthey &amp;amp; Innovate UK&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Sensing Dense Particulate Materials&lt;/strong&gt; | 2021—2024&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£232,000&lt;/strong&gt; | EPSRC EP/V012436/1&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST2 — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2021—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£174,000&lt;/strong&gt; | Shift2Rail &amp;amp; Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound 2&lt;/strong&gt; | 2022—2023&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£148,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Determination of Particle Attributes via Active Acoustics&lt;/strong&gt; | 2021—2025&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£120,000&lt;/strong&gt; | EPSRC ICASE, Johnson Matthey&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Longitudinal Rail Stress Measurement using Ultrasound&lt;/strong&gt; | 2019—2021&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£115,000&lt;/strong&gt; | FRA, USA&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;FAST — Fast Analysis of Stress in Rail Tracks&lt;/strong&gt; | 2020—2021&lt;br&gt;
+&lt;em&gt;PI: R. Dwyer-Joyce, A.L. Gower, R. Lewis&lt;/em&gt; | &lt;strong&gt;£86,000&lt;/strong&gt; | H2020 In2Track2, Network Rail&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Video Odometry to Report Rough Rides&lt;/strong&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; | 2021—2022&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt;  | &lt;strong&gt;£70,000&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
+&lt;h3 id=&#34;consultancy&#34;&gt;Consultancy&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Predicting stresses on spine after breast surgery&lt;/strong&gt; | 2025&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£1,250&lt;/strong&gt; | BodyScan LTD&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;TrainView — Train motion from security camera&lt;/strong&gt; | 2021—2023&lt;br&gt;
+&lt;em&gt;PI: A.L. Gower&lt;/em&gt; | &lt;strong&gt;£4,608&lt;/strong&gt; | Reliable Data Systems International LTD &amp;amp; Network Rail&lt;/p&gt;
+&lt;h3 id=&#34;early-career-grants&#34;&gt;Early Career Grants&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;PhD - Nonlinear Modelling of Soft Matter&lt;/strong&gt; | 2013—2015&lt;br&gt;
+&lt;strong&gt;€46,000&lt;/strong&gt; | Irish Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PhD - Skin Deep: Mechanics of Skin&lt;/strong&gt; | 2011—2013&lt;br&gt;
+&lt;strong&gt;€42,000&lt;/strong&gt; | Hardiman Scholarship&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MSc - Nonlinear Elastodynamics with Radial Symmetry&lt;/strong&gt; | 2009—2011&lt;br&gt;
+&lt;strong&gt;R$29,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc - Acoustic Diffraction with Kirchhoff Modelling&lt;/strong&gt; | 2007—2008&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BSc - Discrete Chaotic Dynamics&lt;/strong&gt; | 2006—2007&lt;br&gt;
+&lt;strong&gt;R$6,000&lt;/strong&gt; | Brazil Research Council&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;open-source-software&#34;&gt;Open-Source Software&lt;/h2&gt;
+&lt;p&gt;All packages released under MIT License and available on GitHub.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Package&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/TrainView.jl&#34;&gt;TrainView.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Camera-on-train odometry modelling&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34;&gt;ElasticWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Elastic wave propagation &amp;amp; scattering simulation&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Multiple scattering simulation and processing&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34;&gt;EffectiveWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Effective wave reflection &amp;amp; transmission&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34;&gt;EntropyGO&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Go influence modelling using entropy maximization&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;div style=&#34;background-color: #fff3e0; padding: 15px; border-left: 4px solid #ff9800; margin: 20px 0; color: #000;&#34;&gt;
+&lt;strong&gt;Total Citations: 790&lt;/strong&gt; (Google Scholar)
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;26 refereed journal papers&lt;/strong&gt; published in leading journals including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Science Advances&lt;/li&gt;
+&lt;li&gt;Communications Physics&lt;/li&gt;
+&lt;li&gt;New Journal of Physics&lt;/li&gt;
+&lt;li&gt;Philosophical Transactions of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Proceedings of the Royal Society A&lt;/li&gt;
+&lt;li&gt;Journal of the Mechanics and Physics of Solids&lt;/li&gt;
+&lt;li&gt;Journal of the Acoustical Society of America&lt;/li&gt;
+&lt;li&gt;SIAM Journal on Applied Mathematics&lt;/li&gt;
+&lt;li&gt;Wave Motion&lt;/li&gt;
+&lt;li&gt;Journal of Elasticity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;For a complete publication list, see the &lt;a href=&#34;https://arturgower.github.io/publication/&#34;&gt;Publications&lt;/a&gt; page.&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&#34;technical-reports&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/#4&#34;&gt;Technical Reports&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Reports usually written to solve a problem from an industrial partner.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;academic-service--leadership&#34;&gt;Academic Service &amp;amp; Leadership&lt;/h2&gt;
+&lt;h3 id=&#34;peer-review&#34;&gt;Peer Review&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Journal Reviewer:&lt;/strong&gt; Proceedings of the Royal Society A • IMA Journal of Applied Mathematics • SIAM Journal on Applied Mathematics • Journal of Elasticity • Wave Motion • Journal of the Acoustical Society of America • Acta Acustica • ZAMP • Ultrasonics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Grant Reviewer:&lt;/strong&gt; EPSRC • Royal Society&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Editorial Board:&lt;/strong&gt; Guest Editor, Wave Motion (Special Issue on Ultrasonic Measurements, 2022)&lt;/p&gt;
+&lt;h3 id=&#34;leadership--organization&#34;&gt;Leadership &amp;amp; Organization&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Institut Henri Poincaré Workshop on Waves in Complex Media&lt;/strong&gt; | Organizer | 2025&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute Workshop on Wave Scattering&lt;/strong&gt; | Organizer | 2023&lt;br&gt;
+An international workshop bringing together physicists, mathematicians, and engineers working on the Theory of Wave Scattering in Complex and Random Media.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Beam Challenge Hackathon, INI Winter School&lt;/strong&gt; | Organizer | 2023&lt;br&gt;
+Prepared and ran a hackathon for 30 PhD students called the Beam Challenge at the Multiple Scattering Winter School.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Metamaterials Network Early Career Group&lt;/strong&gt; | Coordinator | 2021—2022&lt;br&gt;
+Organised a grant writing workshop, and selected and funded early career researchers to join the Metamaterials workshop CISM 2021.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Graduate Modelling Camp&lt;/strong&gt; | Mentor | 2021&lt;br&gt;
+Set an industrial mathematics problem for a group of students from across the UK and Ireland and acted as their mentor for 4 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mini-Symposium on Ultrasonic Waves in Solids&lt;/strong&gt; | Organizer | 2021&lt;br&gt;
+This mini-symposium was part of the BAMC.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UK Acoustics Network Early Career Group&lt;/strong&gt; | Coordinator | 2018—2020&lt;br&gt;
+Main accomplishments: two summer schools to train early career acousticians and a workshop on academic-industrial collaboration.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stokes Modelling Workshop&lt;/strong&gt; | Mentor | 2020&lt;br&gt;
+Set an industrial mathematics problem for a group of students from across Ireland and acted as their mentor for 4 days.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constitutive Behaviour of Soft Tissues&lt;/strong&gt; | Co-organiser | September 2016&lt;br&gt;
+A workshop on the state-of-the-art in constitutive modelling of soft tissues.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Joint Symposium: Irish Mechanics Society and Irish Society for Scientific Engineering &amp;amp; Computation&lt;/strong&gt; | Co-organiser | November 2014&lt;br&gt;
+An annual international mechanics conference.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Irish Applied Maths Research Students&amp;rsquo; Meeting&lt;/strong&gt; | Co-organiser | October 2014&lt;br&gt;
+Organized by the SIAM student chapter, this was the first meeting of postgraduates working in applied mathematics across Ireland.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Stokes Modelling Workshop&lt;/strong&gt; | Co-organiser | June 2014&lt;br&gt;
+A modelling workshop to solve problems brought by industry, in the same style as the European Study Groups with Industry.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;selected-invited-talks&#34;&gt;Selected Invited Talks&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2023&lt;/strong&gt; | &lt;em&gt;Changing references in non-linear elasticity&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Isaac Newton Institute, Multiple Scattering Workshop&lt;/strong&gt; | 2023&lt;br&gt;
+&lt;em&gt;Numerically validating effective waves&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BAMC 2022&lt;/strong&gt; | &lt;em&gt;Ultrasonic measurement of stress without material constants&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICMS Wavinar&lt;/strong&gt; | 2021 | &lt;em&gt;Ensemble average waves in random materials&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acoustical Society of America, Polydisperse Materials Session&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;EMAT Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warwick Applied Mathematics Seminar&lt;/strong&gt; | 2021&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;UCL Applied Mathematics Seminar&lt;/strong&gt; | 2020&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ICIAM 2019&lt;/strong&gt; | &lt;em&gt;Waves in multiple-scattering media&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;public-engagement--outreach&#34;&gt;Public Engagement &amp;amp; Outreach&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Online Talks to Schools&lt;/strong&gt; | 2020—2025&lt;br&gt;
+Developed and delivered interactive talks to schools across the UK&lt;br&gt;
+&lt;em&gt;Reach: ∼2,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | November 2022&lt;br&gt;
+Helped run stand and provided equipment (ExCeL London)&lt;br&gt;
+&lt;em&gt;Reach: &amp;gt;30,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;STEM for Girls&lt;/strong&gt; | March 2022&lt;br&gt;
+Organised and ran stand with equipment and team (Octagon Centre, Sheffield)&lt;br&gt;
+&lt;em&gt;Reach: 300 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bradford Science Festival&lt;/strong&gt; | October 2021&lt;br&gt;
+Organised and ran stand with equipment and team (Bradford Science Museum)&lt;br&gt;
+&lt;em&gt;Reach: 10,000 people&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;24hr Inspire for Life&lt;/strong&gt; | March 2020&lt;br&gt;
+Talk: &amp;ldquo;Sensing the world with sound&amp;rdquo; — science talks raising money for cancer charities&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | October 2019&lt;br&gt;
+Ran and organised multiple acoustics stands including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Acoustic levitation demonstration&lt;/li&gt;
+&lt;li&gt;Earthquake machine structures&lt;/li&gt;
+&lt;li&gt;Ultrahaptics device&lt;/li&gt;
+&lt;li&gt;Medical ultrasound device&lt;br&gt;
+&lt;em&gt;Reach: 30,000+ visitors&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Pint of Science — Sheffield&lt;/strong&gt; | May 2019&lt;br&gt;
+Talk on science to the general public&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;New Scientist Live&lt;/strong&gt; | September 2018&lt;br&gt;
+Demonstrated acoustic levitation and related phenomena over a weekend&lt;br&gt;
+&lt;em&gt;Reach: 30,000+ visitors&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Science Showdown!&lt;/strong&gt; | March 2017&lt;br&gt;
+Talk: &amp;ldquo;How can we measure the invisible: the mathematics of jiggly waves&amp;rdquo;&lt;br&gt;
+Promoted mathematics to wider audience (Manchester)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Science Experience Workshop&lt;/strong&gt; | 2011—2014&lt;br&gt;
+Ran stand on maths and physics puzzles for potential students at university open days&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Maths Enrichment&lt;/strong&gt; | 2014&lt;br&gt;
+Taught two morning sessions preparing students for Irish and International Mathematics Olympiad&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;School Presentation for the School of Science&lt;/strong&gt; | 2011&lt;br&gt;
+Two school visits to engage students about studying science at university&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;This funding is not added to the total as it was paid to the company. The company then used a small portion to pay me as a consultant.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Software &amp; Packages</title>
-      <link>https://arturgower.github.io/project/wave-software/</link>
+      <link>https://arturgower.github.io/project/software-packages/</link>
       <pubDate>Wed, 10 Dec 2025 10:01:38 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/wave-software/</guid>
+      <guid>https://arturgower.github.io/project/software-packages/</guid>
       <description>&lt;h2 id=&#34;packages&#34;&gt;Packages&lt;/h2&gt;
 &lt;p&gt;We write high performing packages, mostly in &lt;a href=&#34;https://julialang.org/&#34; target=&#34;_blank&#34; style=&#34;font-weight: bold;&#34;&gt;Julia&lt;/a&gt;, related to acoustics and elastic waves, and more generally inverse problems from boundary measurements, such as stress and thermal predictions.&lt;/p&gt;
 &lt;hr&gt;
@@ -83,16 +352,51 @@
     </item>
     
     <item>
-      <title>Links to recent outreach events</title>
+      <title>Elastic waves in bearing raceways: the forward and inverse problem</title>
+      <link>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</link>
+      <pubDate>Tue, 02 Sep 2025 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</guid>
+      <description>&lt;p&gt;Turbines are crucial to our energy infrastructure, and ensuring their bearings function with minimal friction while often supporting heavy loads is vital. Vibrations within a bearing can signal the presence of defects, friction or misalignment. However, current detection methods are neither robust nor easy to automate. We propose a more quantitative approach by modelling the elastic waves within bearing raceways. By approximating the raceway as a hollow cylinder, we derive straightforward 4 × 4 systems for its vibrational modes, enabling both forward and inverse problem-solving. We also demonstrate how to significantly reduce the number of required sensors by using a simple prior: the known number of rollers and their angular speed. We present numerical examples showcasing the full recovery of contact traction between bearings and the raceway, as well as the detection of elastic emissions.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outreach talks</title>
       <link>https://arturgower.github.io/talk/outreach/</link>
-      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/talk/outreach/</guid>
       <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Links to recent research talks</title>
+      <title>The elastic stored energy of initially strained, or stressed, materials: restrictions and third-order expansions</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</link>
+      <pubDate>Thu, 27 Feb 2025 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/third-order-initial-stress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acoustic waves in a halfspace material filled with random particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/xqca/</link>
+      <pubDate>Sun, 01 Dec 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/xqca/</guid>
+      <description>&lt;p&gt;Particulate materials include powders, emulsions, composites, and many others. This is why measuring these has become important for both industry and scientific applications. For industrial applications, the greatest need is to measure dense particulates, in-situ, and non-destructively. In theory, this could be achieved with acoustics: the standard method is to send an acoustic wave through the particulate and then attempt to measure the effective wave speed and attenuation. A major obstacle here is that it is not clear how to relate the effective wave speed and attenuation to the reflection and transmission coefficients, which are far easier to measure. This is because it has been very difficult to mathematically account for different background mediums. In this paper, we resolve this obstacle. To help comprehension, we present how to account for different background mediums for a simple case: a halfspace filled with a random particulate, where the background of the halfspace is different from the exterior medium. The key to solving this problem was to derive a systematic extension of a widely used closure approximation: the quasi-crystalline approximation. We present some numerical results to demonstrate that the reflection coefficient can be easily calculated for a broad range of frequencies and particle properties.&lt;/p&gt;
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RMgwe3wfVgQ?si=YtZUbB_HHbrnc5m0&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Introductory talks</title>
+      <link>https://arturgower.github.io/talk/intro/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/intro/</guid>
+      <description>&lt;p&gt;I might try and write talks in MarkDown or something mind like that&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research talks</title>
       <link>https://arturgower.github.io/talk/talk-links/</link>
       <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://arturgower.github.io/talk/talk-links/</guid>
@@ -101,11 +405,70 @@
     </item>
     
     <item>
+      <title>Waves in disordered particles</title>
+      <link>https://arturgower.github.io/talk/ini-effective-waves/</link>
+      <pubDate>Thu, 11 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/ini-effective-waves/</guid>
+      <description>&lt;p&gt;This is an example video talk demonstrating how to embed YouTube videos in your talks section.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/j8Q2V46Slrg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/j8Q2V46Slrg?si=qzW6K0VeIqgT1onh&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;!-- ## Additional Information
+
+You can add more content below the video, such as:
+- Talk abstract
+- Key points
+- Related links
+- References
+
+Replace `dQw4w9WgXcQ` with your actual YouTube video ID. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective T-matrix of a cylinder filled with a random two-dimensional particulate</title>
+      <link>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</link>
+      <pubDate>Sun, 30 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/effective-t-matrix/</guid>
+      <description>&lt;p&gt;When a wave, such as sound or light, scatters within a densely packed particulate, it can be rescattered many times between the particles, which is called multiple scattering. Multiple scattering can be unavoidable when trying to use sound waves to measure a dense particulate, such as a composite with reinforcing fibres. Here, we solve from first principles multiple scattering of scalar waves, including acoustic, for any frequency from a set of two-dimensional particles confined in a circular area. This case has not been solved yet, and its solution is important to perform numerical validation, as particles within a cylinder require only a finite number of particles to perform direct numerical simulations. The method we use involves ensemble averaging over particle configurations, which leads us to deduce an effective T-matrix for the whole cylinder, which can be used to easily describe the scattering from any incident wave. In the specific case when the particles are monopole scatterers, the expression of this effective T-matrix simplifies and reduces to the T-matrix of a homogeneous cylinder with an effective wavenumber⁠. To validate our theoretical predictions, we develop an efficient Monte Carlo method and conclude that our theoretical predictions are highly accurate for a broad range of frequencies.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The average transmitted wave in random particulate materials</title>
+      <link>https://arturgower.github.io/publication/complex-materials/average-transmitted/</link>
+      <pubDate>Thu, 27 Jun 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/average-transmitted/</guid>
+      <description>&lt;p&gt;Microwave remote sensing is significantly altered when passing through clouds or dense ice. This phenomenon is not unique to microwaves; for instance, ultrasound is also disrupted when traversing through heterogeneous tissues. Understanding the average transmission in particle-filled environments is central to improve data extraction or even to create materials that can selectively block or absorb certain wave frequencies. Most methods that calculate the average transmitted field assume that it satisfies a wave equation with a complex effective wavenumber. However, recent theoretical work has predicted more than one effective wave propagating even in a material which is statistically isotropic and for scalar waves. In this work we provide the first clear evidence of these predicted multiple effective waves by using high-fidelity Monte-Carlo simulations that do not make any statistical assumptions. To achieve this, it was necessary to fill in a missing link in the theory for particulate materials: we prove that the incident wave does not propagate within the material, which is usually taken as an assumption called the Ewald–Oseen extinction theorem. By proving this we conclude that the extinction length—the distance it takes for the incident wave to be extinct—is equal to the correlation length between the particles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Universality of the angled shear wave identity in soft viscous solids</title>
+      <link>https://arturgower.github.io/publication/nonlinear-elasticity/universal-angled-shear/</link>
+      <pubDate>Mon, 27 May 2024 19:51:12 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/nonlinear-elasticity/universal-angled-shear/</guid>
+      <description>&lt;p&gt;Mechanical stress within biological tissue can indicate an anomaly, or can be vital of its function, such as stresses in arteries. Measuring these stresses in tissue is challenging due to the complex, and often unknown, nature of the material properties. Recently, a method called the angled shear wave identity was proposed to predict the stress by measuring the speed of two small amplitude shear waves. The method does not require prior knowledge of the material’s constitutive law, making it ideal for complex biological tissues. We extend this method, and the underlying identity, to include viscous dissipation, which can be significant for biological tissues. To generalise the identity, we consider soft viscoelastic solids described by a generalised Newtonian viscous stress, and account for transverse isotropy, a feature that is common in muscle tissue, for instance. We then derive the dispersion relationship for small-amplitude shear waves superimposed on a large static deformation. Similarly to the elastic case, the identity is recovered when the stress in the material is coaxial with the transverse anisotropy. A key result in this paper is that to predict the stress in a viscous material one would need to measure the wave attenuation as well as the wave speed. The case of viscoelastic materials with memory is also discussed.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Calculating pair-correlations from random particle configurations</title>
+      <link>https://arturgower.github.io/publication/complex-materials/pair-correlations/</link>
+      <pubDate>Tue, 02 Jan 2024 17:43:29 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/pair-correlations/</guid>
+      <description>&lt;p&gt;Particle pair-correlations are broadly used to describe particle distributions in chemistry, physics, and material science. Many theoretical methods require the pair-correlation to predict material properties such as fluid flow, thermal properties, or wave propagation. In all these applications it is either important to calculate a pair-correlation from specific particle configurations, or vice-versa: determine the likely particle configurations from a pair-correlation which is needed to fabricate a particulate material. Most available methods to calculate the pair-correlation from a particle configuration require that the configuration be very large to avoid effects from the boundary. Here we show how to avoid boundary effects even for small particle configurations. Having small particle configurations leads to far more efficient numerical methods. We also demonstrate how to use techniques from smooth nonlinear optimisation to quickly recover a particle configuration from a pair-correlation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A model to validate effective waves in random particulate media: spherical symmetry</title>
       <link>https://arturgower.github.io/publication/complex-materials/radial-effective/</link>
       <pubDate>Thu, 02 Nov 2023 17:43:29 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/complex-materials/radial-effective/</guid>
-      <description>&lt;p&gt;Measuring the in-plane mechanical stress in a taut membrane is challenging, especially if its material parameters are unknown or altered by the stress. Yet being able to measure the stress is of fundamental interest to basic research and practical applications that use soft membranes, from engineering to tissues. Here, we present a robust non-destructive technique to measure directly in-situ stress and strain in soft thin films without the need to calibrate material parameters. Our method relies on measuring the speed of elastic waves propagating in the film. Using optical coherence tomography, we verify our method experimentally for a stretched rubber membrane, a piece of cling film (about 10 μm thick), and the leather skin of a traditional Irish frame drum. We find that our stress predictions are highly accurate and anticipate that our technique could be useful in applications ranging from soft matter devices to biomaterial engineering and medical diagnosis.&lt;/p&gt;
+      <description>&lt;p&gt;There has not been a satisfying numerical validation of the theory of effective waves in random particulate materials. Validation has been challenging because the theoretical methods for effective waves have been limited to random particulate media in infinite slabs or half-spaces, which require a very large number of particles to perform accurate numerical simulations. This paper offers a solution by providing, from first principles, a method to calculate effective waves for a sphere filled with particles for a spherically symmetric incident wave. We show that this case can excite exactly the same effective wavenumbers, which are the most important feature to validate for effective waves. To check correctness, we also deduce an integral equation method which does not assume the effective wave solution. Our methods are, in principal, valid for any frequency, particle volume fraction and disordered pair-correlation. With the methods we provide, it is now possible to validate, with a heavier Monte Carlo simulation, the predictions from effective wave theory.&lt;/p&gt;
 </description>
     </item>
     
@@ -158,15 +521,6 @@
     Shows the average scattering of a harmonic wave according to the effective waves theory.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An ultrasonic method to measure stress without calibration: The angled shear wave method</title>
-      <link>https://arturgower.github.io/publication/angled-ultrasonic-stress/</link>
-      <pubDate>Tue, 02 Feb 2021 17:43:29 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/angled-ultrasonic-stress/</guid>
-      <description>&lt;p&gt;Measuring stress levels in loaded structures is crucial to assess and monitor structure health and to predict the length of remaining structural life. Many ultrasonic methods are able to accurately predict in-plane stresses inside a controlled laboratory environment but struggle to be robust outside, in a real-world setting. That is because these methods rely either on knowing beforehand the material constants (which are difficult to acquire) or require significant calibration for each specimen. This paper presents an ultrasonic method to evaluate the in-plane stress in situ directly, without knowing any material constants. The method is simple in principle, as it only requires measuring the speed of two angled shear waves. It is based on a formula that is exact for incompressible solids, such as soft gels or tissues, and is approximately true for compressible hard solids, such as steel and other metals.&lt;/p&gt;
 </description>
     </item>
     
@@ -342,23 +696,25 @@
 &lt;!-- See below for funded PhD opportunities. --&gt;
 &lt;h2 id=&#34;phd-positions&#34;&gt;PhD positions&lt;/h2&gt;
 &lt;p&gt;If you like physics, maths, and programming, and want to work on exciting engineering and physics challenges, then please get in touch.&lt;/p&gt;
-&lt;p&gt;There are currently three available funded PhD positions:&lt;/p&gt;
+&lt;p&gt;When there are funded positions they will be made availabe on
+&lt;a href=&#34;https://sheffield.ac.uk/mac/phd/projects&#34;&gt;sheffield.ac.uk/mac/phd/projects&lt;/a&gt;, which includes projects from the whole school of Mechanical, Aerospace and Civil engineering. My projects are also advertised on &lt;a href=&#34;https://www.jobs.ac.uk/&#34;&gt;jobs.ac.uk&lt;/a&gt; and &lt;a href=&#34;https://www.findaphd.com/&#34;&gt;FindAPhd&lt;/a&gt;. Some example PhD projects from the past are shown below.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/PhDStudentshipInWaveScattering.pdf&#34;&gt;Sensing particles&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;../../../pdf/UltrasonicWavesPhDFunding.pdf&#34;&gt;Waves or solid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;../../../pdf/phd-fluids-sheffield.pdf&#34;&gt;Fluid mechanics PhD position&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;!-- [click here to apply](https://www.sheffield.ac.uk/mecheng/phd/applying), but  --&gt;
 &lt;p&gt;Am happy to discuss other potential PhD projects within the themes:&lt;/p&gt;
+&lt;!-- - [Modelling Waves in Complex Materials](#modelling) --&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#modelling&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/project/inverse-problems/&#34;&gt;Inverse Problems&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#particulates&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://arturgower.github.io/post/work-with-me/#elastic-waves&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;modelling-waves-in-complex-materials&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Modelling Waves in Complex Materials&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.&lt;/p&gt;
-&lt;p&gt;This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to &lt;strong&gt;control waves&lt;/strong&gt;, and use waves to &lt;strong&gt;sense and monitor complex material&lt;/strong&gt;. See &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.
+&lt;!-- &lt;a name=&#34;modelling&#34;&gt;&lt;/a&gt; --&gt;
+&lt;!-- ### [Modelling Waves in Complex Materials](../../project/complex-materials/)
+
+Thousands of years ago, early Mesopotamian people discovered that a mixture of mud and straw creates strong durable buildings, what we call today a composite material. Today composite materials, and similarly complex fluids, have enabled amazing advances in areas including: aerospace, automobile, food science, communications technology, biotechnology.
+
+This project focuses on waves (like sound, radio, light, and vibrations) interacting with these complex materials. Developing mathematical models of this interaction has two exciting goals: design the next generation of materials to **control waves**, and use waves to **sense and monitor complex material**. See [Waves in Complex Materials](../../project/complex-materials/) for more details.
 
 
 
@@ -404,19 +760,19 @@
   
   
   
-&lt;/div&gt;&lt;/p&gt;
-&lt;p&gt;Main skills:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Classical mechanics&lt;/li&gt;
-&lt;li&gt;Signal processing&lt;/li&gt;
-&lt;li&gt;Multivariable calculus&lt;/li&gt;
-&lt;li&gt;Mathematical modelling&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/div&gt;
+
+Main skills:
+
+- Classical mechanics
+- Signal processing   
+- Multivariable calculus
+- Mathematical modelling --&gt;
 &lt;p&gt;&lt;a name=&#34;particulates&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;wave-scattering-from-particulates&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Scattering from Particulates&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Under close inspection, many natural and synthetic materials are composed of small randomly distributed particles. This is why
 techniques to measure and predict these particle properties are important in many areas of science and engineering. Waves, either mechanical (like sound) or electromagnetic, are an excellent choice to probe particles because they can be non-invasive and energy efficient.&lt;/p&gt;
-&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;../../project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;This project focuses on using, and developing, simulations of waves (like sound, radio, light, and vibrations) in particulate materials. The main goal is gain &lt;strong&gt;insight into the physics&lt;/strong&gt; and validate &lt;strong&gt;theoretical models&lt;/strong&gt;, though these simulations are very flexible, see &lt;a href=&#34;https://arturgower.github.io/project/software-packages/&#34;&gt;Wave Software&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/complex-materials/&#34;&gt;Waves in Complex Materials&lt;/a&gt; for more details.&lt;/p&gt;
 
 
 
@@ -454,9 +810,9 @@ techniques to measure and predict these particle properties are important in man
 &lt;li&gt;Mathematical modelling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;a name=&#34;elastic-waves&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&#34;elastic-wave-propagation&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Elastic wave propagation&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;We have built a world primarily out of steel, concrete, and other stiff solids. How well these structures endure depends on the tension and strains they are under, which are closely related to the material&amp;rsquo;s elastic behaviour. This is why elastic waves, such as vibrations, are an ideal choice to test the stress and strength of materials.&lt;/p&gt;
-&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;../../project/ultrasonics/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;https://arturgower.github.io/project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Projects in this theme will focus modelling and predicting a range of elastic waves (shear, surface, and compressional) in solids, such as steel under stress. For more details see &lt;a href=&#34;https://arturgower.github.io/project/acoustic-elastic/&#34;&gt;Surface Waves&lt;/a&gt; and &lt;a href=&#34;../../project/elasticity/&#34;&gt;Elastic materials under stress&lt;/a&gt;.&lt;/p&gt;
 
 
 
@@ -542,35 +898,80 @@ techniques to measure and predict these particle properties are important in man
 
 &lt;/figure&gt;
  --&gt;
-&lt;h2 id=&#34;stress---strain&#34;&gt;Stress - strain&lt;/h2&gt;
+&lt;p&gt;Using both classical inverse methods and regularisation, as well as Bayesian methods to quantify the certainty.&lt;/p&gt;
+&lt;h2 id=&#34;boundary-measurements&#34;&gt;Boundary measurements&lt;/h2&gt;
+&lt;p&gt;Limited amount of information or measurements on the boundary of an object, what is inside?&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/one-load-bearing-time-pressure.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/one-load-bearing-time-pressure.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/time-point-pressure-2.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/time-point-pressure-2.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/bearings-with-prior-traction.gif&#34; &gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/bearings-with-prior-traction.gif&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;method-of-fundamental-solutions&#34;&gt;Method of Fundamental Solutions&lt;/h2&gt;
 &lt;p&gt;See &amp;hellip; for predicting stress and strain from boundary measurements.&lt;/p&gt;
-&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
-&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
-&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
-&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
-&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
-&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
-&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
 </description>
     </item>
     
@@ -1552,10 +1953,10 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
     </item>
     
     <item>
-      <title>Elastic materials</title>
-      <link>https://arturgower.github.io/project/elasticity/</link>
+      <title>Elastic &amp; acoustic waves</title>
+      <link>https://arturgower.github.io/project/acoustic-elastic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://arturgower.github.io/project/elasticity/</guid>
+      <guid>https://arturgower.github.io/project/acoustic-elastic/</guid>
       <description>&lt;p&gt;Our work covers&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Elastic waves, including vibration and ultrasonics&lt;/li&gt;
@@ -1565,28 +1966,33 @@ On the right we see the estimated planar curvature &amp;alpha; and vertical curv
 &lt;h2 id=&#34;linear-elastic-waves&#34;&gt;Linear elastic waves&lt;/h2&gt;
 &lt;p&gt;Linear elastic waves cover ultrasonics, and are used to make measurements and assess materials. Work in this includes methods to measure stress through changes in wave-speed with applications in &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/&#34;&gt;steel and hard solids&lt;/a&gt;, &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/ultrasound-stress/&#34;&gt;medical ultrasound&lt;/a&gt;, and measuring &lt;a href=&#34;https://arturgower.github.io/publication/elastic-waves/thin-stress-2022/&#34;&gt;extremely thin membranes&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Another theme is use elastic waves in more complex geometries to measure shape changes as well as sources and stress. Our first paper on the theme &amp;hellip;&lt;/p&gt;
-&lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
-&lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
-&lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
-  &lt;figcaption&gt;
-    This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
-  &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;h2 id=&#34;instability-patterns&#34;&gt;instability patterns&lt;/h2&gt;
-&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;h2 id=&#34;ultrasonics&#34;&gt;Ultrasonics&lt;/h2&gt;
+&lt;p&gt;Ultrasonics, and elastic waves, are ideal to monitor and measure materials soft and hard. Elastic waves travel through materials without altering their properties, and are sensitive to changes in mechanical properties. The complexity of elastic waves has benefits and drawbacks.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
-&lt;li&gt;Use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;li&gt;Benefits: their complexity makes them versatile, allowing them to travel over great distances as a compact signal, or sweep wide areas quickly along surfaces and interfaces.&lt;/li&gt;
+&lt;li&gt;Drawbacks: accurate interpretation of ultrasonic waves requires the use of mathematical models, signal processing techniques, and computer codes, which can be time-consuming.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;p&gt;The motivations to work on ultrasonics include:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Non-destructive testing&lt;/em&gt;. Ultrasonic methods are commonly used in non-destructive testing (NDT) applications, such as inspecting welds, detecting cracks in materials, and evaluating the integrity of structures. Mathematical models can help us develop new NDT methods that are more accurate, efficient, and reliable, by predicting how ultrasonic waves behave in different materials and under different conditions.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Medical applications&lt;/em&gt;. A technique called shear wave elastography uses a standard ultrasound machine (with a high frame-rate) to produce and visualise elastic shear waves propagating in soft tissue. We use mathematical models to understand what these shear waves can tell us, and how best to generate these shear waves.&lt;/p&gt;
+&lt;p&gt;Below we discuss some examples.&lt;/p&gt;
+&lt;h2 id=&#34;point-impact-on-a-surface&#34;&gt;Point impact on a surface&lt;/h2&gt;
+&lt;p&gt;When an anisotropic solid is hit at one point, the solid will react by sending waves out in all directions. Because the solid is anisotropic, these waves travel at different speeds in different directions, which creates unique patterns.&lt;/p&gt;
 &lt;figure class=&#34;alignright&#34;&gt;
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A wrinkle instability on the surface of a solid.&#34;&gt;
-&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; data-caption=&#34;illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/WaveFront.jpeg&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
   &lt;figcaption&gt;
-    A wrinkle instability on the surface of a solid.
+    illustrates how to calculate the surface wave front (red), after one second, from the surface wave speed (green). That is, the length of v is equal to the speed of the surface wave travelling in the v direction. The blue shading shows how overlapping plane waves form the wave front.
   &lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; data-caption=&#34;illustrates how overlapping body waves (blue) creates the resulting wave front (red).&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/BodyWaveFrontTrack.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    illustrates how overlapping body waves (blue) creates the resulting wave front (red).
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;The work I have done on plane surface waves can be used to predict the result of these point impacts, among other applications.&lt;/p&gt;
 </description>
     </item>
     
@@ -1629,6 +2035,92 @@ img {
 &lt;/figure&gt;
 &lt;h4 id=&#34;detecting-small-geometric-faults-on-a-wing&#34;&gt;&lt;a href=&#34;https://arturgower.github.io/publication/industry/geometric-faults/&#34;&gt;Detecting small geometric faults on a wing&lt;/a&gt;&lt;/h4&gt;
 &lt;p&gt;How to detect faults smaller than the measurement error? We used concepts from compact sensing and optimisation.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measure stress using shear waves</title>
+      <link>https://arturgower.github.io/talk/shearwave-identity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/shearwave-identity/</guid>
+      <description>&lt;!-- ## Additional Information
+
+You can add more content below the video, such as:
+- Talk abstract
+- Key points
+- Related links
+- References
+
+Replace `dQw4w9WgXcQ` with your actual YouTube video ID. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Need robots in sewers</title>
+      <link>https://arturgower.github.io/talk/robots-sewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/robots-sewers/</guid>
+      <description>&lt;!-- ## Additional Information
+
+You can add more content below the video, such as:
+- Talk abstract
+- Key points
+- Related links
+- References
+
+Replace `dQw4w9WgXcQ` with your actual YouTube video ID. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Nonlinear Elasticity</title>
+      <link>https://arturgower.github.io/project/nonlinear-elasticity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/project/nonlinear-elasticity/</guid>
+      <description>&lt;p&gt;Our work covers&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Constitutive theory of nonlinear elastic materials, which is mostly applied in soft tissue biomechanics&lt;/li&gt;
+&lt;li&gt;Coupling soft-tissue stress with instability patterns and elastic waves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;initially-stressed-solids&#34;&gt;Initially stressed solids&lt;/h2&gt;
+&lt;p&gt;The driving question is how to mathematically describe the mechanical response of residually stressed solids? Our main contribution has been revealing a new symmetry, a result from conservation of energy, that restricts the possible mechanical responses. The image at the top of this page shows arrows which indicate the direction of the residual stress of a thick tube. The material is in equilibrium.&lt;/p&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; data-caption=&#34;This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/gifs/ball.gif&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    This is what happens when you cut a residually stressed elastic rubber ball. The movement is powered by the release of the residual stress.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;h2 id=&#34;instability-patterns&#34;&gt;Instability patterns&lt;/h2&gt;
+&lt;p&gt;Most biological materials (and industrial) are reinforced with stiff fibres or are under tension. I figure out how these mechanisms influence elastic surface waves and the formation of surface wrinkles. The main reasons to do this are&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Will give us greater control over surface waves or forming textured surfaces (using surface wrinkles).&lt;/li&gt;
+&lt;li&gt;Use these surface waves and surface wrinkles to measure biological materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&#34;alignright&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; data-caption=&#34;A wrinkle instability on the surface of a solid.&#34;&gt;
+&lt;img src=&#34;https://arturgower.github.io/img/surface-wave.jpeg&#34; alt=&#34;&#34; width=&#34;60%&#34; &gt;&lt;/a&gt;
+  &lt;figcaption&gt;
+    A wrinkle instability on the surface of a solid.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>QCA with boundaries</title>
+      <link>https://arturgower.github.io/talk/qca-summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/talk/qca-summary/</guid>
+      <description>&lt;!-- ## Additional Information
+
+You can add more content below the video, such as:
+- Talk abstract
+- Key points
+- Related links
+- References
+
+Replace `dQw4w9WgXcQ` with your actual YouTube video ID. --&gt;
 </description>
     </item>
     

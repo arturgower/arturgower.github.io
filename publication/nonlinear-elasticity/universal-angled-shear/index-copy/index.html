@@ -1,0 +1,1013 @@
+<!DOCTYPE html>
+<html lang="en-gb">
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=36069&amp;path=livereload" data-no-instant defer></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="generator" content="Source Themes Academic 4.5.0">
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Art L Gower">
+
+  
+  
+  
+    
+  
+  <meta name="description" content="Mechanical stress in tissue is important but hard to measure. The angled shear wave identity (ASWI) estimates stress from shear-wave speeds without needing a constitutive model. This work extends ASWI to viscous and anisotropic tissues, deriving the relevant dispersion relations and showing that stress recovery in viscous media requires measuring both wave speed and attenuation. The extension to materials with memory is also discussed.">
+
+  
+  <link rel="alternate" hreflang="en-gb" href="http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/">
+
+  
+
+
+  
+  
+  
+  <meta name="theme-color" content="rgb(0, 136, 204)">
+  
+
+  
+  
+  
+  
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
+
+    
+    
+    
+      
+    
+    
+      
+      
+        
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" crossorigin="anonymous" title="hl-light" disabled>
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/dracula.min.css" crossorigin="anonymous" title="hl-dark">
+        
+      
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.css" integrity="sha256-SHMGCYmST46SoyGgo4YR/9AlK1vf3ff84Aq9yK4hdqM=" crossorigin="anonymous">
+    
+
+    
+
+  
+
+  
+  
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:600,600%7CUbuntu:400,400italic,700%7CUbuntu+Mono&display=swap">
+  
+
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/academic.css">
+
+  
+
+
+
+
+  
+
+
+  
+
+  <link rel="manifest" href="/index.webmanifest">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+
+  <link rel="canonical" href="http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/">
+
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary">
+  
+  <meta property="twitter:site" content="@arturgower">
+  <meta property="twitter:creator" content="@arturgower">
+  
+  <meta property="og:site_name" content="Art L Gower">
+  <meta property="og:url" content="http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/">
+  <meta property="og:title" content="Universality of the angled shear wave identity in soft viscous solids | Art L Gower">
+  <meta property="og:description" content="Mechanical stress in tissue is important but hard to measure. The angled shear wave identity (ASWI) estimates stress from shear-wave speeds without needing a constitutive model. This work extends ASWI to viscous and anisotropic tissues, deriving the relevant dispersion relations and showing that stress recovery in viscous media requires measuring both wave speed and attenuation. The extension to materials with memory is also discussed."><meta property="og:image" content="http://localhost:36069/img/icon-192.png">
+  <meta property="twitter:image" content="http://localhost:36069/img/icon-192.png"><meta property="og:locale" content="en-gb">
+  
+    
+      <meta property="article:published_time" content="2024-05-27T19:51:12&#43;00:00">
+    
+    <meta property="article:modified_time" content="2024-05-27T19:51:12&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/"
+  },
+  "headline": "Universality of the angled shear wave identity in soft viscous solids",
+  
+  "datePublished": "2024-05-27T19:51:12Z",
+  "dateModified": "2024-05-27T19:51:12Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Harold Berjamin"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Art L Gower",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:36069/img/icon-512.png"
+    }
+  },
+  "description": "Mechanical stress in tissue is important but hard to measure. The angled shear wave identity (ASWI) estimates stress from shear-wave speeds without needing a constitutive model. This work extends ASWI to viscous and anisotropic tissues, deriving the relevant dispersion relations and showing that stress recovery in viscous media requires measuring both wave speed and attenuation. The extension to materials with memory is also discussed."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
+  
+
+
+
+
+
+  <title>Universality of the angled shear wave identity in soft viscous solids | Art L Gower</title>
+
+</head>
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="dark">
+
+  <aside class="search-results" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search">
+        
+      </div>
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+  
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main">
+  <div class="container">
+
+    
+      <a class="navbar-brand" href="/">Art L Gower</a>
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar" aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
+        <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+    
+    <div class="collapse navbar-collapse" id="navbar">
+
+      
+      
+      <ul class="navbar-nav mr-auto">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#about"><span>Home</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#projects"><span>Projects</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#talks"><span>Talks</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/post/work-with-me"><span>Work with me</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+        
+        
+        
+        
+        
+          
+          
+          
+            
+          
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+      </ul>
+      <ul class="navbar-nav ml-auto">
+      
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+
+        
+        <li class="nav-item">
+          <a class="nav-link js-dark-toggle" href="#"><i class="fas fa-moon" aria-hidden="true"></i></a>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </div>
+</nav>
+
+
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Universality of the angled shear wave identity in soft viscous solids</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/harold-berjamin/">Harold Berjamin</a></span>, <span><a href="/authors/artur-l.-gower/">Artur L. Gower</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="/pdf/1-s2.0-S2352431624000191-main.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/acoustic-elastic/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="/project/nonlinear-elasticity/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.eml.2024.102139" target="_blank" rel="noopener">
+    
+    Paper
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Mechanical stress in tissue is important but hard to measure. The angled shear wave identity (ASWI) estimates stress from shear-wave speeds without needing a constitutive model. This work extends ASWI to viscous and anisotropic tissues, deriving the relevant dispersion relations and showing that stress recovery in viscous media requires measuring both wave speed and attenuation. The extension to materials with memory is also discussed.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#2">
+              Journal article
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">Extreme Mechanics Letters</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"><p>Mechanical stress within biological tissue can indicate an anomaly, or can be vital of its function, such as stresses in arteries. Measuring these stresses in tissue is challenging due to the complex, and often unknown, nature of the material properties. Recently, a method called the angled shear wave identity was proposed to predict the stress by measuring the speed of two small amplitude shear waves. The method does not require prior knowledge of the material’s constitutive law, making it ideal for complex biological tissues. We extend this method, and the underlying identity, to include viscous dissipation, which can be significant for biological tissues. To generalise the identity, we consider soft viscoelastic solids described by a generalised Newtonian viscous stress, and account for transverse isotropy, a feature that is common in muscle tissue, for instance. We then derive the dispersion relationship for small-amplitude shear waves superimposed on a large static deformation. Similarly to the elastic case, the identity is recovered when the stress in the material is coaxial with the transverse anisotropy. A key result in this paper is that to predict the stress in a viscous material one would need to measure the wave attenuation as well as the wave speed. The case of viscoelastic materials with memory is also discussed.</p>
+</div>
+
+    
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/acousto-elasticity/">acousto-elasticity</a>
+  
+  <a class="badge badge-light" href="/tags/initial-stress/">initial stress</a>
+  
+  <a class="badge badge-light" href="/tags/visco-elasticity/">visco-elasticity</a>
+  
+  <a class="badge badge-light" href="/tags/elastic-waves/">elastic-waves</a>
+  
+</div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/&amp;text=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/&amp;t=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids&amp;body=http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/&amp;title=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids%20http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http://localhost:36069/publication/nonlinear-elasticity/universal-angled-shear/index-copy/&amp;title=Universality%20of%20the%20angled%20shear%20wave%20identity%20in%20soft%20viscous%20solids" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+  
+  
+
+
+
+
+
+
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/harold-berjamin/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/elastic-waves/ultrasound-stress/">Noninvasive measurement of local stress inside soft materials with programmed shear waves</a></li>
+      
+      <li><a href="/publication/elastic-waves/angled-ultrasonic-stress/">An ultrasonic method to measure stress without calibration: The angled shear wave method</a></li>
+      
+      <li><a href="/publication/nonlinear-elasticity/stress-objectivity/">A new restriction for initially stressed elastic solids</a></li>
+      
+      <li><a href="/publication/nonlinear-elasticity/homeostasis-stress/">On residual stresses and homeostasis: an elastic theory of functional adaptation in living matter</a></li>
+      
+      <li><a href="/publication/nonlinear-elasticity/acousto-elasticity/">Counter-intuitive results in acousto-elasticity</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
+</div>
+
+      
+
+    
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js" integrity="sha256-yt2kYMy0w8AbtF89WXb2P1rfjcP/HTHLT7097U8Y5b8=" crossorigin="anonymous"></script>
+
+      
+
+      
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js" integrity="sha256-1zu+3BnLYV9LdiY85uXMzii3bdrkelyp37e0ZyTAQh0=" crossorigin="anonymous"></script>
+        
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+        
+      
+
+      
+      
+    
+
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.5.1/leaflet.js" integrity="sha256-EErZamuLefUnbMBQbsEqu1USa+btR2oIlCpBJbyD4/g=" crossorigin="anonymous"></script>
+    
+
+    
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+    
+
+    
+    
+    
+    
+    
+    
+    <script>
+      const search_config = {"indexURI":"/index.json","minLength":1,"threshold":0.3};
+      const i18n = {"no_results":"No results found","placeholder":"Search...","results":"results found"};
+      const content_type = {
+        'post': "Posts",
+        'project': "Projects",
+        'publication' : "Publications",
+        'talk' : "Talks"
+        };
+    </script>
+    
+
+    
+    
+
+    
+    
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+      </div>
+    </script>
+    
+
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+    
+    
+    <script src="/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+
+    
+
+
+
+
+
+
+  
+  
+  <div class="container">
+    <footer class="site-footer">
+  
+
+  <p class="powered-by">
+    © 2025 Artur L Gower &middot; 
+    <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
+    
+
+
+    
+    <span class="float-right" aria-hidden="true">
+      <a href="#" class="back-to-top">
+        <span class="button_icon">
+          <i class="fas fa-chevron-up fa-2x"></i>
+        </span>
+      </a>
+    </span>
+    
+  </p>
+</footer>
+
+  </div>
+  
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
