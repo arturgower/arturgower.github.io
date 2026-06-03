@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Solid Mechanics | Art L Gower</title>
+    <title>Solid-Mechanics | Art L Gower</title>
     <link>https://arturgower.github.io/tags/solid-mechanics/</link>
       <atom:link href="https://arturgower.github.io/tags/solid-mechanics/index.xml" rel="self" type="application/rss+xml" />
-    <description>Solid Mechanics</description>
+    <description>Solid-Mechanics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Wed, 10 Dec 2025 10:01:38 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
-      <title>Solid Mechanics</title>
+      <title>Solid-Mechanics</title>
       <link>https://arturgower.github.io/tags/solid-mechanics/</link>
     </image>
     
