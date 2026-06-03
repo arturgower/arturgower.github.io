@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -44,10 +45,10 @@
     <loc>https://arturgower.github.io/authors/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</loc>
+    <loc>https://arturgower.github.io/tags/elastic-waves/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/tags/elastic-waves/</loc>
+    <loc>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/authors/jessica-j-kent/</loc>
@@ -425,9 +426,6 @@
     <loc>https://arturgower.github.io/project/complex-materials/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/publication/industry/umbilical-2/</loc>
-    <lastmod>2016-04-13T20:25:45+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/publication/industry/umbilical/</loc>
     <lastmod>2016-04-13T20:25:45+00:00</lastmod>
   </url><url>
@@ -508,7 +506,11 @@
   </url><url>
     <loc>https://arturgower.github.io/authors/admin/</loc>
   </url><url>
+    <loc>https://arturgower.github.io/authors/a.-melnik/</loc>
+  </url><url>
     <loc>https://arturgower.github.io/tags/acoustics/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/c.-brett/</loc>
   </url><url>
     <loc>https://arturgower.github.io/categories/</loc>
   </url><url>
@@ -517,6 +519,12 @@
     <loc>https://arturgower.github.io/project/acoustic-elastic/</loc>
   </url><url>
     <loc>https://arturgower.github.io/project/industry/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/j.-herterich/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/j.-thompson/</loc>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/k.-katterbauer/</loc>
   </url><url>
     <loc>https://arturgower.github.io/talk/shearwave-identity/</loc>
   </url><url>

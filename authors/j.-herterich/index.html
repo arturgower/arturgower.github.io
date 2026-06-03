@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-gb">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=43357&amp;path=livereload" data-no-instant defer></script>
+<head>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -31,7 +31,7 @@
   <meta name="description" content="Associate Professor in Engineering Mathematics">
 
   
-  <link rel="alternate" hreflang="en-gb" href="http://localhost:43357/authors/j.-herterich/">
+  <link rel="alternate" hreflang="en-gb" href="https://arturgower.github.io/authors/j.-herterich/">
 
   
 
@@ -91,6 +91,44 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-51196017-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-51196017-2', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -102,7 +140,7 @@
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://localhost:43357/authors/j.-herterich/">
+  <link rel="canonical" href="https://arturgower.github.io/authors/j.-herterich/">
 
   
   
@@ -118,26 +156,54 @@
   <meta property="twitter:creator" content="@arturgower">
   
   <meta property="og:site_name" content="Art L Gower">
-  <meta property="og:url" content="http://localhost:43357/authors/j.-herterich/">
+  <meta property="og:url" content="https://arturgower.github.io/authors/j.-herterich/">
   <meta property="og:title" content="J. Herterich | Art L Gower">
-  <meta property="og:description" content="Associate Professor in Engineering Mathematics"><meta property="og:image" content="http://localhost:43357/img/icon-192.png">
-  <meta property="twitter:image" content="http://localhost:43357/img/icon-192.png"><meta property="og:locale" content="en-gb">
+  <meta property="og:description" content="Associate Professor in Engineering Mathematics"><meta property="og:image" content="https://arturgower.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://arturgower.github.io/img/icon-192.png"><meta property="og:locale" content="en-gb">
   
-    <meta property="og:updated_time" content="2012-03-27T12:49:42&#43;00:00">
+    
   
-
-  
-
-
-
-
-  
-
 
   
 
 
 
+
+  
+
+
+  <style>
+ 
+.fullwidth-widget .row {
+  display: block;
+}
+
+.fullwidth-widget .col-12.col-lg-4 {
+  display: none;
+}
+
+.fullwidth-widget .col-12.col-lg-8 {
+  width: 100%;
+  max-width: 100%;
+}
+
+ 
+section#publications.pub-img-large .media.stream-item img {
+  max-width: 280px;
+  width: 280px;
+  height: auto;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 768px) {
+  section#publications.pub-img-large .media.stream-item img {
+    max-width: 180px;
+    width: 180px;
+  }
+}
+
+ 
+</style>
 
 
   <title>J. Herterich | Art L Gower</title>
@@ -309,36 +375,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#talks"><span>Talks</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          <a class="nav-link " href="/#talks-portfolio"><span>Talks</span></a>
         </li>
 
         
@@ -437,17 +474,6 @@
 
     
     
-    
-    <div class="article-widget content-widget-hr">
-      <h3>Latest</h3>
-      <ul>
-        
-        <li>
-          <a href="/publication/waterjet/">Modelling of abrasive waterjet etching</a>
-        </li>
-        
-      </ul>
-    </div>
     
   </div>
 </section>
@@ -551,7 +577,7 @@
     
     
     
-    <script src="/js/academic.min.01f68d44d80310e669a1731b68a35481.js"></script>
+    <script src="/js/academic.min.2aa4c034593508cdbd74f28ff6c19844.js"></script>
 
     
 
@@ -567,7 +593,7 @@
   
 
   <p class="powered-by">
-    © 2025 Artur L Gower &middot; 
+    © 2026 Artur L Gower &middot; 
     <a href="https://gohugo.io" target="_blank" rel="noopener">Hugo</a> 
     
 

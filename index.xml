@@ -139,34 +139,34 @@ University of Sheffield, UK&lt;/p&gt;
 &lt;h2 id=&#34;open-source-software&#34;&gt;Open-Source Software&lt;/h2&gt;
 &lt;p&gt;All packages released under MIT License and available on GitHub.&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Package&lt;/th&gt;
-          &lt;th&gt;Description&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/TrainView.jl&#34;&gt;TrainView.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Camera-on-train odometry modelling&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34;&gt;ElasticWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Elastic wave propagation &amp;amp; scattering simulation&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Multiple scattering simulation and processing&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34;&gt;EffectiveWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Effective wave reflection &amp;amp; transmission&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34;&gt;EntropyGO&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Go influence modelling using entropy maximization&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Package&lt;/th&gt;
+					&lt;th&gt;Description&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/TrainView.jl&#34;&gt;TrainView.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Camera-on-train odometry modelling&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/ElasticWaves.jl&#34;&gt;ElasticWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Elastic wave propagation &amp;amp; scattering simulation&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Multiple scattering simulation and processing&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/JuliaWaveScattering/EffectiveWaves.jl&#34;&gt;EffectiveWaves.jl&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Effective wave reflection &amp;amp; transmission&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/arturgower/EntropyGO&#34;&gt;EntropyGO&lt;/a&gt;&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Go influence modelling using entropy maximization&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
@@ -411,8 +411,8 @@ Two school visits to engage students about studying science at university&lt;/p&
       <guid>https://arturgower.github.io/talk/ini-effective-waves/</guid>
       <description>&lt;p&gt;This is an example video talk demonstrating how to embed YouTube videos in your talks section.&lt;/p&gt;
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/j8Q2V46Slrg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+			&lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/j8Q2V46Slrg?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+		&lt;/div&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/j8Q2V46Slrg?si=qzW6K0VeIqgT1onh&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;
 &lt;!-- ## Additional Information
@@ -1554,57 +1554,6 @@ Caption: the wave reflected from the same complex material can be different each
 &lt;blockquote&gt;
 &lt;p&gt;The average and variation of waves reflected from a variety of complex materials. With only reflected signal (one sensor) we can clearly the affect of the different particulate microstructure.&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal Cable Positioning</title>
-      <link>https://arturgower.github.io/publication/industry/umbilical-2/</link>
-      <pubDate>Wed, 13 Apr 2016 20:25:45 +0000</pubDate>
-      <guid>https://arturgower.github.io/publication/industry/umbilical-2/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;p&gt;A subsea control umbilical is a collection of electrical, fibre optic cables, and fluid conduits bound together.  In offshore oil and gas field developments, umbilicals are critical so they need to be robust and flexible.&lt;/p&gt;
-&lt;p&gt;There is not limit to the number of possible designs that the cables can occupy, so it is not possible to just check them all. Instead, we need to allow, mathematically, these cables to be
-placed any where as long as they do not overlap or break any other given restriction. Naturally this leads us to formulate the problem as an optimisation problem with continuous variables.&lt;/p&gt;
-&lt;!-- 
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure&gt;
-
-
-  &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; &gt;
-&lt;img src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
-
-
-
-&lt;/figure&gt;
- --&gt;
-&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif1.png&#34;/&gt;
-&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif4.png&#34;/&gt;
-#### Figure 1:
- The light green cables are heavy steel cables, darker green are quad cables and the small purple one are fibre optical.  
-&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif3.png&#34;/&gt;
-&lt;img style=&#34;width: 350px; float: right;&#34; alt=&#34;&#34; src=&#34;https://arturgower.github.io/img/cables/OptimalCables2Are=Ste=4Stif2.png&#34;/&gt;
-#### Figure 2:
-On the left we see a design which penalised steel cables touching (as it leads to greater wear and tear).
-&lt;!--
-\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif1}
-\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif4}\\
-$\mathbf{(1)}$ One layer and cost: 11.9 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(2)}$ Two layer and cost: 12.9 $C_{area}^{-1}$
-\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif3}
-\includegraphics[width=0.42\textwidth]{OptimalCables2Are=Ste=4Stif2} \\
-$\mathbf{(3)}$ Two layer and cost: 13.1 $C_{area}^{-1}$ \hspace{.2cm} $\mathbf{(4)}$ Two layer and cost: 13.1 $C_{area}^{-1}$
-} --&gt;
 </description>
     </item>
     
