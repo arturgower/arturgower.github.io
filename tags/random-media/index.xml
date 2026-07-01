@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random Media | Art L Gower</title>
+    <title>Random-Media | Art L Gower</title>
     <link>https://arturgower.github.io/tags/random-media/</link>
       <atom:link href="https://arturgower.github.io/tags/random-media/index.xml" rel="self" type="application/rss+xml" />
-    <description>Random Media</description>
+    <description>Random-Media</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Jan 2024 17:43:29 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
-      <title>Random Media</title>
+      <title>Random-Media</title>
       <link>https://arturgower.github.io/tags/random-media/</link>
     </image>
     
