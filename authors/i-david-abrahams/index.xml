@@ -22,6 +22,9 @@
   &lt;/p&gt;
   &lt;div class=&#34;erratum-box-body&#34;&gt;
     &lt;p&gt;Equation (12) for the T-matrix of a Helmholtz resonator has two sign errors. It should read exactly as Eq. (6): the term proportional to the resonance factor $z(\lambda)$ should have a minus sign, and its exponential should be $\mathrm e^{-\mathrm i(n-p)\theta_0}$. With the wrong sign in front of $z(\lambda)$, the T-matrix would not conserve energy. The wrong sign in the exponent only reverses the direction in which the aperture angle $\theta_0$ is measured. No result in the paper is affected, because the orientation-averaged T-matrix, Eq. (13), and our code in &lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt; both use the correct form, Eq. (6).&lt;/p&gt;
+&lt;p&gt;In addition, the low-frequency expansion, Eq. (29), should read&lt;/p&gt;
+&lt;p&gt;$$h = \frac{1}{2} + \frac{2\mathrm{i}}{\pi (kb)^2} + \frac{4\mathrm{i}}{\pi}\left(\gamma_{\mathrm{e}} + \log\frac{k\ell}{4}\right) - \frac{3\mathrm{i}}{\pi}\left(\gamma_{\mathrm{e}} + \log\frac{kb}{2} + \frac{1}{4}\right) + o(1) \quad \text{as } kb \to 0,$$&lt;/p&gt;
+&lt;p&gt;so that $h \approx 1/2$, not $2$, at resonance; our numerical results use the full formula, Eq. (28), and are unaffected.&lt;/p&gt;
 
   &lt;/div&gt;
 &lt;/div&gt;
