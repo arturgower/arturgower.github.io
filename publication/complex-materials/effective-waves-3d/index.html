@@ -84,6 +84,8 @@
   
   
   
+  
+  
   <link rel="stylesheet" href="/css/academic.css">
 
   
@@ -738,7 +740,18 @@ section#publications.pub-img-large .media.stream-item img {
 
     <div class="space-below"></div>
 
-    <div class="article-style"><p>How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.</p>
+    <div class="article-style"><div class="erratum-box" role="note" aria-label="Erratum">
+  <p class="erratum-box-title"><i class="fas fa-exclamation-circle" aria-hidden="true"></i> Erratum
+  </p>
+  <div class="erratum-box-body">
+    <p>In the <a href="https://arxiv.org/pdf/2010.00934.pdf">pre-print</a>, the T-matrix of a spherical particle, equation (2.8), has a mistake: it is missing derivatives on spherical Bessel functions. The first term of the numerator should contain $\mathrm j_\ell^{\prime}(ka_i)$, not $\mathrm j_\ell(ka_i)$, and the second terms of the numerator and the denominator should contain $\mathrm j_\ell^{\prime}(k_ia_i)$, not $\mathrm j_\ell(k_ia_i)$. The correct T-matrix is</p>
+<p>$$T_n^i = -\frac{\gamma_i \mathrm j_\ell^{\prime}(ka_i) \mathrm j_\ell(k_ia_i) - \mathrm j_\ell(ka_i) \mathrm j_\ell^{\prime}(k_ia_i)}{\gamma_i \mathrm h_\ell^{(1)\prime}(ka_i) \mathrm j_\ell(k_ia_i) - \mathrm h_\ell^{(1)}(ka_i) \mathrm j_\ell^{\prime}(k_ia_i)},$$</p>
+<p>where $\gamma_i = \rho_i k/(\rho k_i)$.</p>
+
+  </div>
+</div>
+
+<p>How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.</p>
 <figure class="alignright">
   <a data-fancybox="" href="/img/gifs/eff-sphere-scatter.gif" data-caption="Shows the average scattering of a harmonic wave according to the effective waves theory.">
 <img src="/img/gifs/eff-sphere-scatter.gif" alt="" width="70%" ></a>
@@ -923,6 +936,9 @@ section#publications.pub-img-large .media.stream-item img {
 
     
     
+    
+    <script src="/js/mathjax-config.js"></script>
+    
 
     
     
@@ -943,6 +959,8 @@ section#publications.pub-img-large .media.stream-item img {
       
 
       
+      
+      <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
 

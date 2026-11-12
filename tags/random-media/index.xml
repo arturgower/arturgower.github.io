@@ -1,16 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Random Media | Art L Gower</title>
+    <title>Random-Media | Art L Gower</title>
     <link>https://arturgower.github.io/tags/random-media/</link>
       <atom:link href="https://arturgower.github.io/tags/random-media/index.xml" rel="self" type="application/rss+xml" />
-    <description>Random Media</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 02 Jan 2024 17:43:29 +0000</lastBuildDate>
+    <description>Random-Media</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
-      <title>Random Media</title>
+      <title>Random-Media</title>
       <link>https://arturgower.github.io/tags/random-media/</link>
     </image>
+    
+    <item>
+      <title>Designing band gaps with randomly distributed sub-wavelength Helmholtz resonators</title>
+      <link>https://arturgower.github.io/publication/complex-materials/helmholtz-band-gaps/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/helmholtz-band-gaps/</guid>
+      <description>&lt;div class=&#34;erratum-box&#34; role=&#34;note&#34; aria-label=&#34;Erratum&#34;&gt;
+  &lt;p class=&#34;erratum-box-title&#34;&gt;&lt;i class=&#34;fas fa-exclamation-circle&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Erratum
+  &lt;/p&gt;
+  &lt;div class=&#34;erratum-box-body&#34;&gt;
+    &lt;p&gt;Equation (12) for the T-matrix of a Helmholtz resonator has two sign errors. It should read exactly as Eq. (6): the term proportional to the resonance factor $z(\lambda)$ should have a minus sign, and its exponential should be $\mathrm e^{-\mathrm i(n-p)\theta_0}$. With the wrong sign in front of $z(\lambda)$, the T-matrix would not conserve energy. The wrong sign in the exponent only reverses the direction in which the aperture angle $\theta_0$ is measured. No result in the paper is affected, because the orientation-averaged T-matrix, Eq. (13), and our code in &lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt; both use the correct form, Eq. (6).&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is well-known that band gaps, in the frequency domain, can be achieved by using periodic metamaterials. However it has been challenging to design materials with broad band gaps or that have multiple overlapping band gaps. For periodic materials this difficulty arises because many different length scales would have to be repeated periodically within the same structure to have multiple overlapping band gaps. Here we present an alternative: to design band gaps with disordered materials. We show how to tailor band gaps by choosing any combination of Helmholtz resonators that are positioned randomly within a host acoustic medium. One key result is that we are able to reach simple formulae for the effective material properties, which work over a broad frequency range, and can therefore be used to rapidly design tailored metamaterials. We show that these formulae are robust by comparing them with high-fidelity Monte Carlo simulations over randomly positioned resonant scatterers.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;demultiplexer.jpg&#34; data-caption=&#34;A frequency demultiplexer made from randomly placed Helmholtz resonators. A plane wave travels from right to left and the waveguide splits in two at $x = 5$ cm. The resonators in the top waveguide (green) filter out wavelengths close to 34.1 mm, while those in the bottom waveguide (magenta) filter out wavelengths close to 41.5 mm. The colours show the amplitude of the total wave, and the graph shows the transmission into each waveguide (Fig. 2 of the paper).&#34;&gt;
+&lt;img src=&#34;demultiplexer.jpg&#34; alt=&#34;Wave fields in two waveguides filled with randomly placed Helmholtz resonators, and a graph of the transmission into each waveguide against wavelength&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A frequency demultiplexer made from randomly placed Helmholtz resonators. A plane wave travels from right to left and the waveguide splits in two at $x = 5$ cm. The resonators in the top waveguide (green) filter out wavelengths close to 34.1 mm, while those in the bottom waveguide (magenta) filter out wavelengths close to 41.5 mm. The colours show the amplitude of the total wave, and the graph shows the transmission into each waveguide (Fig. 2 of the paper).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Calculating pair-correlations from random particle configurations</title>
@@ -35,7 +82,18 @@
       <link>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</link>
       <pubDate>Tue, 02 Feb 2021 18:03:04 +0000</pubDate>
       <guid>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</guid>
-      <description>&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
+      <description>&lt;div class=&#34;erratum-box&#34; role=&#34;note&#34; aria-label=&#34;Erratum&#34;&gt;
+  &lt;p class=&#34;erratum-box-title&#34;&gt;&lt;i class=&#34;fas fa-exclamation-circle&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Erratum
+  &lt;/p&gt;
+  &lt;div class=&#34;erratum-box-body&#34;&gt;
+    &lt;p&gt;In the &lt;a href=&#34;https://arxiv.org/pdf/2010.00934.pdf&#34;&gt;pre-print&lt;/a&gt;, the T-matrix of a spherical particle, equation (2.8), has a mistake: it is missing derivatives on spherical Bessel functions. The first term of the numerator should contain $\mathrm j_\ell^{\prime}(ka_i)$, not $\mathrm j_\ell(ka_i)$, and the second terms of the numerator and the denominator should contain $\mathrm j_\ell^{\prime}(k_ia_i)$, not $\mathrm j_\ell(k_ia_i)$. The correct T-matrix is&lt;/p&gt;
+&lt;p&gt;$$T_n^i = -\frac{\gamma_i \mathrm j_\ell^{\prime}(ka_i) \mathrm j_\ell(k_ia_i) - \mathrm j_\ell(ka_i) \mathrm j_\ell^{\prime}(k_ia_i)}{\gamma_i \mathrm h_\ell^{(1)\prime}(ka_i) \mathrm j_\ell(k_ia_i) - \mathrm h_\ell^{(1)}(ka_i) \mathrm j_\ell^{\prime}(k_ia_i)},$$&lt;/p&gt;
+&lt;p&gt;where $\gamma_i = \rho_i k/(\rho k_i)$.&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;How do you take a reliable measurement of a material whose microstructure is random? When using wave scattering, the answer is often to take an ensemble average (average over time or space). By ensemble averaging we can calculate the average scattered wave and the effective wavenumber. To date, the literature has focused on calculating the effective wavenumber for a plate filled with particles. One clear unanswered question was how to extend this approach to a material of any geometry and for any source. For example, does the effective wavenumber depend on only the microstructure, or also on the material geometry? In this work, we demonstrate that the effective wavenumbers depend on only microstructure, though beyond the long wavelength limit there are multiple effective wavenumbers for one fixed incident frequency. We show how to calculate the average wave scattered from a random particulate material of any shape, and for broad frequency ranges. As an example, we show how to calculate the average wave scattered from a sphere filled with particles.&lt;/p&gt;
 &lt;figure class=&#34;alignright&#34;&gt;
   &lt;a data-fancybox=&#34;&#34; href=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; data-caption=&#34;Shows the average scattering of a harmonic wave according to the effective waves theory.&#34;&gt;
 &lt;img src=&#34;https://arturgower.github.io/img/gifs/eff-sphere-scatter.gif&#34; alt=&#34;&#34; width=&#34;70%&#34; &gt;&lt;/a&gt;

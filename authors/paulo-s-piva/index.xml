@@ -5,12 +5,59 @@
     <link>https://arturgower.github.io/authors/paulo-s-piva/</link>
       <atom:link href="https://arturgower.github.io/authors/paulo-s-piva/index.xml" rel="self" type="application/rss+xml" />
     <description>Paulo S Piva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Sun, 01 Dec 2024 19:51:12 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-gb</language><copyright>© 2026 Artur L Gower</copyright><lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://arturgower.github.io/img/icon-192.png</url>
       <title>Paulo S Piva</title>
       <link>https://arturgower.github.io/authors/paulo-s-piva/</link>
     </image>
+    
+    <item>
+      <title>Designing band gaps with randomly distributed sub-wavelength Helmholtz resonators</title>
+      <link>https://arturgower.github.io/publication/complex-materials/helmholtz-band-gaps/</link>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://arturgower.github.io/publication/complex-materials/helmholtz-band-gaps/</guid>
+      <description>&lt;div class=&#34;erratum-box&#34; role=&#34;note&#34; aria-label=&#34;Erratum&#34;&gt;
+  &lt;p class=&#34;erratum-box-title&#34;&gt;&lt;i class=&#34;fas fa-exclamation-circle&#34; aria-hidden=&#34;true&#34;&gt;&lt;/i&gt; Erratum
+  &lt;/p&gt;
+  &lt;div class=&#34;erratum-box-body&#34;&gt;
+    &lt;p&gt;Equation (12) for the T-matrix of a Helmholtz resonator has two sign errors. It should read exactly as Eq. (6): the term proportional to the resonance factor $z(\lambda)$ should have a minus sign, and its exponential should be $\mathrm e^{-\mathrm i(n-p)\theta_0}$. With the wrong sign in front of $z(\lambda)$, the T-matrix would not conserve energy. The wrong sign in the exponent only reverses the direction in which the aperture angle $\theta_0$ is measured. No result in the paper is affected, because the orientation-averaged T-matrix, Eq. (13), and our code in &lt;a href=&#34;https://github.com/JuliaWaveScattering/MultipleScattering.jl&#34;&gt;MultipleScattering.jl&lt;/a&gt; both use the correct form, Eq. (6).&lt;/p&gt;
+
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is well-known that band gaps, in the frequency domain, can be achieved by using periodic metamaterials. However it has been challenging to design materials with broad band gaps or that have multiple overlapping band gaps. For periodic materials this difficulty arises because many different length scales would have to be repeated periodically within the same structure to have multiple overlapping band gaps. Here we present an alternative: to design band gaps with disordered materials. We show how to tailor band gaps by choosing any combination of Helmholtz resonators that are positioned randomly within a host acoustic medium. One key result is that we are able to reach simple formulae for the effective material properties, which work over a broad frequency range, and can therefore be used to rapidly design tailored metamaterials. We show that these formulae are robust by comparing them with high-fidelity Monte Carlo simulations over randomly positioned resonant scatterers.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;demultiplexer.jpg&#34; data-caption=&#34;A frequency demultiplexer made from randomly placed Helmholtz resonators. A plane wave travels from right to left and the waveguide splits in two at $x = 5$ cm. The resonators in the top waveguide (green) filter out wavelengths close to 34.1 mm, while those in the bottom waveguide (magenta) filter out wavelengths close to 41.5 mm. The colours show the amplitude of the total wave, and the graph shows the transmission into each waveguide (Fig. 2 of the paper).&#34;&gt;
+&lt;img src=&#34;demultiplexer.jpg&#34; alt=&#34;Wave fields in two waveguides filled with randomly placed Helmholtz resonators, and a graph of the transmission into each waveguide against wavelength&#34; &gt;&lt;/a&gt;
+
+
+  
+  
+  &lt;figcaption&gt;
+    A frequency demultiplexer made from randomly placed Helmholtz resonators. A plane wave travels from right to left and the waveguide splits in two at $x = 5$ cm. The resonators in the top waveguide (green) filter out wavelengths close to 34.1 mm, while those in the bottom waveguide (magenta) filter out wavelengths close to 41.5 mm. The colours show the amplitude of the total wave, and the graph shows the transmission into each waveguide (Fig. 2 of the paper).
+  &lt;/figcaption&gt;
+
+
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Acoustic waves in a halfspace material filled with random particulate</title>

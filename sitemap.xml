@@ -2,10 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arturgower.github.io/tags/about/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
+    <loc>https://arturgower.github.io/publication_types/2/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/artur-l-gower/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/complex-materials/helmholtz-band-gaps/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/helmholtz-resonators/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/i-david-abrahams/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/metamaterials/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/multiple-scattering/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/authors/paulo-s-piva/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication_types/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/publication/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/random-media/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/</loc>
+    <lastmod>2026-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://arturgower.github.io/tags/about/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/post/cv/</loc>
@@ -15,9 +54,6 @@
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/post/</loc>
-    <lastmod>2025-12-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/</loc>
     <lastmod>2025-12-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/inverse-problems/</loc>
@@ -35,31 +71,16 @@
     <loc>https://arturgower.github.io/tags/waves/</loc>
     <lastmod>2025-12-10T10:01:38+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/publication_types/2/</loc>
-    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/authors/artur-l-gower/</loc>
-    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/authors/</loc>
+    <loc>https://arturgower.github.io/tags/elastic-waves/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/elastic-waves/bearings-inverse/</loc>
-    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/elastic-waves/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/authors/jessica-j-kent/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/authors/matheus-de-c-loures/</loc>
-    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication_types/</loc>
-    <lastmod>2025-09-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/publication/</loc>
     <lastmod>2025-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/ultrasonic-waves/</loc>
@@ -116,9 +137,6 @@
     <loc>https://arturgower.github.io/tags/particulates/</loc>
     <lastmod>2024-12-01T19:51:12+00:00</lastmod>
   </url><url>
-    <loc>https://arturgower.github.io/authors/paulo-s-piva/</loc>
-    <lastmod>2024-12-01T19:51:12+00:00</lastmod>
-  </url><url>
     <loc>https://arturgower.github.io/tags/quasi-crystalline-approximation/</loc>
     <lastmod>2024-12-01T19:51:12+00:00</lastmod>
   </url><url>
@@ -165,9 +183,6 @@
     <lastmod>2024-01-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/tags/particulate/</loc>
-    <lastmod>2024-01-02T17:43:29+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/random-media/</loc>
     <lastmod>2024-01-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/complex-materials/radial-effective/</loc>
@@ -246,9 +261,6 @@
     <lastmod>2022-09-02T17:43:29+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/complex-materials/effective-waves-3d/</loc>
-    <lastmod>2021-02-02T18:03:04+00:00</lastmod>
-  </url><url>
-    <loc>https://arturgower.github.io/tags/multiple-scattering/</loc>
     <lastmod>2021-02-02T18:03:04+00:00</lastmod>
   </url><url>
     <loc>https://arturgower.github.io/publication/elastic-waves/angled-ultrasonic-stress/</loc>
